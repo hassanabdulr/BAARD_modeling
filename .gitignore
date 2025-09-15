@@ -20,3 +20,4 @@ git
 git.pub
 log_regression_clin_only_bupropion_model.joblib
 .cache
+log_regression.ipynb
