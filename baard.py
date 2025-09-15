@@ -17,7 +17,7 @@ from upsetplot import from_indicators
 import matplotlib.pyplot as plt
 
 
-## helper functions
+######## helper functions ###########
 
 def load_all_record_ids(baard_dir): ### used in generating the master sheet (to begin left joining)
     record_ids = []
@@ -231,10 +231,130 @@ def reorder_columns(master_df):
         total_inj_col = master_df.pop('total_number_injuries')
         master_df.insert(insert_pos, 'total_number_injuries', total_inj_col)
 
+    # Reorder sqrt blood marker columns to be next to their originals
+    for col in list(master_df.columns):  # use list to avoid mutation during iteration
+        if col.endswith("_sqrt"):
+            original_col = col.replace("_sqrt", "")
+            if original_col in master_df.columns:
+                # remove the sqrt column and reinsert after original
+                sqrt_col_data = master_df.pop(col)
+                insert_pos = master_df.columns.get_loc(original_col) + 1
+                master_df.insert(insert_pos, col, sqrt_col_data)
 
+    # Reorder log blood marker columns to be next to their originals
+    for col in list(master_df.columns):  # use list to avoid mutation during iteration
+        if col.endswith("_log"):
+            original_col = col.replace("_log", "")
+            if original_col in master_df.columns:
+                # remove the sqrt column and reinsert after original
+                sqrt_col_data = master_df.pop(col)
+                insert_pos = master_df.columns.get_loc(original_col) + 1
+                master_df.insert(insert_pos, col, sqrt_col_data)
+
+    # reorder had_fall and after total_number_falls
+    if 'had_fall' in master_df.columns and 'total_number_falls' in master_df.columns:
+        insert_pos = master_df.columns.get_loc('total_number_falls') + 1
+        had_fall_col = master_df.pop('had_fall')
+        master_df.insert(insert_pos, 'had_fall', had_fall_col)
+
+    # reorder BMI_extreme after bmi
+    if 'BMI_extreme' in master_df.columns and 'bmi' in master_df.columns:
+        insert_pos = master_df.columns.get_loc('bmi') + 1
+        bmi_extreme_col = master_df.pop('BMI_extreme')
+        master_df.insert(insert_pos, 'BMI_extreme', bmi_extreme_col)
+
+        # rorder years_with_depression to be after age
+    if 'years_with_depression' in master_df.columns and 'age' in master_df.columns:
+        insert_pos = master_df.columns.get_loc('age') + 1
+        years_col_data = master_df.pop('years_with_depression')
+        master_df.insert(insert_pos, 'years_with_depression', years_col_data)
+
+    
+
+        
     return master_df
 
-# master sheet creation
+
+
+
+def compute_response_delta(row):
+    # Try using MADRS scores first
+    madrs_baseline = row.get("baseline_madrs")
+    madrs_w10 = row.get("week10_madrs")
+
+    if pd.notna(madrs_baseline) and pd.notna(madrs_w10) and madrs_baseline != 0:
+        delta = (madrs_baseline - madrs_w10) / madrs_baseline * 100
+        return round(delta)
+
+    # If MADRS data isn't available, fallback to PHQ-9 scores
+    phq9_baseline = row.get("baseline_phq9")
+    phq9_w10 = row.get("week10_phq9")
+
+    if pd.notna(phq9_baseline) and pd.notna(phq9_w10) and phq9_baseline != 0:
+        delta = (phq9_baseline - phq9_w10) / phq9_baseline * 100
+        return round(delta)
+
+    # If neither is available, return NaN
+    return np.nan
+
+def add_sqrt_blood_markers(df):
+    """
+    Applies square root transformation to all relevant numeric blood marker columns
+    and adds new columns with a '_sqrt' suffix.
+
+    Args:
+        df (pd.DataFrame): The DataFrame containing blood markers.
+
+    Returns:
+        pd.DataFrame: DataFrame with new sqrt-transformed columns.
+    """
+    blood_marker_cols = [
+        'IL-6', 'gp130', 'IL-8/CXCL8', 'uPAR', 'MIF',
+        'CCL2/JE/MCP-1', 'Osteoprotegerin/TNFRSF11B', 'IL-1 beta/IL-1F2',
+        'CCL20/MIP-3 alpha', 'CCL3/MIP-1 alpha', 'CCL4/MIP-1 beta',
+        'CCL13/MCP-4', 'GM-CSF', 'ICAM-1/CD54', 'TNF RII/TNFRSF1B',
+        'TNF RI/TNFRSF1A', 'PIGF', 'CXCL1/GRO alpha/KC/CINC-1',
+        'IGFBP-2', 'TIMP-1', 'IGFBP-6', 'Angiogenin'
+    ]
+
+    for col in blood_marker_cols:
+        if col in df.columns:
+            numeric_series = pd.to_numeric(df[col], errors='coerce')  # force numeric, coerce errors to NaN
+            df[f"{col}_sqrt"] = np.where(numeric_series >= 0, np.sqrt(numeric_series), np.nan)
+
+    return df
+
+
+
+def add_log_blood_markers(df):
+    """
+    natural log transformation to all relevant  blood marker columns
+    and adds new columns with a '_log' suffix. Only non-negative and non-zero values are transformed;
+    others are set to NaN.
+
+    Args:
+        df (pd.DataFrame): The DataFrame containing blood markers.
+
+    Returns:
+        pd.DataFrame: DataFrame with new log-transformed columns.
+    """
+    blood_marker_cols = [
+        'IL-6', 'gp130', 'IL-8/CXCL8', 'uPAR', 'MIF',
+        'CCL2/JE/MCP-1', 'Osteoprotegerin/TNFRSF11B', 'IL-1 beta/IL-1F2',
+        'CCL20/MIP-3 alpha', 'CCL3/MIP-1 alpha', 'CCL4/MIP-1 beta',
+        'CCL13/MCP-4', 'GM-CSF', 'ICAM-1/CD54', 'TNF RII/TNFRSF1B',
+        'TNF RI/TNFRSF1A', 'PIGF', 'CXCL1/GRO alpha/KC/CINC-1',
+        'IGFBP-2', 'TIMP-1', 'IGFBP-6', 'Angiogenin'
+    ]
+
+    for col in blood_marker_cols:
+        if col in df.columns:
+            numeric_series = pd.to_numeric(df[col], errors='coerce')  # force numeric, coerce errors to NaN
+            df[f"{col}_log"] = np.where(numeric_series > 0, np.log(numeric_series), np.nan)
+
+    return df
+
+######## master sheet creation #############
 
 # make master dataframe by adding all record_ids into one column and then drop the duplicates
 def make_master_df():
@@ -249,7 +369,10 @@ def make_master_df():
     madras = pd.read_csv(f"{baard_dir}/temp/processed/OPT_madrs.csv")
     phq9 = pd.read_csv(f"{baard_dir}/temp/processed/OPT_phq9.csv")
     core_variables = pd.read_csv(f"{baard_dir}/temp/processed/OPT_demographics.csv")
-    nih_toolbox = pd.read_csv(f"{baard_dir}/clin/processed/nihtb_AF.csv")
+    opt_mini = pd.read_csv(f"{baard_dir}/temp/processed/OPT_mini.csv")
+    OPT_athf = pd.read_csv(f"{baard_dir}/temp/processed/OPT_ATHF.csv")
+    nih_toolbox_cog = pd.read_csv(f"{baard_dir}/temp/processed/OPT_nih_toolbox_cog.csv")
+    nih_toolbox_motor = pd.read_csv(f"{baard_dir}/temp/processed/OPT_nih_toolbox_motor.csv")
     meds_df = pd.read_csv(f"{baard_dir}/temp/processed/OPT_decision_support.csv")
     neurocog_df = pd.read_csv(f"{baard_dir}/temp/processed/baseline_indexscores.csv")
     falls_df = pd.read_csv(f"{baard_dir}/temp/processed/OPT_falls.csv")
@@ -258,6 +381,7 @@ def make_master_df():
     fmri_df = pd.read_csv(f"{baard_dir}/mri/fmri/processed/OPT_baseline_connectivity_Network_Connectivity.csv")
     dwi_df = pd.read_csv(f"{baard_dir}/mri/dwi/processed/FA_2024.csv").drop(columns=['subjects'], errors='ignore')
     baseline_date_df = pd.read_csv(f"{baard_dir}/temp/processed/OPT_baseline_date.csv")
+    genetics_df = pd.read_csv(f"{baard_dir}/temp/processed/OPT_genetics.csv")
 
     # Merge
     master_df = (master_df
@@ -266,11 +390,15 @@ def make_master_df():
         .merge(madras, on="record_id", how="left")
         .merge(phq9, on="record_id", how="left")
         .merge(core_variables, on="record_id", how="left")
+        .merge(opt_mini, on="record_id", how="left")
+        .merge(OPT_athf, on="record_id", how="left")
         .merge(meds_df, on="record_id", how="left")
         .merge(neurocog_df, on="record_id", how="left")
-        .merge(nih_toolbox, on="record_id", how="left")
+        .merge(nih_toolbox_cog, on="record_id", how="left")
+        .merge(nih_toolbox_motor, on="record_id", how="left")
         .merge(falls_df, on="record_id", how="left")
         .merge(blood_df, on="record_id", how="left")
+        .merge(genetics_df, on="record_id", how="left")
         .merge(smri_df, on="record_id", how="left")
         .merge(fmri_df, on="record_id", how="left")
         .merge(dwi_df, on="record_id", how="left")
@@ -315,8 +443,27 @@ def make_master_df():
 
 
 
+    # Compute percent change in symptoms from baseline to week 10 using MADRS or PHQ9
+    master_df["response_delta"] = master_df.apply(compute_response_delta, axis=1)
+    #make response_status flag, that captures if someone has responded more than 50%
+    master_df["response_status"] = master_df["response_delta"].apply(lambda x: 1 if x >= 50 else 0)
+
+        # add had_fall binarized variable
+    master_df['had_fall'] = (master_df['total_number_falls'] > 0).astype(int)
+
+    # add new varaible BMI_extremer, where 1 = bmi > 40 or < 20, binary variables
+    master_df['BMI_extreme'] = ((master_df['bmi'] > 40) | (master_df['bmi'] < 20)).astype(int)
 
 
+
+    master_df=add_sqrt_blood_markers(master_df)
+
+    master_df=add_log_blood_markers(master_df)
+
+
+    # compute years_with_depression using difference between age and mini_addtl_q2(age at first depression episode)
+    master_df['mini_addtl_q2_numeric'] = pd.to_numeric(master_df['mini_addtl_q2'], errors='coerce')
+    master_df['years_with_depression'] = master_df['age'] - master_df['mini_addtl_q2_numeric']
 
     # use reorder_columns to reorder the columns in the master_df
     master_df = reorder_columns(master_df)
