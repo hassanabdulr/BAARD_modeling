@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *.pyo
+baard_roc_figures.ipynb
 
 # Jupyter
 .ipynb_checkpoints/
@@ -9,3 +10,13 @@ __pycache__/
 # OS cruft
 .DS_Store
 Thumbs.db
+
+# Results BAARD_CAMH folder
+Results/
+Baard_CAMH/
+.conda/
+brain_coef_maps/
+git
+git.pub
+log_regression_clin_only_bupropion_model.joblib
+.cache
