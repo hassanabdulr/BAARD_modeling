@@ -1,0 +1,851 @@
+record_id,site,gender,race,ethnicity,edu_lvl,age,bmi,step1_rand_group,step1_rand_date
+CU10001,CU,Male,White,Non-Hispanic,13.0,68.0,31.52,nan,
+CU10002,CU,Female,White,Non-Hispanic,19.0,71.0,25.69,nan,
+CU10003,CU,Male,White,Non-Hispanic,16.0,62.0,27.22,nan,
+CU10004,CU,Male,White,Non-Hispanic,20.0,62.0,28.36,nan,
+CU10005,CU,Male,White,Non-Hispanic,14.0,63.0,36.47,nan,
+CU10006,CU,Female,Other,Hispanic/Latino,6.0,66.0,34.6,nan,
+CU10007,CU,Female,White,Non-Hispanic,18.0,64.0,23.69,nan,
+CU10008,CU,Female,Multi-race,Hispanic/Latino,16.0,65.0,32.74,nan,
+CU10009,CU,Male,White,Non-Hispanic,13.0,63.0,23.71,nan,
+CU10010,CU,Male,White,Non-Hispanic,19.0,62.0,27.62,nan,
+CU10011,CU,Male,White,Non-Hispanic,16.0,61.0,41.02,nan,
+CU10012,CU,Female,White,Non-Hispanic,16.0,60.0,21.21,nan,
+CU10013,CU,Male,White,Non-Hispanic,16.0,63.0,34.36,nan,
+CU10014,CU,Female,Other,Hispanic/Latino,14.0,72.0,26.26,nan,
+CU10015,CU,Female,Black/African American,Non-Hispanic,12.0,76.0,24.45,nan,
+CU10016,CU,Female,White,Non-Hispanic,14.0,63.0,21.91,nan,
+CU10017,CU,Female,Multi-race,Hispanic/Latino,12.0,67.0,26.56,nan,
+CU10018,CU,Female,Asian,Non-Hispanic,20.0,74.0,29.06,nan,
+CU10019,CU,Female,Black/African American,Non-Hispanic,18.0,69.0,39.7,nan,
+CU10020,CU,Male,White,Non-Hispanic,16.0,76.0,22.72,nan,
+CU10021,CU,Male,White,Non-Hispanic,18.0,82.0,28.59,nan,
+CU10022,CU,Male,White,Non-Hispanic,15.0,67.0,32.41,nan,
+CU10023,CU,Female,White,Non-Hispanic,16.0,70.0,25.7,nan,
+CU10024,CU,Female,White,Non-Hispanic,,86.0,26.45,nan,
+CU10025,CU,Female,White,Non-Hispanic,12.0,89.0,22.48,nan,
+CU10026,CU,Female,Multi-race,Hispanic/Latino,7.0,70.0,32.73,nan,
+CU10027,CU,Female,Other,Hispanic/Latino,12.0,60.0,,nan,
+CU10028,CU,Female,White,Non-Hispanic,20.0,69.0,28.7,nan,
+CU10029,CU,Female,Other,Hispanic/Latino,9.0,65.0,,nan,
+CU10030,CU,Female,Other,Hispanic/Latino,9.0,71.0,31.43,nan,
+CU10031,CU,Female,Black/African American,Non-Hispanic,18.0,62.0,33.91,nan,
+CU10032,CU,Male,Other,Hispanic/Latino,11.0,71.0,,nan,
+CU10033,CU,Female,White,Non-Hispanic,18.0,71.0,22.49,nan,
+CU10034,CU,Female,Black/African American,Non-Hispanic,11.0,61.0,35.56,nan,
+CU10035,CU,Male,White,Non-Hispanic,16.0,74.0,33.76,nan,
+CU10036,CU,Female,Black/African American,Hispanic/Latino,12.0,72.0,29.21,nan,
+CU10037,CU,Female,Multi-race,Hispanic/Latino,14.0,62.0,39.07,nan,
+CU10038,CU,Male,White,Non-Hispanic,15.0,61.0,36.31,nan,
+CU10039,CU,Female,Black/African American,Hispanic/Latino,14.0,60.0,40.58,nan,
+CU10040,CU,Female,Other,Hispanic/Latino,2.0,78.0,32.64,nan,
+CU10041,CU,Male,White,Non-Hispanic,20.0,89.0,24.77,nan,
+CU10043,CU,Male,White,Non-Hispanic,14.0,63.0,40.81,nan,
+CU10044,CU,Male,White,Non-Hispanic,14.0,77.0,24.13,nan,
+CU10045,CU,Female,White,Non-Hispanic,18.0,63.0,19.03,nan,
+CU10046,CU,Female,Multi-race,Hispanic/Latino,12.0,61.0,25.24,nan,
+CU10049,CU,Male,White,Non-Hispanic,18.0,72.0,30.7,nan,
+CU10050,CU,Male,White,Non-Hispanic,14.0,88.0,25.26,nan,
+CU10051,CU,Female,White,Non-Hispanic,18.0,66.0,,nan,
+CU10052,CU,Male,White,Non-Hispanic,16.0,73.0,27.42,nan,
+CU10053,CU,Male,White,Non-Hispanic,18.0,73.0,25.83,nan,
+CU10054,CU,Female,Other,Hispanic/Latino,4.0,61.0,,nan,
+CU10055,CU,Female,White,Non-Hispanic,17.0,81.0,32.02,nan,
+CU10056,CU,Female,White,Non-Hispanic,20.0,75.0,31.81,nan,
+CU10057,CU,Male,White,Non-Hispanic,18.0,69.0,,nan,
+CU10058,CU,Female,Black/African American,Hispanic/Latino,9.0,61.0,27.75,nan,
+CU10059,CU,Female,Black/African American,Non-Hispanic,15.0,64.0,37.22,nan,
+CU10060,CU,Female,White,Non-Hispanic,16.0,63.0,26.74,nan,
+CU10061,CU,Female,Other,Hispanic/Latino,16.0,79.0,28.7,nan,
+CU10062,CU,Female,White,Hispanic/Latino,8.0,84.0,31.26,nan,
+CU10063,CU,Female,White,Non-Hispanic,12.0,85.0,25.02,nan,
+CU10064,CU,Female,Black/African American,Hispanic/Latino,,76.0,,nan,
+CU10065,CU,Male,Black/African American,Hispanic/Latino,14.0,68.0,29.67,nan,
+CU10066,CU,Male,Black/African American,Non-Hispanic,12.0,87.0,25.95,nan,
+CU10067,CU,Female,Other,Hispanic/Latino,4.0,73.0,,nan,
+CU10068,CU,Female,White,Non-Hispanic,13.0,66.0,53.65,nan,
+CU10069,CU,Male,Multi-race,Non-Hispanic,16.0,69.0,30.61,nan,
+CU10070,CU,Female,White,Non-Hispanic,19.0,66.0,35.95,nan,
+CU10071,CU,Male,Other,Hispanic/Latino,13.0,67.0,33.84,nan,
+CU10072,CU,Male,White,Non-Hispanic,12.0,78.0,27.43,nan,
+CU10073,CU,Female,White,Non-Hispanic,2.0,66.0,31.87,nan,
+CU10074,CU,Female,White,Non-Hispanic,18.0,71.0,37.89,nan,
+CU10075,CU,Female,White,Non-Hispanic,18.0,81.0,20.85,nan,
+CU10076,CU,Female,White,Non-Hispanic,18.0,77.0,24.37,nan,
+CU10077,CU,Female,Other,Hispanic/Latino,14.0,62.0,44.19,nan,
+CU10078,CU,Female,Black/African American,Non-Hispanic,14.0,65.0,38.11,nan,
+CU10079,CU,Female,White,Non-Hispanic,18.0,84.0,21.27,nan,
+CU10081,CU,Male,White,Non-Hispanic,16.0,60.0,30.3,nan,
+CU10082,CU,Male,White,Non-Hispanic,16.0,71.0,25.05,nan,
+CU10083,CU,Female,White,Non-Hispanic,17.0,70.0,26.3,nan,
+CU10084,CU,Female,White,Non-Hispanic,18.0,79.0,27.13,nan,
+CU10085,CU,Male,White,Non-Hispanic,18.0,63.0,31.33,nan,
+CU10086,CU,Female,White,Hispanic/Latino,15.0,70.0,30.46,nan,
+CU10088,CU,Female,Other,Hispanic/Latino,6.0,70.0,32.77,nan,
+CU10089,CU,Male,White,Non-Hispanic,18.0,65.0,24.7,nan,
+CU10090,CU,Female,White,Non-Hispanic,16.0,78.0,18.82,nan,
+CU10091,CU,Male,White,Non-Hispanic,13.0,80.0,16.41,nan,
+CU10093,CU,Female,White,Non-Hispanic,16.0,65.0,18.83,nan,
+CU10094,CU,Male,White,Non-Hispanic,,82.0,,nan,
+CU10095,CU,Male,White,Hispanic/Latino,8.0,72.0,29.4,nan,
+CU10096,CU,Female,White,Non-Hispanic,16.0,76.0,24.52,nan,
+CU10097,CU,Male,White,Non-Hispanic,19.0,64.0,27.29,nan,
+CU10098,CU,Male,White,Hispanic/Latino,5.0,76.0,21.93,nan,
+CU10099,CU,Female,White,Non-Hispanic,14.0,73.0,27.99,nan,
+CU10100,CU,Female,White,Non-Hispanic,12.0,68.0,,nan,
+CU10101,CU,Male,White,Non-Hispanic,17.0,61.0,30.68,nan,
+CU10102,CU,Female,White,Non-Hispanic,18.0,73.0,18.31,nan,
+CU10103,CU,Female,White,Non-Hispanic,16.0,66.0,26.31,nan,
+CU10104,CU,Female,White,Non-Hispanic,19.0,62.0,49.6,nan,
+CU10105,CU,Male,White,Non-Hispanic,15.0,70.0,21.98,nan,
+CU10106,CU,Female,Other,Hispanic/Latino,16.0,64.0,29.95,nan,
+CU10109,CU,Male,White,Non-Hispanic,18.0,66.0,43.58,nan,
+CU10110,CU,Male,Black/African American,Non-Hispanic,20.0,61.0,41.1,nan,
+CU10111,CU,Male,White,Non-Hispanic,19.0,79.0,42.78,nan,
+CU10112,CU,Female,White,Non-Hispanic,16.0,64.0,31.16,nan,
+CU10113,CU,Female,White,Non-Hispanic,17.0,62.0,36.94,nan,
+CU10114,CU,Female,Black/African American,Non-Hispanic,16.0,60.0,29.41,nan,
+CU10115,CU,Male,White,Non-Hispanic,18.0,62.0,30.65,nan,
+CU10116,CU,Female,White,Hispanic/Latino,4.0,65.0,34.41,nan,
+CU10119,CU,Female,Asian,Non-Hispanic,18.0,60.0,22.14,nan,
+CU10121,CU,Female,White,Non-Hispanic,16.0,78.0,30.78,nan,
+CU10122,CU,Female,White,Non-Hispanic,16.0,65.0,33.91,nan,
+CU10123,CU,Male,White,Non-Hispanic,19.0,63.0,32.72,nan,
+CU10125,CU,Female,Other,Hispanic/Latino,12.0,74.0,28.89,nan,
+CU10128,CU,Female,White,Non-Hispanic,16.0,62.0,28.95,nan,
+CU10129,CU,Female,Black/African American,Non-Hispanic,14.0,60.0,,nan,
+CU10130,CU,Female,Multi-race,Non-Hispanic,12.0,67.0,34.84,nan,
+CU10131,CU,Male,White,Non-Hispanic,15.0,70.0,21.63,nan,
+CU10132,CU,Male,White,Non-Hispanic,18.0,78.0,25.98,nan,
+CU10133,CU,Female,White,Non-Hispanic,16.0,62.0,26.96,nan,
+CU10134,CU,Female,Other,Hispanic/Latino,16.0,62.0,,nan,
+CU10135,CU,Female,White,Non-Hispanic,12.0,73.0,,nan,
+CU10137,CU,Male,White,Non-Hispanic,16.0,78.0,35.14,nan,
+CU10138,CU,Female,White,Hispanic/Latino,15.0,60.0,33.62,nan,
+CU10140,CU,Female,Black/African American,Non-Hispanic,16.0,68.0,25.73,nan,
+CU10141,CU,Female,White,Non-Hispanic,16.0,61.0,20.93,nan,
+CU10142,CU,Female,White,Non-Hispanic,16.0,61.0,22.77,nan,
+CU10145,CU,Female,White,Non-Hispanic,18.0,63.0,24.99,nan,
+CU10146,CU,Female,White,Non-Hispanic,18.0,66.0,39.64,nan,
+CU10147,CU,Male,White,Non-Hispanic,16.0,71.0,26.62,nan,
+CU10148,CU,Female,White,Non-Hispanic,15.0,70.0,37.77,nan,
+LA10001,LA,Male,Other,Hispanic/Latino,16.0,73.0,22.37,2,2017-06-15 00:00:00
+LA10002,LA,Male,White,Non-Hispanic,20.0,71.0,42.58,2,2017-06-20 00:00:00
+LA10003,LA,Male,White,Non-Hispanic,16.0,66.0,28.73,4,Not Applicable
+LA10004,LA,Female,White,Non-Hispanic,13.0,84.0,28.52,1,2017-09-14 00:00:00
+LA10005,LA,Female,White,Non-Hispanic,16.0,67.0,20.89,1,2017-07-20 00:00:00
+LA10006,LA,Female,White,Non-Hispanic,15.0,62.0,33.99,2,2017-09-13 00:00:00
+LA10007,LA,Male,White,Non-Hispanic,12.0,69.0,25.53,2,2017-07-12 00:00:00
+LA10008,LA,Female,White,Non-Hispanic,13.0,75.0,22.97,1,2017-07-18 00:00:00
+LA10009,LA,Male,White,Non-Hispanic,16.0,69.0,27.81,3,2017-08-03 00:00:00
+LA10010,LA,Female,White,Non-Hispanic,18.0,83.0,23.3,2,2017-09-28 00:00:00
+LA10011,LA,Male,White,Non-Hispanic,16.0,73.0,31.95,4,Not Applicable
+LA10012,LA,Female,White,Non-Hispanic,18.0,87.0,24.68,3,2017-08-29 00:00:00
+LA10013,LA,Male,White,Non-Hispanic,20.0,70.0,28.69,2,2017-10-03 00:00:00
+LA10014,LA,Female,White,Non-Hispanic,16.0,65.0,18.31,4,Not Applicable
+LA10016,LA,Male,White,Non-Hispanic,16.0,66.0,30.82,2,2017-10-31 00:00:00
+LA10017,LA,Male,White,Non-Hispanic,18.0,86.0,28.12,1,2017-10-24 00:00:00
+LA10018,LA,Female,White,Non-Hispanic,16.0,75.0,21.48,3,2017-11-17 00:00:00
+LA10019,LA,Female,White,Non-Hispanic,16.0,74.0,20.93,3,2017-11-14 00:00:00
+LA10020,LA,Female,White,Non-Hispanic,17.0,66.0,19.55,2,2017-11-28 00:00:00
+LA10021,LA,Male,White,Non-Hispanic,13.0,72.0,20.33,1,2017-11-29 00:00:00
+LA10022,LA,Male,White,Non-Hispanic,14.0,63.0,22.78,3,2017-12-05 00:00:00
+LA10023,LA,Female,White,Non-Hispanic,12.0,68.0,39.11,3,2018-01-08 00:00:00
+LA10024,LA,Male,White,Non-Hispanic,16.0,75.0,21.63,2,2018-01-16 00:00:00
+LA10025,LA,Female,White,Non-Hispanic,14.0,69.0,41.6,1,2018-01-11 00:00:00
+LA10026,LA,Female,White,Non-Hispanic,18.0,67.0,25.83,4,Not Applicable
+LA10027,LA,Female,White,Non-Hispanic,18.0,74.0,23.79,4,Not Applicable
+LA10028,LA,Male,White,Non-Hispanic,12.0,62.0,26.57,1,2018-01-31 00:00:00
+LA10029,LA,Female,White,Non-Hispanic,12.0,60.0,30.3,2,2018-02-01 00:00:00
+LA10030,LA,Male,Black/African American,Non-Hispanic,20.0,66.0,26.46,3,2018-02-06 00:00:00
+LA10031,LA,Female,White,Non-Hispanic,18.0,79.0,29.18,3,2018-02-05 00:00:00
+LA10032,LA,Male,Asian,Non-Hispanic,16.0,64.0,27.97,1,2018-02-07 00:00:00
+LA10033,LA,Female,White,Non-Hispanic,18.0,74.0,28.33,4,Not Applicable
+LA10034,LA,Female,White,Non-Hispanic,18.0,71.0,26.83,4,Not Applicable
+LA10035,LA,Male,White,Non-Hispanic,14.0,60.0,25.12,2,2018-02-21 00:00:00
+LA10036,LA,Female,White,Non-Hispanic,14.0,77.0,23.9,3,2018-03-22 00:00:00
+LA10037,LA,Female,Other,Hispanic/Latino,8.0,86.0,20.93,2,2018-03-09 00:00:00
+LA10038,LA,Male,White,Non-Hispanic,18.0,61.0,28.69,1,2018-04-09 00:00:00
+LA10039,LA,Male,White,Non-Hispanic,17.0,62.0,28.69,2,2018-05-16 00:00:00
+LA10040,LA,Male,Black/African American,Non-Hispanic,11.0,84.0,25.4,1,2018-04-03 00:00:00
+LA10041,LA,Female,White,Non-Hispanic,16.0,75.0,30.87,1,2018-04-04 00:00:00
+LA10042,LA,Male,White,Hispanic/Latino,14.0,78.0,27.42,1,2018-09-05 00:00:00
+LA10043,LA,Female,Asian,Non-Hispanic,15.0,64.0,25.97,1,2018-06-05 00:00:00
+LA10044,LA,Female,White,Non-Hispanic,16.0,69.0,30.27,3,2018-05-31 00:00:00
+LA10045,LA,Male,Black/African American,Non-Hispanic,19.0,79.0,27.31,3,2018-06-14 00:00:00
+LA10046,LA,Male,White,Non-Hispanic,20.0,77.0,27.35,2,2018-06-21 00:00:00
+LA10047,LA,Male,White,Non-Hispanic,,74.0,26.5,3,2018-11-28 00:00:00
+LA10048,LA,Male,White,Hispanic/Latino,14.0,67.0,25.1,3,2018-07-10 00:00:00
+LA10049,LA,Male,Black/African American,Non-Hispanic,14.0,73.0,27.27,2,2018-07-16 00:00:00
+LA10050,LA,Female,White,Non-Hispanic,12.0,74.0,28.35,3,2018-07-18 00:00:00
+LA10051,LA,Male,Black/African American,Non-Hispanic,11.0,85.0,26.46,1,2018-07-31 00:00:00
+LA10052,LA,Male,Multi-race,Non-Hispanic,16.0,62.0,25.1,3,2019-03-27 00:00:00
+LA10053,LA,Male,White,Non-Hispanic,16.0,81.0,25.12,1,2018-10-02 00:00:00
+LA10054,LA,Male,Black/African American,Non-Hispanic,16.0,62.0,27.6,1,2018-09-06 00:00:00
+LA10055,LA,Female,White,Non-Hispanic,15.0,67.0,23.38,2,2019-01-29 00:00:00
+LA10056,LA,Male,Black/African American,Non-Hispanic,16.0,71.0,24.81,1,2018-11-01 00:00:00
+LA10057,LA,Male,Asian,Non-Hispanic,18.0,71.0,24.4,3,2018-11-05 00:00:00
+LA10058,LA,Male,Asian,Non-Hispanic,16.0,73.0,26.62,2,2018-11-19 00:00:00
+LA10059,LA,Male,White,Non-Hispanic,19.0,78.0,28.25,2,2019-01-25 00:00:00
+LA10060,LA,Female,Black/African American,Non-Hispanic,14.0,79.0,29.52,1,2018-12-20 00:00:00
+LA10061,LA,Male,White,Non-Hispanic,12.0,70.0,37.93,2,2018-12-20 00:00:00
+LA10063,LA,Female,White,Non-Hispanic,13.0,65.0,21.24,1,2019-01-22 00:00:00
+LA10064,LA,Female,White,Non-Hispanic,18.0,65.0,31.75,3,2019-02-27 00:00:00
+LA10065,LA,Female,White,Non-Hispanic,,68.0,24.74,1,2019-02-15 00:00:00
+LA10066,LA,Male,White,Non-Hispanic,20.0,76.0,30.81,3,2019-02-13 00:00:00
+LA10067,LA,Male,White,Hispanic/Latino,16.0,81.0,21.6,1,2019-03-07 00:00:00
+LA10068,LA,Male,White,Non-Hispanic,18.0,95.0,24.27,2,2019-03-06 00:00:00
+LA10069,LA,Female,White,Non-Hispanic,14.0,76.0,37.3,2,2019-03-12 00:00:00
+LA10070,LA,Male,White,Non-Hispanic,15.0,69.0,28.89,2,2019-04-05 00:00:00
+LA10071,LA,Male,White,Non-Hispanic,16.0,86.0,22.72,3,2019-04-08 00:00:00
+LA10072,LA,Male,White,Hispanic/Latino,13.0,72.0,28.81,1,2019-04-29 00:00:00
+LA10073,LA,Male,White,Hispanic/Latino,16.0,67.0,28.08,1,2019-05-07 00:00:00
+LA10074,LA,Female,White,Non-Hispanic,13.0,66.0,30.54,3,2019-05-08 00:00:00
+LA10075,LA,Female,Black/African American,Non-Hispanic,16.0,71.0,39.31,3,2019-06-13 00:00:00
+LA10076,LA,Male,White,Non-Hispanic,14.0,91.0,28.8,3,2019-05-29 00:00:00
+LA10077,LA,Male,White,Non-Hispanic,15.0,81.0,27.72,1,2019-05-29 00:00:00
+LA10078,LA,Female,White,Non-Hispanic,12.0,68.0,28.62,2,2019-06-24 00:00:00
+LA10079,LA,Male,White,Non-Hispanic,16.0,73.0,28.25,1,2019-08-01 00:00:00
+LA10080,LA,Female,White,Non-Hispanic,18.0,75.0,39.85,2,2019-06-18 00:00:00
+LA10081,LA,Female,White,Non-Hispanic,18.0,69.0,20.49,1,2019-06-25 00:00:00
+LA10082,LA,Female,White,Non-Hispanic,14.0,80.0,34.92,3,2019-07-12 00:00:00
+LA10083,LA,Female,White,Non-Hispanic,20.0,66.0,26.67,2,2019-07-17 00:00:00
+LA10084,LA,Male,Black/African American,Non-Hispanic,13.0,72.0,29.58,2,2019-12-20 00:00:00
+LA10085,LA,Female,Black/African American,Non-Hispanic,19.0,61.0,36.28,3,2019-08-20 00:00:00
+LA10086,LA,Female,White,Non-Hispanic,10.0,60.0,30.27,2,2019-08-23 00:00:00
+LA10087,LA,Male,White,Non-Hispanic,18.0,65.0,24.14,3,2019-08-29 00:00:00
+LA10088,LA,Male,White,Non-Hispanic,16.0,67.0,27.22,3,2019-08-30 00:00:00
+LA10089,LA,Female,White,Hispanic/Latino,12.0,68.0,27.26,2,2019-09-11 00:00:00
+LA10090,LA,Female,White,Non-Hispanic,16.0,82.0,18.91,2,2019-09-17 00:00:00
+LA10091,LA,Female,White,Non-Hispanic,16.0,63.0,18.41,2,2019-11-13 00:00:00
+LA10092,LA,Male,Black/African American,Non-Hispanic,12.0,86.0,30.1,2,2019-10-01 00:00:00
+LA10093,LA,Male,White,Non-Hispanic,20.0,76.0,31.52,2,2019-09-26 00:00:00
+LA10094,LA,Female,White,Non-Hispanic,11.0,63.0,32.28,3,2019-10-07 00:00:00
+LA10095,LA,Male,White,Hispanic/Latino,17.0,67.0,27.39,3,2019-10-11 00:00:00
+LA10096,LA,Male,White,Non-Hispanic,16.0,63.0,30.34,1,2019-10-25 00:00:00
+LA10097,LA,Female,White,Hispanic/Latino,14.0,62.0,30.66,1,2019-10-30 00:00:00
+LA10099,LA,Female,White,Non-Hispanic,15.0,65.0,17.98,1,2019-11-04 00:00:00
+LA10101,LA,Female,White,Non-Hispanic,13.0,74.0,28.31,1,2019-11-26 00:00:00
+LA10102,LA,Female,White,Non-Hispanic,18.0,66.0,18.59,1,2019-12-02 00:00:00
+LA10104,LA,Female,White,Non-Hispanic,18.0,62.0,33.67,1,2019-12-11 00:00:00
+LA10105,LA,Female,White,Non-Hispanic,12.0,66.0,30.3,2,2019-12-09 00:00:00
+LA10107,LA,Female,White,Non-Hispanic,14.0,74.0,23.69,2,2019-12-12 00:00:00
+UP10001,UP,Female,White,Non-Hispanic,12.0,70.0,30.05,3,2017-03-23 00:00:00
+UP10003,UP,Male,White,Non-Hispanic,16.0,66.0,33.45,3,2017-04-05 00:00:00
+UP10004,UP,Female,White,Non-Hispanic,14.0,63.0,26.63,4,Not Applicable
+UP10005,UP,Female,White,Non-Hispanic,16.0,64.0,33.93,3,2017-04-13 00:00:00
+UP10006,UP,Female,White,Non-Hispanic,12.0,63.0,27.31,2,2017-04-17 00:00:00
+UP10007,UP,Female,Black/African American,Non-Hispanic,14.0,61.0,26.93,1,2017-04-19 00:00:00
+UP10008,UP,Male,White,Non-Hispanic,16.0,63.0,26.27,3,2017-04-25 00:00:00
+UP10009,UP,Female,White,Non-Hispanic,18.0,69.0,23.87,4,Not Applicable
+UP10010,UP,Male,White,Non-Hispanic,20.0,77.0,32.56,1,2017-05-03 00:00:00
+UP10011,UP,Female,White,Non-Hispanic,14.0,60.0,29.11,2,2017-05-03 00:00:00
+UP10012,UP,Male,White,Non-Hispanic,12.0,66.0,34.22,1,2017-05-09 00:00:00
+UP10018,UP,Female,White,Non-Hispanic,12.0,68.0,42.19,2,2017-05-30 00:00:00
+UP10020,UP,Female,White,Non-Hispanic,12.0,76.0,30.28,4,Not Applicable
+UP10021,UP,Female,White,Non-Hispanic,13.0,73.0,30.27,2,2017-06-15 00:00:00
+UP10022,UP,Female,White,Non-Hispanic,18.0,73.0,20.97,2,2017-06-21 00:00:00
+UP10024,UP,Female,White,Non-Hispanic,15.0,61.0,47.84,4,Not Applicable
+UP10026,UP,Female,Black/African American,Non-Hispanic,12.0,74.0,28.12,4,Not Applicable
+UP10027,UP,Female,White,Non-Hispanic,16.0,72.0,40.35,1,2017-07-12 00:00:00
+UP10029,UP,Male,White,Non-Hispanic,12.0,64.0,24.39,4,Not Applicable
+UP10030,UP,Male,White,Non-Hispanic,12.0,60.0,36.87,4,Not Applicable
+UP10032,UP,Female,White,Non-Hispanic,10.0,74.0,41.63,3,2017-07-26 00:00:00
+UP10033,UP,Female,Black/African American,Non-Hispanic,17.0,67.0,38.53,1,2017-08-03 00:00:00
+UP10035,UP,Male,White,Non-Hispanic,18.0,77.0,27.61,3,2017-08-16 00:00:00
+UP10036,UP,Female,White,Non-Hispanic,12.0,71.0,35.77,4,Not Applicable
+UP10037,UP,Female,White,Non-Hispanic,12.0,73.0,37.5,3,2017-08-31 00:00:00
+UP10038,UP,Male,White,Non-Hispanic,18.0,65.0,38.34,3,2017-08-31 00:00:00
+UP10039,UP,Female,White,Non-Hispanic,20.0,78.0,24.35,2,2017-08-31 00:00:00
+UP10040,UP,Female,White,Non-Hispanic,12.0,67.0,33.27,1,2017-09-13 00:00:00
+UP10041,UP,Female,White,Non-Hispanic,12.0,68.0,41.33,2,2017-09-07 00:00:00
+UP10042,UP,Male,White,Non-Hispanic,12.0,71.0,27.48,2,2017-09-07 00:00:00
+UP10043,UP,Female,White,Non-Hispanic,12.0,68.0,34.91,1,2017-09-14 00:00:00
+UP10044,UP,Female,White,Non-Hispanic,13.0,75.0,34.32,4,Not Applicable
+UP10046,UP,Female,White,Non-Hispanic,14.0,79.0,21.74,4,Not Applicable
+UP10047,UP,Female,White,Non-Hispanic,12.0,82.0,30.27,1,2017-10-06 00:00:00
+UP10049,UP,Female,White,Non-Hispanic,12.0,63.0,38.97,2,2017-10-16 00:00:00
+UP10050,UP,Male,White,Non-Hispanic,12.0,63.0,41.69,2,2017-10-18 00:00:00
+UP10051,UP,Female,White,Non-Hispanic,12.0,67.0,27.41,4,Not Applicable
+UP10052,UP,Female,White,Non-Hispanic,10.0,63.0,46.89,4,Not Applicable
+UP10053,UP,Female,White,Non-Hispanic,14.0,70.0,31.26,1,2017-11-01 00:00:00
+UP10054,UP,Male,White,Non-Hispanic,18.0,61.0,26.46,2,2017-10-31 00:00:00
+UP10055,UP,Female,White,Non-Hispanic,14.0,61.0,19.36,2,2017-11-02 00:00:00
+UP10057,UP,Female,White,Non-Hispanic,17.0,64.0,44.85,4,Not Applicable
+UP10058,UP,Female,White,Non-Hispanic,14.0,64.0,24.06,4,Not Applicable
+UP10060,UP,Female,White,Non-Hispanic,12.0,75.0,30.66,2,2017-12-08 00:00:00
+UP10061,UP,Female,White,Non-Hispanic,18.0,67.0,34.32,4,Not Applicable
+UP10062,UP,Female,White,Non-Hispanic,12.0,68.0,28.95,1,2017-11-14 00:00:00
+UP10063,UP,Female,White,Non-Hispanic,14.0,66.0,38.66,3,2017-11-15 00:00:00
+UP10065,UP,Female,White,Hispanic/Latino,18.0,66.0,22.0,1,2018-01-26 00:00:00
+UP10066,UP,Male,White,Non-Hispanic,12.0,68.0,31.39,3,2017-12-13 00:00:00
+UP10067,UP,Female,White,Non-Hispanic,12.0,61.0,33.22,1,2017-11-27 00:00:00
+UP10068,UP,Male,White,Hispanic/Latino,12.0,64.0,32.96,3,2017-11-30 00:00:00
+UP10070,UP,Male,White,Non-Hispanic,16.0,65.0,42.04,4,Not Applicable
+UP10071,UP,Female,White,Non-Hispanic,18.0,63.0,24.37,2,2017-12-01 00:00:00
+UP10072,UP,Female,White,Non-Hispanic,12.0,89.0,25.24,3,2017-12-06 00:00:00
+UP10074,UP,Female,Other,Non-Hispanic,16.0,63.0,31.81,1,2017-12-14 00:00:00
+UP10075,UP,Female,White,Non-Hispanic,12.0,87.0,29.28,2,2017-12-11 00:00:00
+UP10076,UP,Female,White,Non-Hispanic,20.0,67.0,41.21,3,2017-12-13 00:00:00
+UP10077,UP,Female,White,Non-Hispanic,17.0,61.0,31.71,3,2017-12-14 00:00:00
+UP10079,UP,Female,White,Non-Hispanic,16.0,71.0,34.17,1,2018-01-08 00:00:00
+UP10080,UP,Male,White,Non-Hispanic,16.0,66.0,29.04,1,2018-01-17 00:00:00
+UP10081,UP,Female,White,Non-Hispanic,16.0,71.0,35.52,2,2018-02-14 00:00:00
+UP10082,UP,Female,White,Non-Hispanic,12.0,64.0,36.32,2,2018-01-22 00:00:00
+UP10083,UP,Female,White,Non-Hispanic,14.0,75.0,25.24,3,2018-01-23 00:00:00
+UP10085,UP,Female,White,Non-Hispanic,16.0,70.0,36.01,3,2018-02-01 00:00:00
+UP10086,UP,Male,White,Non-Hispanic,10.0,61.0,38.01,2,2018-03-14 00:00:00
+UP10087,UP,Female,White,Non-Hispanic,14.0,62.0,34.72,2,2018-02-13 00:00:00
+UP10088,UP,Female,White,Non-Hispanic,12.0,73.0,20.54,1,2018-02-14 00:00:00
+UP10090,UP,Female,White,Non-Hispanic,13.0,67.0,24.9,4,Not Applicable
+UP10091,UP,Male,White,Non-Hispanic,12.0,76.0,25.83,2,2018-02-27 00:00:00
+UP10092,UP,Male,White,Non-Hispanic,15.0,66.0,38.89,1,2018-03-14 00:00:00
+UP10093,UP,Male,White,Non-Hispanic,12.0,64.0,35.95,3,2018-03-09 00:00:00
+UP10094,UP,Female,White,Non-Hispanic,18.0,63.0,27.97,1,2018-03-14 00:00:00
+UP10096,UP,Female,White,Non-Hispanic,14.0,66.0,27.06,4,Not Applicable
+UP10098,UP,Female,Hawaiian/Pacific Islander,Non-Hispanic,16.0,66.0,48.06,2,2018-03-27 00:00:00
+UP10099,UP,Female,White,Non-Hispanic,18.0,71.0,20.35,1,2018-03-26 00:00:00
+UP10101,UP,Female,White,Non-Hispanic,16.0,60.0,23.15,3,2018-03-30 00:00:00
+UP10103,UP,Female,White,Non-Hispanic,14.0,67.0,33.22,1,2018-04-04 00:00:00
+UP10104,UP,Female,White,Non-Hispanic,18.0,65.0,24.2,3,2018-04-04 00:00:00
+UP10105,UP,Male,White,Non-Hispanic,16.0,70.0,25.41,1,2018-04-11 00:00:00
+UP10107,UP,Female,White,Non-Hispanic,17.0,70.0,22.14,1,2019-01-04 00:00:00
+UP10108,UP,Female,White,Non-Hispanic,14.0,82.0,30.7,3,2018-04-17 00:00:00
+UP10109,UP,Male,White,Non-Hispanic,20.0,70.0,23.57,4,Not Applicable
+UP10110,UP,Female,White,Non-Hispanic,18.0,66.0,34.53,4,Not Applicable
+UP10111,UP,Female,White,Non-Hispanic,18.0,66.0,21.79,3,2018-04-24 00:00:00
+UP10112,UP,Female,White,Non-Hispanic,11.0,70.0,18.34,3,2018-04-26 00:00:00
+UP10113,UP,Female,White,Non-Hispanic,18.0,62.0,45.19,1,2018-04-30 00:00:00
+UP10114,UP,Female,White,Non-Hispanic,16.0,61.0,27.43,3,2018-05-09 00:00:00
+UP10124,UP,Female,White,Non-Hispanic,12.0,65.0,30.7,4,Not Applicable
+UP10125,UP,Female,White,Non-Hispanic,13.0,69.0,34.41,4,Not Applicable
+UP10126,UP,Female,White,Non-Hispanic,17.0,79.0,32.43,4,Not Applicable
+UP10128,UP,Male,White,Non-Hispanic,15.0,73.0,34.87,3,2018-06-08 00:00:00
+UP10130,UP,Male,White,Non-Hispanic,18.0,70.0,24.06,2,2018-06-26 00:00:00
+UP10131,UP,Male,White,Non-Hispanic,14.0,68.0,28.56,2,2018-06-28 00:00:00
+UP10132,UP,Female,White,Non-Hispanic,16.0,73.0,47.44,2,2018-08-08 00:00:00
+UP10133,UP,Female,White,Non-Hispanic,12.0,65.0,27.42,1,2018-07-16 00:00:00
+UP10134,UP,Female,White,Non-Hispanic,18.0,63.0,35.26,2,2018-07-19 00:00:00
+UP10135,UP,Female,White,Non-Hispanic,12.0,70.0,29.28,1,2018-07-23 00:00:00
+UP10136,UP,Female,Black/African American,Non-Hispanic,12.0,66.0,22.97,2,2018-08-13 00:00:00
+UP10137,UP,Male,White,Non-Hispanic,16.0,60.0,27.35,1,2018-08-31 00:00:00
+UP10138,UP,Female,White,Non-Hispanic,13.0,85.0,27.26,3,2018-09-04 00:00:00
+UP10140,UP,Female,White,Non-Hispanic,14.0,67.0,28.14,3,2018-09-11 00:00:00
+UP10141,UP,Female,Black/African American,Non-Hispanic,12.0,61.0,36.83,3,2018-09-21 00:00:00
+UP10142,UP,Male,White,Non-Hispanic,12.0,64.0,22.11,2,2018-09-21 00:00:00
+UP10143,UP,Male,White,Non-Hispanic,16.0,61.0,53.93,1,2018-10-16 00:00:00
+UP10144,UP,Female,White,Non-Hispanic,14.0,65.0,28.29,2,2018-10-16 00:00:00
+UP10145,UP,Male,White,Non-Hispanic,15.0,66.0,26.41,1,2018-10-31 00:00:00
+UP10146,UP,Female,White,Non-Hispanic,14.0,90.0,24.99,3,2018-11-12 00:00:00
+UP10147,UP,Female,White,Non-Hispanic,12.0,79.0,40.73,1,2018-11-06 00:00:00
+UP10148,UP,Female,White,Non-Hispanic,16.0,67.0,20.62,2,2018-11-19 00:00:00
+UP10149,UP,Male,White,Non-Hispanic,12.0,72.0,28.06,1,2018-10-10 00:00:00
+UP10150,UP,Female,White,Non-Hispanic,16.0,64.0,38.97,3,2018-11-15 00:00:00
+UP10151,UP,Male,White,Non-Hispanic,16.0,76.0,28.18,2,2018-11-16 00:00:00
+UP10152,UP,Female,White,Non-Hispanic,12.0,70.0,25.52,2,2018-11-29 00:00:00
+UP10153,UP,Female,White,Non-Hispanic,14.0,82.0,30.4,2,2018-12-19 00:00:00
+UP10154,UP,Male,White,Non-Hispanic,13.0,69.0,25.1,2,2018-12-13 00:00:00
+UP10155,UP,Female,White,Hispanic/Latino,18.0,60.0,35.19,3,2018-12-06 00:00:00
+UP10156,UP,Female,White,Non-Hispanic,14.0,65.0,37.77,1,2019-01-16 00:00:00
+UP10157,UP,Female,White,Non-Hispanic,12.0,65.0,42.3,3,2018-12-10 00:00:00
+UP10158,UP,Female,White,Non-Hispanic,16.0,66.0,42.78,2,2018-12-14 00:00:00
+UP10160,UP,Female,White,Non-Hispanic,14.0,65.0,42.58,1,2019-01-04 00:00:00
+UP10161,UP,Female,White,Non-Hispanic,14.0,64.0,24.8,3,2019-01-10 00:00:00
+UP10163,UP,Female,White,Non-Hispanic,12.0,64.0,24.03,1,2019-01-09 00:00:00
+UP10165,UP,Female,White,Non-Hispanic,14.0,72.0,37.11,1,2019-01-23 00:00:00
+UP10167,UP,Female,White,Non-Hispanic,12.0,77.0,24.64,1,2019-02-05 00:00:00
+UP10168,UP,Male,White,Non-Hispanic,13.0,81.0,29.0,3,2019-02-12 00:00:00
+UP10169,UP,Female,White,Non-Hispanic,13.0,67.0,27.35,1,2019-02-11 00:00:00
+UP10170,UP,Female,White,Non-Hispanic,14.0,66.0,41.6,1,2019-03-14 00:00:00
+UP10171,UP,Female,White,Non-Hispanic,14.0,71.0,34.77,2,2019-02-14 00:00:00
+UP10172,UP,Male,White,Non-Hispanic,14.0,84.0,39.48,3,2019-02-20 00:00:00
+UP10173,UP,Female,White,Non-Hispanic,18.0,61.0,33.96,2,2019-03-05 00:00:00
+UP10175,UP,Female,White,Non-Hispanic,18.0,63.0,24.2,2,2019-02-22 00:00:00
+UP10176,UP,Female,Multi-race,Non-Hispanic,12.0,67.0,38.78,3,2019-03-05 00:00:00
+UP10178,UP,Female,White,Non-Hispanic,12.0,62.0,53.23,3,2019-03-07 00:00:00
+UP10179,UP,Female,White,Non-Hispanic,14.0,64.0,33.07,1,2019-03-13 00:00:00
+UP10180,UP,Female,White,Non-Hispanic,14.0,79.0,35.19,2,2019-04-09 00:00:00
+UP10183,UP,Male,Black/African American,Non-Hispanic,13.0,65.0,20.45,3,2019-04-23 00:00:00
+UP10184,UP,Female,White,Non-Hispanic,16.0,71.0,34.16,1,2019-05-06 00:00:00
+UP10185,UP,Female,White,Non-Hispanic,12.0,86.0,21.48,2,2019-04-30 00:00:00
+UP10186,UP,Male,White,Non-Hispanic,18.0,68.0,24.29,3,2019-05-01 00:00:00
+UP10187,UP,Female,White,Non-Hispanic,12.0,75.0,29.85,3,2019-05-07 00:00:00
+UP10188,UP,Male,White,Non-Hispanic,12.0,72.0,40.71,1,2019-05-03 00:00:00
+UP10189,UP,Female,White,Non-Hispanic,,72.0,38.26,3,2019-05-08 00:00:00
+UP10190,UP,Female,White,Non-Hispanic,16.0,71.0,25.73,2,2019-05-09 00:00:00
+UP10191,UP,Female,White,Non-Hispanic,12.0,91.0,27.42,3,2019-05-15 00:00:00
+UP10193,UP,Male,White,Non-Hispanic,20.0,61.0,32.27,3,2019-05-16 00:00:00
+UP10196,UP,Female,White,Non-Hispanic,12.0,61.0,30.78,1,2019-05-23 00:00:00
+UP10197,UP,Female,Black/African American,Non-Hispanic,12.0,62.0,47.62,2,2019-05-28 00:00:00
+UP10198,UP,Female,White,Non-Hispanic,10.0,75.0,41.49,2,2019-05-30 00:00:00
+UP10201,UP,Female,White,Non-Hispanic,13.0,77.0,35.95,1,2019-06-12 00:00:00
+UP10202,UP,Female,White,Non-Hispanic,12.0,60.0,21.31,3,2019-06-11 00:00:00
+UP10203,UP,Female,White,Non-Hispanic,16.0,66.0,24.2,1,2019-06-26 00:00:00
+UP10204,UP,Male,Multi-race,Hispanic/Latino,20.0,65.0,27.5,2,2019-06-21 00:00:00
+UP10206,UP,Female,White,Non-Hispanic,18.0,65.0,37.86,2,2019-07-01 00:00:00
+UP10208,UP,Female,White,Non-Hispanic,12.0,62.0,26.79,3,2019-07-11 00:00:00
+UP10209,UP,Female,Black/African American,Non-Hispanic,8.0,76.0,32.9,3,2019-07-12 00:00:00
+UP10210,UP,Male,Black/African American,Non-Hispanic,12.0,60.0,29.2,1,2019-07-16 00:00:00
+UP10213,UP,Female,White,Non-Hispanic,12.0,61.0,54.91,2,2019-07-30 00:00:00
+UP10214,UP,Male,White,Non-Hispanic,12.0,62.0,43.94,1,2019-08-06 00:00:00
+UP10216,UP,Female,White,Non-Hispanic,14.0,69.0,31.91,1,2019-08-15 00:00:00
+UP10218,UP,Male,Asian,Non-Hispanic,16.0,60.0,32.56,1,2019-08-15 00:00:00
+UP10219,UP,Female,White,Non-Hispanic,12.0,64.0,20.29,3,2019-08-15 00:00:00
+UP10220,UP,Female,White,Non-Hispanic,12.0,71.0,35.51,2,2019-08-27 00:00:00
+UP10223,UP,Female,White,Non-Hispanic,13.0,62.0,36.57,2,2019-09-16 00:00:00
+UP10225,UP,Female,White,Non-Hispanic,14.0,68.0,36.87,3,2019-09-16 00:00:00
+UP10227,UP,Male,White,Non-Hispanic,14.0,60.0,27.77,2,2019-09-16 00:00:00
+UP10228,UP,Male,White,Non-Hispanic,14.0,64.0,36.41,3,2019-09-16 00:00:00
+UP10229,UP,Male,White,Non-Hispanic,12.0,68.0,30.69,2,2019-09-23 00:00:00
+UP10230,UP,Female,White,Non-Hispanic,14.0,72.0,35.42,1,2019-09-30 00:00:00
+UP10231,UP,Female,White,Non-Hispanic,12.0,61.0,31.41,3,2019-09-24 00:00:00
+UP10232,UP,Female,White,Non-Hispanic,14.0,64.0,47.04,1,2019-09-24 00:00:00
+UP10234,UP,Female,White,Non-Hispanic,12.0,61.0,43.27,2,2019-10-09 00:00:00
+UP10236,UP,Female,White,Non-Hispanic,12.0,70.0,31.11,3,2019-10-04 00:00:00
+UP10238,UP,Female,White,Non-Hispanic,16.0,67.0,29.07,1,2019-10-17 00:00:00
+UP10240,UP,Male,White,Non-Hispanic,14.0,61.0,24.06,3,2019-10-18 00:00:00
+UP10241,UP,Female,White,Non-Hispanic,14.0,62.0,30.05,2,2019-10-31 00:00:00
+UP10242,UP,Male,White,Non-Hispanic,12.0,70.0,34.04,1,2019-10-29 00:00:00
+UP10243,UP,Female,White,Non-Hispanic,12.0,72.0,33.27,3,2019-10-28 00:00:00
+UP10244,UP,Female,White,Non-Hispanic,12.0,71.0,37.78,2,2019-10-30 00:00:00
+UP10245,UP,Female,White,Non-Hispanic,12.0,61.0,36.06,2,2019-11-05 00:00:00
+UP10246,UP,Male,White,Non-Hispanic,14.0,60.0,29.04,1,2019-11-22 00:00:00
+UP10248,UP,Female,White,Non-Hispanic,12.0,73.0,32.43,1,2019-11-14 00:00:00
+UP10249,UP,Female,White,Non-Hispanic,18.0,72.0,31.31,3,2019-11-19 00:00:00
+UP10250,UP,Female,White,Non-Hispanic,12.0,71.0,32.47,3,2019-11-20 00:00:00
+UP10255,UP,Female,White,Non-Hispanic,12.0,61.0,30.78,3,2019-12-10 00:00:00
+UP10256,UP,Female,White,Non-Hispanic,13.0,66.0,26.56,1,2019-12-13 00:00:00
+UP10257,UP,Male,White,Non-Hispanic,14.0,68.0,26.5,3,2019-12-19 00:00:00
+UP10258,UP,Female,White,Non-Hispanic,18.0,64.0,32.62,1,2019-12-12 00:00:00
+UP10261,UP,Female,White,Non-Hispanic,14.0,61.0,25.24,1,2019-12-18 00:00:00
+UP10262,UP,Male,White,Hispanic/Latino,20.0,65.0,28.12,3,2019-12-20 00:00:00
+UP10263,UP,Female,White,Non-Hispanic,13.0,62.0,32.28,1,2019-12-24 00:00:00
+UP10266,UP,Female,White,Non-Hispanic,18.0,68.0,29.94,1,2020-01-08 00:00:00
+UP10267,UP,Female,White,Non-Hispanic,14.0,70.0,34.57,2,2020-01-08 00:00:00
+UP10269,UP,Male,White,Non-Hispanic,16.0,70.0,24.4,1,2020-01-14 00:00:00
+UP10270,UP,Female,White,Non-Hispanic,16.0,70.0,38.43,2,2020-01-08 00:00:00
+UP10271,UP,Female,White,Non-Hispanic,13.0,60.0,29.21,3,2020-01-09 00:00:00
+UP10272,UP,Female,White,Non-Hispanic,13.0,69.0,30.63,1,2020-01-13 00:00:00
+UP10273,UP,Female,White,Non-Hispanic,18.0,68.0,28.29,2,2020-01-30 00:00:00
+UP10275,UP,Male,White,Non-Hispanic,16.0,67.0,22.37,3,2020-01-16 00:00:00
+UP10276,UP,Female,White,Non-Hispanic,12.0,74.0,41.49,1,2020-01-13 00:00:00
+UP10279,UP,Female,White,Non-Hispanic,13.0,76.0,27.81,1,2020-01-21 00:00:00
+UP10280,UP,Female,White,Non-Hispanic,16.0,63.0,29.28,1,2020-01-23 00:00:00
+UT10001,UT,Male,White,Non-Hispanic,20.0,69.0,26.47,2,2017-03-31 00:00:00
+UT10002,UT,Female,White,Non-Hispanic,17.0,76.0,27.42,2,2017-05-08 00:00:00
+UT10003,UT,Female,White,Non-Hispanic,14.0,71.0,25.73,1,2017-05-04 00:00:00
+UT10004,UT,Male,White,Non-Hispanic,16.0,65.0,28.69,4,Not Applicable
+UT10005,UT,Male,White,Non-Hispanic,12.0,74.0,20.09,2,2017-06-01 00:00:00
+UT10006,UT,Female,White,Non-Hispanic,18.0,73.0,30.88,1,2017-06-09 00:00:00
+UT10008,UT,Male,White,Non-Hispanic,18.0,70.0,24.39,4,Not Applicable
+UT10009,UT,Female,White,Non-Hispanic,16.0,77.0,21.93,4,Not Applicable
+UT10010,UT,Female,White,Non-Hispanic,13.0,67.0,19.96,4,Not Applicable
+UT10011,UT,Male,White,Non-Hispanic,15.0,62.0,33.91,4,Not Applicable
+UT10012,UT,Male,White,Non-Hispanic,14.0,63.0,27.27,2,2017-08-18 00:00:00
+UT10013,UT,Male,White,Non-Hispanic,12.0,80.0,29.53,3,2017-08-28 00:00:00
+UT10015,UT,Female,White,Non-Hispanic,14.0,70.0,25.83,4,Not Applicable
+UT10016,UT,Female,White,Non-Hispanic,18.0,79.0,19.76,3,2017-09-26 00:00:00
+UT10017,UT,Female,White,Non-Hispanic,13.0,70.0,31.32,4,Not Applicable
+UT10018,UT,Female,White,Non-Hispanic,16.0,71.0,23.9,4,Not Applicable
+UT10019,UT,Female,White,Non-Hispanic,16.0,66.0,25.69,3,2017-10-24 00:00:00
+UT10020,UT,Female,White,Non-Hispanic,16.0,81.0,,3,2017-11-01 00:00:00
+UT10021,UT,Female,Asian,Non-Hispanic,16.0,66.0,21.46,4,Not Applicable
+UT10022,UT,Male,American Indian/Alaska Native (includes First Nations),Non-Hispanic,10.0,64.0,36.33,3,2017-11-03 00:00:00
+UT10023,UT,Female,White,Non-Hispanic,16.0,73.0,28.35,4,Not Applicable
+UT10024,UT,Female,White,Non-Hispanic,13.0,63.0,34.95,4,Not Applicable
+UT10025,UT,Female,White,Non-Hispanic,16.0,71.0,22.34,4,Not Applicable
+UT10026,UT,Male,White,Non-Hispanic,,95.0,16.48,3,2017-11-16 00:00:00
+UT10027,UT,Male,White,Non-Hispanic,16.0,84.0,26.97,2,2017-11-21 00:00:00
+UT10028,UT,Female,White,Non-Hispanic,16.0,70.0,27.42,3,2017-12-01 00:00:00
+UT10029,UT,Male,White,Non-Hispanic,,92.0,23.9,2,2017-12-01 00:00:00
+UT10031,UT,Female,White,Hispanic/Latino,16.0,73.0,20.06,1,2017-12-08 00:00:00
+UT10032,UT,Male,White,Non-Hispanic,20.0,80.0,17.71,3,2017-12-08 00:00:00
+UT10033,UT,Female,White,Non-Hispanic,12.0,62.0,29.28,4,Not Applicable
+UT10034,UT,Female,White,Non-Hispanic,14.0,74.0,62.02,1,2017-12-21 00:00:00
+UT10035,UT,Female,White,Non-Hispanic,17.0,65.0,39.95,3,2017-12-14 00:00:00
+UT10036,UT,Male,White,Non-Hispanic,18.0,67.0,23.05,4,Not Applicable
+UT10037,UT,Male,White,Non-Hispanic,16.0,70.0,33.45,4,Not Applicable
+UT10038,UT,Male,White,Non-Hispanic,10.0,71.0,21.46,1,2018-01-08 00:00:00
+UT10039,UT,Female,White,Non-Hispanic,13.0,75.0,24.95,1,2018-01-10 00:00:00
+UT10041,UT,Female,White,Non-Hispanic,16.0,80.0,25.07,1,2018-01-19 00:00:00
+UT10042,UT,Female,White,Non-Hispanic,12.0,61.0,30.16,3,2018-02-02 00:00:00
+UT10043,UT,Female,White,Non-Hispanic,13.0,60.0,32.8,2,2018-02-01 00:00:00
+UT10044,UT,Male,White,Non-Hispanic,11.0,61.0,31.57,2,2018-02-14 00:00:00
+UT10045,UT,Male,White,Non-Hispanic,14.0,76.0,32.99,2,2018-02-14 00:00:00
+UT10046,UT,Female,White,Hispanic/Latino,16.0,68.0,21.42,2,2018-02-21 00:00:00
+UT10047,UT,Female,White,Non-Hispanic,12.0,63.0,29.27,1,2018-02-21 00:00:00
+UT10048,UT,Female,White,Non-Hispanic,12.0,70.0,22.86,4,Not Applicable
+UT10051,UT,Female,White,Non-Hispanic,17.0,70.0,23.9,3,2018-03-07 00:00:00
+UT10052,UT,Male,Other,Non-Hispanic,12.0,68.0,25.24,1,2018-03-12 00:00:00
+UT10053,UT,Male,White,Non-Hispanic,16.0,72.0,25.05,4,Not Applicable
+UT10054,UT,Male,White,Non-Hispanic,15.0,70.0,30.15,4,Not Applicable
+UT10055,UT,Female,White,Non-Hispanic,16.0,70.0,25.83,4,Not Applicable
+UT10056,UT,Female,White,Non-Hispanic,17.0,66.0,23.79,2,2018-03-26 00:00:00
+UT10057,UT,Female,White,Non-Hispanic,14.0,65.0,20.12,1,2018-04-26 00:00:00
+UT10058,UT,Male,White,Non-Hispanic,11.0,70.0,32.56,4,Not Applicable
+UT10059,UT,Female,White,Non-Hispanic,20.0,86.0,26.08,4,Not Applicable
+UT10060,UT,Female,Black/African American,Non-Hispanic,16.0,74.0,25.84,3,2018-04-06 00:00:00
+UT10061,UT,Male,White,Non-Hispanic,19.0,72.0,25.09,4,Not Applicable
+UT10062,UT,Female,White,Non-Hispanic,11.0,76.0,38.25,2,2018-04-30 00:00:00
+UT10063,UT,Male,White,Non-Hispanic,15.0,68.0,25.8,4,Not Applicable
+UT10066,UT,Male,White,Non-Hispanic,11.0,69.0,24.06,2,2018-05-16 00:00:00
+UT10067,UT,Female,White,Non-Hispanic,12.0,61.0,47.54,3,2018-05-18 00:00:00
+UT10068,UT,Female,White,Non-Hispanic,13.0,69.0,30.62,3,2018-05-18 00:00:00
+UT10069,UT,Female,White,Non-Hispanic,12.0,70.0,35.65,2,2018-05-31 00:00:00
+UT10070,UT,Female,White,Non-Hispanic,18.0,72.0,24.52,4,Not Applicable
+UT10071,UT,Male,White,Non-Hispanic,15.0,73.0,32.07,1,2018-06-19 00:00:00
+UT10072,UT,Female,Other,Non-Hispanic,17.0,64.0,29.28,2,2018-08-14 00:00:00
+UT10073,UT,Female,White,Non-Hispanic,17.0,74.0,26.6,3,2018-07-05 00:00:00
+UT10074,UT,Female,White,Non-Hispanic,13.0,78.0,29.76,3,2018-07-10 00:00:00
+UT10075,UT,Female,White,Non-Hispanic,14.0,67.0,21.13,4,Not Applicable
+UT10076,UT,Female,White,Non-Hispanic,12.0,72.0,30.88,4,Not Applicable
+UT10077,UT,Female,White,Non-Hispanic,12.0,75.0,23.62,4,Not Applicable
+UT10078,UT,Female,White,Non-Hispanic,12.0,75.0,25.7,2,2018-07-13 00:00:00
+UT10079,UT,Male,White,Non-Hispanic,12.0,71.0,26.7,1,2018-07-27 00:00:00
+UT10080,UT,Male,White,Non-Hispanic,14.0,74.0,22.14,2,2018-08-15 00:00:00
+UT10081,UT,Male,Black/African American,Non-Hispanic,16.0,83.0,18.59,3,2018-08-22 00:00:00
+UT10082,UT,Female,White,Non-Hispanic,12.0,63.0,22.45,2,2018-08-23 00:00:00
+UT10083,UT,Male,White,Non-Hispanic,15.0,61.0,28.69,1,2018-10-03 00:00:00
+UT10084,UT,Male,White,Non-Hispanic,12.0,61.0,35.45,2,2018-10-30 00:00:00
+UT10085,UT,Female,White,Non-Hispanic,3.0,88.0,31.33,1,2018-11-08 00:00:00
+UT10086,UT,Female,White,Non-Hispanic,10.0,79.0,41.9,2,2018-11-21 00:00:00
+UT10087,UT,Male,Black/African American,Non-Hispanic,9.0,74.0,34.19,2,2018-12-05 00:00:00
+UT10088,UT,Male,White,Non-Hispanic,14.0,61.0,29.7,3,2019-01-14 00:00:00
+UT10089,UT,Male,White,Non-Hispanic,10.0,75.0,25.95,3,2018-12-19 00:00:00
+UT10090,UT,Female,White,Non-Hispanic,10.0,64.0,24.27,2,2019-01-15 00:00:00
+UT10091,UT,Female,White,Non-Hispanic,12.0,63.0,21.31,1,2019-01-18 00:00:00
+UT10092,UT,Female,White,Non-Hispanic,20.0,72.0,32.94,3,2019-01-31 00:00:00
+UT10093,UT,Female,Other,Non-Hispanic,18.0,83.0,26.69,1,2019-01-22 00:00:00
+UT10094,UT,Female,White,Non-Hispanic,12.0,86.0,37.41,1,2019-01-28 00:00:00
+UT10095,UT,Male,White,Non-Hispanic,11.0,62.0,44.07,3,2019-02-28 00:00:00
+UT10096,UT,Male,White,Non-Hispanic,16.0,74.0,33.99,2,2019-03-07 00:00:00
+UT10097,UT,Male,White,Non-Hispanic,18.0,61.0,30.41,3,2019-03-14 00:00:00
+UT10098,UT,Female,White,Non-Hispanic,9.0,74.0,19.15,2,2019-03-14 00:00:00
+UT10099,UT,Female,White,Non-Hispanic,16.0,63.0,27.34,2,2019-03-20 00:00:00
+UT10100,UT,Female,White,Non-Hispanic,17.0,68.0,22.26,3,2019-04-10 00:00:00
+UT10101,UT,Male,White,Hispanic/Latino,14.0,67.0,42.45,1,2019-04-15 00:00:00
+UT10102,UT,Male,White,Non-Hispanic,16.0,67.0,26.93,3,2019-05-24 00:00:00
+UT10103,UT,Male,White,Non-Hispanic,17.0,73.0,29.98,3,2019-05-16 00:00:00
+UT10104,UT,Female,White,Non-Hispanic,13.0,65.0,22.72,1,2019-05-31 00:00:00
+UT10105,UT,Female,White,Non-Hispanic,2.0,73.0,22.86,1,2019-05-24 00:00:00
+UT10106,UT,Female,White,Non-Hispanic,14.0,65.0,25.73,3,2019-05-24 00:00:00
+UT10107,UT,Male,Other,Non-Hispanic,17.0,64.0,48.24,1,2019-06-03 00:00:00
+UT10108,UT,Female,White,Non-Hispanic,15.0,62.0,27.34,1,2019-06-05 00:00:00
+UT10109,UT,Female,White,Non-Hispanic,18.0,68.0,35.07,1,2019-06-07 00:00:00
+UT10111,UT,Female,White,Non-Hispanic,12.0,79.0,27.42,2,2019-06-25 00:00:00
+UT10113,UT,Female,White,Non-Hispanic,13.0,71.0,31.32,1,2019-07-05 00:00:00
+UT10114,UT,Female,Multi-race,Hispanic/Latino,15.0,64.0,22.72,2,2019-07-03 00:00:00
+UT10115,UT,Male,White,Non-Hispanic,13.0,69.0,28.06,2,2019-08-13 00:00:00
+UT10116,UT,Male,White,Non-Hispanic,18.0,71.0,22.82,3,2019-07-31 00:00:00
+UT10117,UT,Female,White,Non-Hispanic,14.0,71.0,32.91,2,2019-07-31 00:00:00
+UT10118,UT,Female,White,Non-Hispanic,16.0,61.0,38.01,2,2019-08-12 00:00:00
+UT10119,UT,Female,White,Non-Hispanic,19.0,63.0,26.56,3,2019-08-23 00:00:00
+UT10120,UT,Female,Other,Non-Hispanic,12.0,72.0,27.25,1,2019-08-21 00:00:00
+UT10121,UT,Female,White,Non-Hispanic,12.0,73.0,37.88,1,2019-08-28 00:00:00
+UT10122,UT,Female,White,Non-Hispanic,18.0,81.0,26.28,3,2019-09-25 00:00:00
+UT10123,UT,Male,White,Non-Hispanic,18.0,71.0,20.22,1,2019-09-19 00:00:00
+UT10124,UT,Female,Black/African American,Non-Hispanic,12.0,85.0,24.64,3,2019-09-13 00:00:00
+UT10125,UT,Female,White,Non-Hispanic,12.0,71.0,20.12,3,2019-09-25 00:00:00
+UT10126,UT,Female,Other,Hispanic/Latino,19.0,70.0,30.0,2,2019-09-20 00:00:00
+UT10127,UT,Female,Other,Non-Hispanic,14.0,70.0,32.43,1,2019-10-07 00:00:00
+UT10128,UT,Male,White,Non-Hispanic,14.0,63.0,39.05,1,2019-10-18 00:00:00
+UT10129,UT,Female,White,Non-Hispanic,16.0,71.0,25.35,1,2019-10-18 00:00:00
+UT10130,UT,Female,White,Non-Hispanic,17.0,61.0,31.44,3,2019-10-18 00:00:00
+UT10132,UT,Female,White,Non-Hispanic,10.0,70.0,19.76,2,2019-10-28 00:00:00
+UT10134,UT,Female,White,Non-Hispanic,17.0,62.0,24.68,3,2019-11-04 00:00:00
+UT10135,UT,Female,White,Non-Hispanic,14.0,66.0,30.84,2,2019-11-07 00:00:00
+UT10136,UT,Female,American Indian/Alaska Native (includes First Nations),Non-Hispanic,17.0,71.0,27.41,1,2019-12-11 00:00:00
+UT10137,UT,Female,White,Non-Hispanic,17.0,64.0,33.27,1,2019-12-02 00:00:00
+UT10141,UT,Female,White,Non-Hispanic,14.0,73.0,21.05,3,2019-12-20 00:00:00
+UT10142,UT,Female,Other,Non-Hispanic,14.0,61.0,32.9,3,2019-12-19 00:00:00
+UT10143,UT,Female,White,Non-Hispanic,15.0,60.0,,1,2020-01-06 00:00:00
+UT10144,UT,Male,White,Non-Hispanic,17.0,62.0,25.51,1,2020-01-09 00:00:00
+UT10145,UT,Female,White,Non-Hispanic,15.0,70.0,26.4,2,2020-01-24 00:00:00
+UT10146,UT,Male,Asian,Non-Hispanic,12.0,71.0,27.24,2,2020-01-03 00:00:00
+UT10147,UT,Male,White,Non-Hispanic,18.0,64.0,28.69,3,2020-01-27 00:00:00
+UT10148,UT,Female,White,Non-Hispanic,11.0,61.0,27.47,2,2020-01-17 00:00:00
+UT10149,UT,Male,Other,Non-Hispanic,12.0,60.0,25.24,2,2020-01-23 00:00:00
+UT10150,UT,Female,White,Non-Hispanic,14.0,60.0,43.1,1,2020-01-28 00:00:00
+UT10151,UT,Female,White,Non-Hispanic,15.0,77.0,,1,2020-01-22 00:00:00
+WU10001,WU,Female,White,Non-Hispanic,14.0,70.0,32.12,2,2017-03-09 00:00:00
+WU10002,WU,Female,White,Non-Hispanic,18.0,70.0,32.54,4,Not Applicable
+WU10003,WU,Female,White,Non-Hispanic,16.0,64.0,23.88,4,Not Applicable
+WU10004,WU,Female,White,Non-Hispanic,12.0,77.0,36.96,4,Not Applicable
+WU10005,WU,Male,White,Non-Hispanic,17.0,65.0,26.12,4,Not Applicable
+WU10006,WU,Male,White,Non-Hispanic,,61.0,29.9,4,Not Applicable
+WU10007,WU,Female,White,Non-Hispanic,12.0,77.0,18.57,4,Not Applicable
+WU10008,WU,Female,Black/African American,Non-Hispanic,15.0,70.0,30.86,4,Not Applicable
+WU10009,WU,Female,Black/African American,Non-Hispanic,18.0,77.0,33.92,4,Not Applicable
+WU10010,WU,Female,White,Non-Hispanic,12.0,73.0,32.94,4,Not Applicable
+WU10012,WU,Male,White,Non-Hispanic,14.0,65.0,40.89,4,Not Applicable
+WU10013,WU,Female,White,Non-Hispanic,16.0,67.0,53.91,4,Not Applicable
+WU10014,WU,Female,White,Non-Hispanic,12.0,69.0,29.21,4,Not Applicable
+WU10015,WU,Female,White,Non-Hispanic,8.0,68.0,31.75,4,Not Applicable
+WU10016,WU,Female,White,Non-Hispanic,18.0,74.0,27.62,4,Not Applicable
+WU10017,WU,Female,White,Non-Hispanic,16.0,61.0,25.38,4,Not Applicable
+WU10018,WU,Female,White,Non-Hispanic,13.0,73.0,24.96,4,Not Applicable
+WU10020,WU,Female,White,Non-Hispanic,16.0,60.0,44.64,4,Not Applicable
+WU10021,WU,Female,White,Non-Hispanic,18.0,77.0,24.95,3,2017-08-01 00:00:00
+WU10022,WU,Female,White,Non-Hispanic,,68.0,39.41,4,Not Applicable
+WU10023,WU,Male,White,Non-Hispanic,16.0,74.0,27.31,2,2017-08-31 00:00:00
+WU10024,WU,Female,White,Non-Hispanic,16.0,66.0,42.33,4,Not Applicable
+WU10025,WU,Female,White,Non-Hispanic,13.0,70.0,40.16,1,2017-08-14 00:00:00
+WU10026,WU,Female,Black/African American,Non-Hispanic,14.0,60.0,37.74,4,Not Applicable
+WU10027,WU,Male,White,Non-Hispanic,14.0,68.0,41.5,3,2017-08-04 00:00:00
+WU10028,WU,Male,White,Non-Hispanic,16.0,64.0,36.73,4,Not Applicable
+WU10029,WU,Female,White,Non-Hispanic,14.0,69.0,31.8,4,Not Applicable
+WU10030,WU,Female,White,Non-Hispanic,18.0,61.0,36.94,4,Not Applicable
+WU10031,WU,Female,White,Non-Hispanic,14.0,73.0,20.28,1,2017-09-14 00:00:00
+WU10032,WU,Female,White,Non-Hispanic,13.0,68.0,32.87,4,Not Applicable
+WU10033,WU,Female,White,Non-Hispanic,12.0,69.0,46.15,4,Not Applicable
+WU10034,WU,Male,White,Non-Hispanic,20.0,79.0,27.27,3,2017-10-03 00:00:00
+WU10035,WU,Female,Other,Non-Hispanic,14.0,66.0,27.45,4,Not Applicable
+WU10036,WU,Female,White,Non-Hispanic,13.0,61.0,38.12,4,Not Applicable
+WU10037,WU,Male,White,Non-Hispanic,20.0,67.0,25.39,4,Not Applicable
+WU10038,WU,Female,White,Non-Hispanic,,79.0,22.66,2,2017-10-11 00:00:00
+WU10039,WU,Female,White,Non-Hispanic,16.0,63.0,40.15,2,2017-10-17 00:00:00
+WU10040,WU,Female,White,Non-Hispanic,16.0,66.0,25.15,4,Not Applicable
+WU10041,WU,Male,White,Non-Hispanic,20.0,66.0,28.41,4,Not Applicable
+WU10042,WU,Male,White,Non-Hispanic,13.0,82.0,27.72,3,2017-10-26 00:00:00
+WU10043,WU,Male,White,Non-Hispanic,14.0,65.0,27.31,4,Not Applicable
+WU10044,WU,Male,White,Non-Hispanic,16.0,66.0,24.81,3,2017-11-02 00:00:00
+WU10046,WU,Male,White,Non-Hispanic,14.0,68.0,20.09,4,Not Applicable
+WU10048,WU,Male,White,Non-Hispanic,16.0,64.0,35.25,4,Not Applicable
+WU10049,WU,Female,White,Non-Hispanic,12.0,65.0,28.31,2,2017-11-29 00:00:00
+WU10050,WU,Female,White,Non-Hispanic,15.0,64.0,41.6,1,2017-11-10 00:00:00
+WU10051,WU,Female,White,Non-Hispanic,16.0,70.0,27.06,1,2017-11-22 00:00:00
+WU10053,WU,Male,White,Non-Hispanic,18.0,72.0,32.09,4,Not Applicable
+WU10054,WU,Female,White,Non-Hispanic,18.0,80.0,26.45,2,2018-03-07 00:00:00
+WU10055,WU,Male,White,Non-Hispanic,16.0,74.0,29.8,1,2017-11-30 00:00:00
+WU10056,WU,Male,White,Non-Hispanic,16.0,65.0,37.87,3,2017-12-07 00:00:00
+WU10057,WU,Male,White,Non-Hispanic,13.0,60.0,21.13,1,2017-12-14 00:00:00
+WU10058,WU,Female,White,Non-Hispanic,16.0,70.0,35.51,4,Not Applicable
+WU10059,WU,Female,White,Non-Hispanic,14.0,69.0,24.99,1,2018-01-23 00:00:00
+WU10060,WU,Female,White,Non-Hispanic,16.0,73.0,35.42,1,2017-12-19 00:00:00
+WU10061,WU,Female,White,Hispanic/Latino,16.0,61.0,29.53,4,Not Applicable
+WU10062,WU,Female,White,Non-Hispanic,18.0,70.0,22.49,2,2018-01-09 00:00:00
+WU10063,WU,Female,White,Non-Hispanic,19.0,66.0,31.41,4,Not Applicable
+WU10064,WU,Female,White,Non-Hispanic,18.0,69.0,20.08,4,Not Applicable
+WU10065,WU,Female,Black/African American,Non-Hispanic,15.0,61.0,46.66,2,2018-02-16 00:00:00
+WU10066,WU,Female,White,Non-Hispanic,18.0,67.0,20.48,4,Not Applicable
+WU10068,WU,Female,White,Non-Hispanic,18.0,60.0,35.19,4,Not Applicable
+WU10069,WU,Female,White,Non-Hispanic,,65.0,38.59,4,Not Applicable
+WU10070,WU,Female,White,Non-Hispanic,,67.0,25.87,4,Not Applicable
+WU10071,WU,Male,White,Non-Hispanic,18.0,62.0,38.66,4,Not Applicable
+WU10072,WU,Female,White,Non-Hispanic,12.0,62.0,32.27,4,Not Applicable
+WU10073,WU,Male,White,Non-Hispanic,16.0,68.0,29.03,1,2018-03-16 00:00:00
+WU10074,WU,Female,White,Non-Hispanic,16.0,68.0,28.84,1,2018-03-16 00:00:00
+WU10075,WU,Female,White,Non-Hispanic,12.0,72.0,22.66,4,Not Applicable
+WU10076,WU,Female,White,Non-Hispanic,,78.0,29.06,1,2018-04-19 00:00:00
+WU10077,WU,Male,White,Non-Hispanic,16.0,60.0,34.85,2,2018-04-30 00:00:00
+WU10080,WU,Female,White,Non-Hispanic,13.0,67.0,47.11,4,Not Applicable
+WU10083,WU,Female,White,Non-Hispanic,20.0,75.0,37.74,3,2018-05-08 00:00:00
+WU10084,WU,Female,White,Non-Hispanic,16.0,68.0,33.31,3,2018-05-10 00:00:00
+WU10085,WU,Female,White,Non-Hispanic,20.0,75.0,20.09,3,2018-05-30 00:00:00
+WU10086,WU,Female,White,Non-Hispanic,12.0,67.0,23.39,3,2018-05-22 00:00:00
+WU10087,WU,Female,White,Non-Hispanic,16.0,78.0,29.4,2,2018-05-23 00:00:00
+WU10088,WU,Male,White,Non-Hispanic,16.0,69.0,27.48,3,2018-05-29 00:00:00
+WU10089,WU,Female,White,Non-Hispanic,12.0,68.0,23.23,4,Not Applicable
+WU10090,WU,Female,White,Non-Hispanic,12.0,60.0,23.64,2,2018-06-06 00:00:00
+WU10091,WU,Female,White,Non-Hispanic,12.0,73.0,31.75,4,Not Applicable
+WU10092,WU,Female,Black/African American,Non-Hispanic,16.0,64.0,34.56,1,2018-06-13 00:00:00
+WU10093,WU,Female,White,Non-Hispanic,13.0,67.0,37.14,2,2018-07-06 00:00:00
+WU10094,WU,Female,White,Non-Hispanic,13.0,72.0,20.5,4,Not Applicable
+WU10095,WU,Female,White,Non-Hispanic,19.0,60.0,55.78,4,Not Applicable
+WU10096,WU,Female,White,Non-Hispanic,14.0,66.0,27.78,2,2018-07-03 00:00:00
+WU10097,WU,Female,White,Non-Hispanic,16.0,61.0,46.02,2,2018-08-02 00:00:00
+WU10098,WU,Female,White,Non-Hispanic,14.0,63.0,37.43,2,2018-07-10 00:00:00
+WU10099,WU,Female,White,Non-Hispanic,13.0,71.0,24.64,3,2018-08-01 00:00:00
+WU10100,WU,Female,White,Non-Hispanic,18.0,79.0,27.45,1,2018-07-13 00:00:00
+WU10101,WU,Male,White,Non-Hispanic,14.0,66.0,34.96,3,2018-07-27 00:00:00
+WU10102,WU,Female,White,Non-Hispanic,16.0,79.0,24.22,2,2018-09-11 00:00:00
+WU10103,WU,Female,Other,Non-Hispanic,18.0,68.0,32.1,1,2018-08-13 00:00:00
+WU10104,WU,Female,White,Hispanic/Latino,14.0,71.0,25.4,1,2018-08-15 00:00:00
+WU10105,WU,Female,White,Non-Hispanic,14.0,63.0,27.62,3,2018-09-07 00:00:00
+WU10106,WU,Female,White,Non-Hispanic,12.0,63.0,35.51,1,2018-08-20 00:00:00
+WU10107,WU,Female,White,Non-Hispanic,19.0,63.0,26.53,1,2018-11-06 00:00:00
+WU10108,WU,Male,White,Non-Hispanic,16.0,69.0,26.46,1,2018-08-27 00:00:00
+WU10110,WU,Female,White,Non-Hispanic,13.0,73.0,40.76,1,2018-09-13 00:00:00
+WU10111,WU,Female,White,Non-Hispanic,8.0,72.0,32.81,2,2018-09-14 00:00:00
+WU10112,WU,Male,White,Non-Hispanic,17.0,63.0,37.43,3,2018-10-04 00:00:00
+WU10113,WU,Female,Multi-race,Non-Hispanic,16.0,64.0,41.8,3,2018-09-28 00:00:00
+WU10114,WU,Female,White,Non-Hispanic,14.0,66.0,43.93,3,2018-10-09 00:00:00
+WU10115,WU,Female,Black/African American,Non-Hispanic,10.0,65.0,28.08,2,2018-10-18 00:00:00
+WU10116,WU,Female,White,Non-Hispanic,18.0,62.0,36.06,3,2018-10-19 00:00:00
+WU10117,WU,Female,White,Non-Hispanic,14.0,65.0,39.78,2,2018-10-24 00:00:00
+WU10118,WU,Female,White,Non-Hispanic,12.0,65.0,37.67,1,2018-10-31 00:00:00
+WU10119,WU,Female,Black/African American,Non-Hispanic,16.0,73.0,39.13,2,2018-11-08 00:00:00
+WU10120,WU,Male,White,Non-Hispanic,16.0,76.0,26.89,3,2018-11-09 00:00:00
+WU10121,WU,Female,White,Non-Hispanic,14.0,63.0,39.47,2,2018-11-26 00:00:00
+WU10122,WU,Female,Black/African American,Non-Hispanic,14.0,62.0,34.4,1,2018-12-12 00:00:00
+WU10123,WU,Female,White,Non-Hispanic,14.0,60.0,30.49,2,2018-12-21 00:00:00
+WU10124,WU,Female,Black/African American,Non-Hispanic,12.0,65.0,33.98,3,2018-11-30 00:00:00
+WU10125,WU,Female,White,Non-Hispanic,14.0,81.0,28.71,3,2018-12-11 00:00:00
+WU10126,WU,Male,White,Non-Hispanic,12.0,65.0,24.96,2,2018-12-13 00:00:00
+WU10127,WU,Female,White,Non-Hispanic,20.0,68.0,47.44,1,2018-12-14 00:00:00
+WU10128,WU,Female,White,Non-Hispanic,12.0,74.0,20.88,1,2019-01-23 00:00:00
+WU10130,WU,Male,White,Non-Hispanic,14.0,70.0,24.63,1,2019-02-28 00:00:00
+WU10131,WU,Female,White,Non-Hispanic,12.0,61.0,36.65,2,2019-02-27 00:00:00
+WU10132,WU,Female,White,Non-Hispanic,14.0,66.0,46.04,3,2019-02-20 00:00:00
+WU10133,WU,Male,White,Non-Hispanic,18.0,65.0,37.08,1,2019-02-21 00:00:00
+WU10134,WU,Male,White,Non-Hispanic,14.0,68.0,34.29,2,2019-09-05 00:00:00
+WU10135,WU,Female,White,Non-Hispanic,12.0,63.0,36.28,1,2019-03-05 00:00:00
+WU10136,WU,Male,White,Non-Hispanic,16.0,75.0,36.6,3,2019-03-08 00:00:00
+WU10137,WU,Female,White,Non-Hispanic,14.0,66.0,24.8,3,2019-03-13 00:00:00
+WU10138,WU,Female,White,Non-Hispanic,12.0,67.0,26.0,3,2019-04-15 00:00:00
+WU10139,WU,Female,White,Non-Hispanic,18.0,76.0,21.65,3,2019-04-23 00:00:00
+WU10140,WU,Male,White,Non-Hispanic,16.0,73.0,23.1,1,2019-04-04 00:00:00
+WU10141,WU,Female,White,Non-Hispanic,16.0,69.0,32.54,1,2019-04-03 00:00:00
+WU10143,WU,Female,White,Non-Hispanic,15.0,68.0,36.77,2,2019-04-18 00:00:00
+WU10144,WU,Female,White,Non-Hispanic,14.0,72.0,35.91,3,2019-04-25 00:00:00
+WU10145,WU,Male,White,Non-Hispanic,16.0,68.0,31.32,3,2019-04-25 00:00:00
+WU10146,WU,Female,White,Non-Hispanic,13.0,68.0,42.23,3,2019-06-10 00:00:00
+WU10147,WU,Male,White,Non-Hispanic,14.0,60.0,32.56,1,2019-06-04 00:00:00
+WU10149,WU,Female,White,Non-Hispanic,14.0,60.0,37.8,2,2019-06-07 00:00:00
+WU10150,WU,Male,White,Non-Hispanic,15.0,62.0,39.39,1,2019-07-30 00:00:00
+WU10151,WU,Female,White,Non-Hispanic,16.0,64.0,44.13,1,2019-07-17 00:00:00
+WU10152,WU,Male,White,Non-Hispanic,16.0,71.0,31.05,2,2019-08-08 00:00:00
+WU10153,WU,Female,White,Non-Hispanic,13.0,60.0,28.72,3,2019-08-08 00:00:00
+WU10154,WU,Female,White,Non-Hispanic,14.0,78.0,30.0,3,2019-08-20 00:00:00
+WU10155,WU,Male,White,Non-Hispanic,14.0,60.0,38.67,2,2019-08-05 00:00:00
+WU10156,WU,Female,White,Non-Hispanic,14.0,67.0,29.53,2,2019-08-13 00:00:00
+WU10157,WU,Female,White,Non-Hispanic,12.0,69.0,28.84,1,2019-08-09 00:00:00
+WU10158,WU,Female,White,Non-Hispanic,16.0,76.0,30.73,2,2019-08-14 00:00:00
+WU10159,WU,Female,White,Non-Hispanic,13.0,76.0,28.31,2,2019-08-15 00:00:00
+WU10161,WU,Female,White,Non-Hispanic,14.0,62.0,28.52,3,2019-10-16 00:00:00
+WU10162,WU,Female,White,Non-Hispanic,14.0,60.0,29.79,3,2019-09-19 00:00:00
+WU10163,WU,Female,White,Non-Hispanic,14.0,73.0,37.43,3,2019-09-09 00:00:00
+WU10164,WU,Female,White,Non-Hispanic,18.0,60.0,39.95,1,2019-09-12 00:00:00
+WU10165,WU,Female,White,Non-Hispanic,12.0,61.0,28.49,2,2019-10-07 00:00:00
+WU10166,WU,Female,White,Non-Hispanic,16.0,68.0,36.01,3,2019-10-17 00:00:00
+WU10167,WU,Male,White,Non-Hispanic,18.0,63.0,31.72,1,2019-10-15 00:00:00
+WU10168,WU,Female,White,Non-Hispanic,18.0,69.0,34.23,2,2019-10-29 00:00:00
+WU10169,WU,Female,White,Non-Hispanic,14.0,74.0,24.8,2,2019-11-07 00:00:00
+WU10172,WU,Female,White,Non-Hispanic,13.0,64.0,28.15,1,2019-11-06 00:00:00
+WU10174,WU,Male,White,Non-Hispanic,18.0,68.0,36.32,3,2019-11-07 00:00:00
+WU10175,WU,Male,White,Non-Hispanic,14.0,67.0,30.12,3,2019-12-05 00:00:00
+WU10177,WU,Female,White,Non-Hispanic,13.0,60.0,25.6,2,2019-11-15 00:00:00
+WU10178,WU,Male,White,Non-Hispanic,16.0,77.0,31.72,2,2019-12-09 00:00:00
+WU10180,WU,Female,White,Non-Hispanic,15.0,65.0,24.03,1,2019-12-06 00:00:00
+WU10181,WU,Female,White,Non-Hispanic,17.0,75.0,29.28,1,2019-11-26 00:00:00
+WU10182,WU,Female,White,Non-Hispanic,16.0,60.0,32.49,1,2019-12-18 00:00:00
+WU10183,WU,Male,White,Non-Hispanic,19.0,74.0,28.9,1,2020-01-14 00:00:00
+WU10184,WU,Female,White,Non-Hispanic,18.0,62.0,31.87,3,2020-01-23 00:00:00
+WU10186,WU,Male,White,Non-Hispanic,12.0,75.0,30.38,3,2020-01-09 00:00:00
+WU10187,WU,Female,White,Non-Hispanic,12.0,67.0,29.94,1,2020-01-24 00:00:00
+WU10188,WU,Male,White,Non-Hispanic,16.0,66.0,25.84,1,2020-01-06 00:00:00
+WU10189,WU,Female,White,Non-Hispanic,9.0,65.0,25.01,3,2020-01-10 00:00:00
+WU10190,WU,Female,White,Non-Hispanic,14.0,60.0,22.97,2,2019-12-26 00:00:00
+WU10192,WU,Female,White,Non-Hispanic,16.0,74.0,30.88,1,2020-01-02 00:00:00
+WU10193,WU,Female,White,Non-Hispanic,15.0,63.0,31.16,2,2020-01-13 00:00:00
+WU10194,WU,Male,White,Non-Hispanic,18.0,62.0,50.18,3,2020-01-16 00:00:00
+WU10195,WU,Female,White,Non-Hispanic,18.0,82.0,21.05,1,2020-01-08 00:00:00
+WU10196,WU,Female,White,Non-Hispanic,16.0,63.0,35.85,2,2020-01-28 00:00:00
+LA10062,,Female,White,Non-Hispanic,13.0,76.0,,Not Applicable,Not Applicable
+LA10098,,Female,White,Non-Hispanic,16.0,60.0,,Not Applicable,Not Applicable
+LA10100,,Female,Multi-race,Non-Hispanic,16.0,75.0,,nan,
+LA20001,,Male,White,Non-Hispanic,16.0,62.0,,4,Not Applicable
+LA20002,,Male,White,Non-Hispanic,18.0,76.0,,4,Not Applicable
+LA20003,,Female,Asian,Hispanic/Latino,13.0,60.0,,nan,
+LA20004,,Female,White,Non-Hispanic,15.0,75.0,36.65,1,2020-09-24 00:00:00
+LA20005,,Male,White,Non-Hispanic,18.0,64.0,28.06,nan,
+LA20006,,Female,Black/African American,Non-Hispanic,16.0,75.0,32.27,1,2020-03-06 00:00:00
+LA20007,,Female,White,Non-Hispanic,13.0,73.0,22.66,3,2020-02-18 00:00:00
+LA20008,,Female,White,Non-Hispanic,19.0,70.0,26.29,1,2020-03-04 00:00:00
+LA20009,,Female,White,Non-Hispanic,14.0,83.0,27.8,3,2020-03-11 00:00:00
+LA20010,,Female,White,Non-Hispanic,15.0,63.0,34.75,3,2020-06-10 00:00:00
+LA20011,,Male,White,Non-Hispanic,12.0,66.0,30.13,3,2020-06-09 00:00:00
+LA20012,,Female,White,Non-Hispanic,14.0,70.0,,4,Not Applicable
+LA20013,,Female,White,Non-Hispanic,16.0,64.0,22.72,1,2020-06-26 00:00:00
+LA20014,,Male,White,Non-Hispanic,18.0,64.0,,nan,
+LA20015,,Female,White,Non-Hispanic,14.0,66.0,,4,Not Applicable
+LA20016,,Male,White,Non-Hispanic,12.0,70.0,30.52,3,2020-07-23 00:00:00
+LA20017,,Female,White,Non-Hispanic,14.0,65.0,21.45,2,2020-07-24 00:00:00
+LA20018,,Male,White,Non-Hispanic,19.0,68.0,29.15,2,2020-07-31 00:00:00
+LA20019,,Female,White,Non-Hispanic,16.0,64.0,36.16,3,2020-09-18 00:00:00
+LA20020,,Male,White,Non-Hispanic,13.0,67.0,38.84,1,2020-10-13 00:00:00
+LA20021,,Female,Asian,Non-Hispanic,16.0,65.0,20.7,1,2020-10-06 00:00:00
+LA20022,,Male,White,Hispanic/Latino,16.0,62.0,30.17,nan,
+LA20023,,Female,White,Non-Hispanic,18.0,66.0,19.29,3,2020-11-13 00:00:00
+LA20024,,Male,White,Non-Hispanic,18.0,77.0,26.78,3,2020-10-22 00:00:00
+LA20025,,Female,White,Hispanic/Latino,15.0,65.0,,4,Not Applicable
+LA20026,,Female,White,Non-Hispanic,14.0,75.0,25.33,3,2020-12-07 00:00:00
+LA20027,,Male,Black/African American,Non-Hispanic,,62.0,29.8,2,2020-12-29 00:00:00
+LA20028,,Female,White,Non-Hispanic,14.0,60.0,26.12,2,2020-12-08 00:00:00
+LA20029,,Female,White,Non-Hispanic,12.0,70.0,20.51,1,2020-12-30 00:00:00
+LA20030,,Female,Black/African American,Non-Hispanic,13.0,63.0,43.58,1,2021-02-26 00:00:00
+LA20031,,Female,White,Non-Hispanic,15.0,66.0,28.3,2,2021-03-11 00:00:00
+LA20032,,Female,White,Non-Hispanic,17.0,80.0,18.3,1,2021-03-29 00:00:00
+LA20033,,Female,White,Hispanic/Latino,14.0,62.0,35.9,2,2021-05-18 00:00:00
+LA20034,,Female,White,Non-Hispanic,18.0,69.0,22.59,2,2021-04-02 00:00:00
+LA20035,,Female,White,Non-Hispanic,,63.0,,nan,
+LA20036,,Male,White,Hispanic/Latino,,67.0,,nan,
+LA20037,,Female,White,Non-Hispanic,16.0,67.0,,1,2021-05-14 00:00:00
+LA20038,,Female,White,Non-Hispanic,,91.0,,nan,
+LA20039,,Female,White,Non-Hispanic,20.0,72.0,29.17,2,2021-09-01 00:00:00
+LA20040,,Female,White,Hispanic/Latino,14.0,68.0,26.79,nan,
+LA20041,,Female,White,Non-Hispanic,18.0,69.0,,2,2021-11-09 00:00:00
+LA20042,,Male,White,Non-Hispanic,16.0,68.0,31.31,3,2021-11-03 00:00:00
+LA20043,,Female,White,Non-Hispanic,16.0,68.0,32.27,1,2021-10-04 00:00:00
+LA20044,,Female,White,Non-Hispanic,16.0,72.0,27.61,3,2021-10-14 00:00:00
+LA20045,,Female,White,Non-Hispanic,11.0,71.0,22.39,2,2021-10-18 00:00:00
+LA20046,,Female,White,Non-Hispanic,16.0,75.0,25.84,nan,
+LA20047,,Male,White,Non-Hispanic,18.0,70.0,22.32,nan,
+LA20048,,Female,White,Non-Hispanic,18.0,77.0,32.56,1,2021-11-05 00:00:00
+LA20049,,Female,White,Hispanic/Latino,18.0,66.0,39.67,1,2021-11-17 00:00:00
+LA20050,,Male,White,Non-Hispanic,16.0,69.0,25.74,3,2021-12-13 00:00:00
+LA20051,,Female,White,Non-Hispanic,14.0,67.0,24.27,3,2021-12-13 00:00:00
+LA20052,,Female,White,Hispanic/Latino,12.0,61.0,,nan,
+LA20053,,Female,Other,Hispanic/Latino,17.0,67.0,24.57,1,2022-01-27 00:00:00
+UT30001,,Female,White,Non-Hispanic,16.0,73.0,,4,Not Applicable
+UT30002,,Female,White,Non-Hispanic,17.0,64.0,,4,Not Applicable
+UT30003,,Female,White,Non-Hispanic,11.0,66.0,,4,Not Applicable
+UT30004,,Female,White,Non-Hispanic,14.0,64.0,,4,Not Applicable
+UT30005,,Female,White,Non-Hispanic,15.0,,,4,Not Applicable
+UT30006,,Male,White,Non-Hispanic,10.0,76.0,,4,Not Applicable
+UT30007,,Male,Asian,Non-Hispanic,,,,nan,
+UT30008,,Female,White,Non-Hispanic,13.5,60.0,,4,Not Applicable
+UT30009,,Male,White,Non-Hispanic,12.0,72.0,,4,Not Applicable
+UT30010,,Female,White,Non-Hispanic,,,,nan,
+UT30011,,Male,White,Non-Hispanic,11.0,68.0,,4,Not Applicable
+UT30012,,Female,White,Non-Hispanic,,,,4,Not Applicable
+UT30013,,Female,Unknown,Unknown,,,,nan,
+UT30017,,Female,White,Non-Hispanic,12.0,61.0,34.32,3,2020-11-04 00:00:00
+UT30018,,Male,White,Non-Hispanic,28.0,65.0,,4,Not Applicable
+UT30019,,Female,White,Non-Hispanic,13.0,60.0,,4,Not Applicable
+UT30021,,Male,White,Non-Hispanic,9.0,61.0,,4,Not Applicable
+UT30022,,Male,Unknown,Unknown,,,,nan,
+UT30023,,Male,White,Non-Hispanic,12.0,60.0,37.6,2,2021-03-16 00:00:00
+UT30024,,Female,White,Non-Hispanic,18.0,,,nan,
+UT30025,,Female,White,Non-Hispanic,14.0,68.0,,1,2021-03-22 00:00:00
+UT30026,,Male,White,Non-Hispanic,21.0,70.0,,4,Not Applicable
+UT30027,,Female,White,Non-Hispanic,13.0,62.0,,4,Not Applicable
+UT30028,,Male,White,Non-Hispanic,9.0,61.0,25.06,3,2021-04-26 00:00:00
+UT30029,,Male,White,Hispanic/Latino,17.0,64.0,,4,Not Applicable
+UT30030,,Male,White,Non-Hispanic,14.0,62.0,,4,Not Applicable
+UT30031,,Male,White,Non-Hispanic,13.0,71.0,30.14,3,2021-06-23 00:00:00
+UT30032,,Female,White,Non-Hispanic,14.0,62.0,42.09,3,2021-06-29 00:00:00
+UT30033,,Male,Multi-race,Non-Hispanic,12.0,68.0,24.44,1,2021-08-13 00:00:00
+UT30034,,Male,White,Non-Hispanic,18.0,65.0,17.97,3,2021-08-24 00:00:00
+UT30035,,Female,White,Non-Hispanic,14.0,60.0,34.75,3,2021-09-07 00:00:00
+UT30036,,Female,White,Non-Hispanic,17.0,66.0,,4,Not Applicable
+UT30037,,Female,White,Non-Hispanic,14.0,65.0,54.68,2,2021-09-24 00:00:00
+UT30038,,Male,White,Non-Hispanic,12.0,,19.77,nan,
+UT30039,,Male,White,Non-Hispanic,18.0,71.0,,4,Not Applicable
+UT30040,,Female,White,Non-Hispanic,12.0,68.0,,4,Not Applicable
+UT30041,,Male,White,Non-Hispanic,11.0,64.0,26.61,2,2021-12-09 00:00:00
+UT30042,,Female,White,Non-Hispanic,10.0,66.0,,4,Not Applicable
+UT30043,,Male,White,Non-Hispanic,16.0,72.0,,4,Not Applicable
+WU10129,,Female,White,Non-Hispanic,18.0,,,Not Applicable,Not Applicable
+WU10148,,Male,White,Non-Hispanic,14.0,,,Not Applicable,Not Applicable
+WU10176,,Male,White,Non-Hispanic,15.0,,,nan,
+WU20001,,Female,White,Non-Hispanic,12.0,71.0,33.83,3,2021-09-01 00:00:00
+WU20002,,Male,White,Non-Hispanic,12.0,60.0,31.41,1,2021-10-19 00:00:00
+WU20003,,Male,White,Non-Hispanic,20.0,,29.37,nan,
+WU20004,,Female,White,Non-Hispanic,18.0,67.0,27.47,2,2021-11-16 00:00:00
+WU20005,,Female,White,Non-Hispanic,20.0,64.0,,4,Not Applicable
+WU20006,,Female,White,Non-Hispanic,18.0,74.0,37.29,1,2022-01-05 00:00:00
+UT30014,,Female,White,Non-Hispanic,,69.0,33.66,1,2020-04-07 00:00:00
+UT30015,,Male,White,Non-Hispanic,,60.0,,nan,
+UT30016,,Male,White,Non-Hispanic,,66.0,33.46,nan,
+UT30020,,Female,White,Non-Hispanic,,61.0,33.98,nan,

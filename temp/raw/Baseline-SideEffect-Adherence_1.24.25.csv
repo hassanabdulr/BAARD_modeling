@@ -1,0 +1,744 @@
+Record ID,site,Event Name,Date,1. Do you anticipate having any problems taking the antidepressant we prescribe daily?,2. Can you think of anything that might make it difficult for you to take the medication every day without missing doses?,3. Describe & provide adherence counseling as needed        *Note: procedures not yet developed        ,1. Have you had any side effects from any of your medications?   ,Please list the Side Effect?,"Current Severity (how bad is it now?)                Would you say that it's mild, moderate, or severe?                If clarification is needed:        Mild: Discomfort noticed, but no disruption of normal daily activityModerate: Discomfort sufficient to reduce or affect normal daily activitySevere: Incapacitating, with inability to work or to perform normal daily activity",Onset Date (When did it start?),Is it still going on?,End Date (When did it stop?),Please list the next side effect?,"Current Severity (how bad is it now?)                Would you say that it's mild, moderate, or severe?                If clarification is needed:        Mild: Discomfort noticed, but no disruption of normal daily activityModerate: Discomfort sufficient to reduce or affect normal daily activitySevere: Incapacitating, with inability to work or to perform normal daily activity",Onset Date (When did it start?),Is it still going on?,End Date (When did it stop?),Please list the next side effect?,"Current Severity (how bad is it now?)                Would you say that it's mild, moderate, or severe?                If clarification is needed:        Mild: Discomfort noticed, but no disruption of normal daily activityModerate: Discomfort sufficient to reduce or affect normal daily activitySevere: Incapacitating, with inability to work or to perform normal daily activity",Onset Date (When did it start?),Is it still going on?,End Date (When did it stop?),Please list the next side effect?,"Current Severity (how bad is it now?)                Would you say that it's mild, moderate, or severe?                If clarification is needed:        Mild: Discomfort noticed, but no disruption of normal daily activityModerate: Discomfort sufficient to reduce or affect normal daily activitySevere: Incapacitating, with inability to work or to perform normal daily activity",Onset Date (When did it start?),Is it still going on?,End Date (When did it stop?),Please list the next side effect?,"Current Severity (how bad is it now?)                Would you say that it's mild, moderate, or severe?                If clarification is needed:        Mild: Discomfort noticed, but no disruption of normal daily activityModerate: Discomfort sufficient to reduce or affect normal daily activitySevere: Incapacitating, with inability to work or to perform normal daily activity",Onset Date (When did it start?),Is it still going on?,End Date (When did it stop?),Complete?
+record_id,site,redcap_event_name,baseline_forms_date,base_adherence_1,base_adherence_2,base_adherence_3,base_se_1,base_se1_name,base_se1_curr_sev,base_se1_onset,base_se1_ongoing,base_se1_end,base_se2_name,base_se2_curr_sev,base_se2_onset,base_se2_ongoing,base_se2_end,base_se3_name,base_se3_curr_sev,base_se3_onset,base_se3_ongoing,base_se3_end,base_se4_name,base_se4_curr_sev,base_se4_onset,base_se4_ongoing,base_se4_end,base_se5_name,base_se5_curr_sev,base_se5_onset,base_se5_ongoing,base_se5_end,baseline_forms_complete
+CU10001,CU,Baseline (Arm 1: Baseline and Ongoing),2/23/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10002,CU,Baseline (Arm 1: Baseline and Ongoing),3/8/2017,No,No,,Yes,Sweating,Severe,4/27/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10003,CU,Baseline (Arm 1: Baseline and Ongoing),4/12/2017,No,No,,Yes,Reduced libido,Moderate,4/1/2007,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10004,CU,Baseline (Arm 1: Baseline and Ongoing),4/17/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10005,CU,Baseline (Arm 1: Baseline and Ongoing),4/26/2016,No,No,,Yes,Sweating,Moderate,4/26/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10006,CU,Baseline (Arm 1: Baseline and Ongoing),5/8/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10007,CU,Baseline (Arm 1: Baseline and Ongoing),5/16/2017,No,Yes,Does not want side effects to affect her work.,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10008,CU,Baseline (Arm 1: Baseline and Ongoing),5/24/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10009,CU,Baseline (Arm 1: Baseline and Ongoing),5/25/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10010,CU,Baseline (Arm 1: Baseline and Ongoing),6/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10011,CU,Baseline (Arm 1: Baseline and Ongoing),7/6/2017,No,No,,Yes,Numbness and tingling sensation of skin,Moderate,6/6/2017,Yes,,Dry tongue,Moderate,5/6/2017,Yes,,,,,,,,,,,,,,,,,Complete
+CU10012,CU,Baseline (Arm 1: Baseline and Ongoing),7/12/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10013,CU,Baseline (Arm 1: Baseline and Ongoing),7/12/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10014,CU,Baseline (Arm 1: Baseline and Ongoing),7/12/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10015,CU,Baseline (Arm 1: Baseline and Ongoing),7/26/2017,No,No,,Yes,Diarrhea,Mild,7/12/2017,No,7/26/2017,,,,,,,,,,,,,,,,,,,,,Complete
+CU10016,CU,Baseline (Arm 1: Baseline and Ongoing),7/26/2017,No,No,,Yes,Constipation,Moderate,7/5/2017,Yes,,Dry tongue,Mild,7/5/2017,Yes,,,,,,,,,,,,,,,,,Complete
+CU10017,CU,Baseline (Arm 1: Baseline and Ongoing),8/2/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10018,CU,Baseline (Arm 1: Baseline and Ongoing),8/2/2017,No,Yes,If I'm traveling to India sometimes I have trouble with this. ,Yes,Dry tongue,Severe,5/8/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10019,CU,Baseline (Arm 1: Baseline and Ongoing),8/2/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10020,CU,Baseline (Arm 1: Baseline and Ongoing),8/9/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10021,CU,Baseline (Arm 1: Baseline and Ongoing),,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10022,CU,Baseline (Arm 1: Baseline and Ongoing),9/20/2017,No,Yes,N/A,Yes,Reduced libido,Severe,1/1/1997,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10023,CU,Baseline (Arm 1: Baseline and Ongoing),9/19/2017,No,No,,Yes,Fatigue,Moderate,6/14/2017,Yes,,Feeling irritable,Moderate,9/18/2017,No,10/1/2017,,,,,,,,,,,,,,,,Complete
+CU10024,CU,Baseline (Arm 1: Baseline and Ongoing),9/27/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10025,CU,Baseline (Arm 1: Baseline and Ongoing),10/4/2017,No,No,,Yes,Diarrhea,Moderate,8/4/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10026,CU,Baseline (Arm 1: Baseline and Ongoing),10/10/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10027,CU,Baseline (Arm 1: Baseline and Ongoing),10/19/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10028,CU,Baseline (Arm 1: Baseline and Ongoing),10/24/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10029,CU,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+CU10030,CU,Baseline (Arm 1: Baseline and Ongoing),11/22/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10031,CU,Baseline (Arm 1: Baseline and Ongoing),11/21/2017,No,No,,Yes,Hypersomnia,Moderate,11/18/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10032,CU,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+CU10033,CU,Baseline (Arm 1: Baseline and Ongoing),11/15/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10034,CU,Baseline (Arm 1: Baseline and Ongoing),12/6/2017,No,No,,Yes,Weight loss,Severe,6/15/1998,Yes,,Aptyalism,Moderate,6/15/2007,Yes,,,,,,,,,,,,,,,,,Complete
+CU10035,CU,Baseline (Arm 1: Baseline and Ongoing),12/12/2017,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10036,CU,Baseline (Arm 1: Baseline and Ongoing),12/13/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10037,CU,Baseline (Arm 1: Baseline and Ongoing),12/27/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10038,CU,Baseline (Arm 1: Baseline and Ongoing),12/27/2017,No,Yes,Patient reports that nausea / increased anxiety from the study medication would make it difficult for him to take it every day without missing doses.,Yes,Difficulty sleeping,Severe,11/27/2017,Yes,,Anxiety,Severe,11/27/2017,Yes,,,,,,,,,,,,,,,,,Complete
+CU10039,CU,Baseline (Arm 1: Baseline and Ongoing),1/19/2018,No,No,,Yes,Palpitations,Mild,7/10/2017,No,7/10/2017,,,,,,,,,,,,,,,,,,,,,Complete
+CU10040,CU,Baseline (Arm 1: Baseline and Ongoing),1/31/2018,Yes,Yes,"Patient does not take current medication consistently. Sometimes, she simply does not want to take the medication. Sertraline 50mg makes her sleepy because takes it past 12am and she is unable to wake up until late in the day  the following day.  Cannot promise that she will take randomized treatment consistently.",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10041,CU,Baseline (Arm 1: Baseline and Ongoing),1/30/2018,No,No,,Yes,Aptyalism,Moderate,1/26/2018,Yes,,Constipation,Severe,1/26/2018,,,,,,,,,,,,,,,,,,Complete
+CU10043,CU,Baseline (Arm 1: Baseline and Ongoing),4/19/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10044,CU,Baseline (Arm 1: Baseline and Ongoing),3/21/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10045,CU,Baseline (Arm 1: Baseline and Ongoing),2/15/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10046,CU,Baseline (Arm 1: Baseline and Ongoing),2/14/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10049,CU,Baseline (Arm 1: Baseline and Ongoing),3/27/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10050,CU,Baseline (Arm 1: Baseline and Ongoing),4/17/2018,No,No,,Yes,Constipation,Moderate,6/15/2013,Yes,,Insomnia,Moderate,6/15/2013,Yes,,Cramp in lower leg,Mild,6/15/2013,Yes,,Tired,Mild,6/15/2013,Yes,,,,,,,Complete
+CU10051,CU,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+CU10052,CU,Baseline (Arm 1: Baseline and Ongoing),4/26/2018,No,No,,Yes,Feeling nervous,Mild,4/11/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10053,CU,Baseline (Arm 1: Baseline and Ongoing),4/10/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10054,CU,Baseline (Arm 1: Baseline and Ongoing),4/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10055,CU,Baseline (Arm 1: Baseline and Ongoing),4/19/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10056,CU,Baseline (Arm 1: Baseline and Ongoing),,No,No,,Yes,Unsteady when walking,Mild,,Yes,,Reduced concentration span,Mild,,Yes,,,,,,,,,,,,,,,,,Complete
+CU10057,CU,Baseline (Arm 1: Baseline and Ongoing),5/4/2018,No,Yes,Forgetfulness,Yes,Tinnitus,Moderate,6/15/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10058,CU,Baseline (Arm 1: Baseline and Ongoing),5/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10059,CU,Baseline (Arm 1: Baseline and Ongoing),5/10/2018,No,Yes,The hours get confusing with all the flights but I'm going to start counting hours to keep track. ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10060,CU,Baseline (Arm 1: Baseline and Ongoing),5/23/2018,No,No,,Yes,Feeling tired,Mild,5/10/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10061,CU,Baseline (Arm 1: Baseline and Ongoing),6/20/2018,No,Yes,She's sensitive to medications so she might have side effects. ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10062,CU,Baseline (Arm 1: Baseline and Ongoing),6/21/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10063,CU,Baseline (Arm 1: Baseline and Ongoing),6/21/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10064,CU,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+CU10065,CU,Baseline (Arm 1: Baseline and Ongoing),7/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10066,CU,Baseline (Arm 1: Baseline and Ongoing),,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10067,CU,Baseline (Arm 1: Baseline and Ongoing),8/30/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10068,CU,Baseline (Arm 1: Baseline and Ongoing),9/24/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10069,CU,Baseline (Arm 1: Baseline and Ongoing),9/4/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10070,CU,Baseline (Arm 1: Baseline and Ongoing),9/12/2018,No,Yes,More likely to take the med if it's in the morning,Yes,Reduced salivation,Moderate,9/6/2013,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10071,CU,Baseline (Arm 1: Baseline and Ongoing),9/13/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10072,CU,Baseline (Arm 1: Baseline and Ongoing),9/12/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10073,CU,Baseline (Arm 1: Baseline and Ongoing),9/27/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10074,CU,Baseline (Arm 1: Baseline and Ongoing),10/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10075,CU,Baseline (Arm 1: Baseline and Ongoing),11/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10076,CU,Baseline (Arm 1: Baseline and Ongoing),11/14/2018,No,No,,Yes,Constipation,Moderate,1/4/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10077,CU,Baseline (Arm 1: Baseline and Ongoing),11/23/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10078,CU,Baseline (Arm 1: Baseline and Ongoing),11/29/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10079,CU,Baseline (Arm 1: Baseline and Ongoing),11/20/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10081,CU,Baseline (Arm 1: Baseline and Ongoing),12/5/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10082,CU,Baseline (Arm 1: Baseline and Ongoing),1/15/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10083,CU,Baseline (Arm 1: Baseline and Ongoing),1/9/2019,No,Yes,She's sensitive to side effects. ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10084,CU,Baseline (Arm 1: Baseline and Ongoing),12/13/2018,No,No,,Yes,Diarrhea,Moderate,1/15/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10085,CU,Baseline (Arm 1: Baseline and Ongoing),12/19/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10086,CU,Baseline (Arm 1: Baseline and Ongoing),1/23/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10088,CU,Baseline (Arm 1: Baseline and Ongoing),2/13/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10089,CU,Baseline (Arm 1: Baseline and Ongoing),3/7/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10090,CU,Baseline (Arm 1: Baseline and Ongoing),8/1/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10091,CU,Baseline (Arm 1: Baseline and Ongoing),7/18/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10093,CU,Baseline (Arm 1: Baseline and Ongoing),3/13/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10094,CU,Baseline (Arm 1: Baseline and Ongoing),3/19/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10095,CU,Baseline (Arm 1: Baseline and Ongoing),3/28/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10096,CU,Baseline (Arm 1: Baseline and Ongoing),3/27/2019,No,No,,Yes,Gas,Mild,1/27/2019,Yes,,Alopecia,Mild,3/27/2017,Yes,,,,,,,,,,,,,,,,,Complete
+CU10097,CU,Baseline (Arm 1: Baseline and Ongoing),3/27/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10098,CU,Baseline (Arm 1: Baseline and Ongoing),3/27/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10099,CU,Baseline (Arm 1: Baseline and Ongoing),4/3/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10100,CU,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+CU10101,CU,Baseline (Arm 1: Baseline and Ongoing),4/17/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10102,CU,Baseline (Arm 1: Baseline and Ongoing),4/29/2019,No,No,,Yes,Photophobia,Moderate,6/15/1980,Yes,,Feeling agitated,Mild,4/28/2019,Yes,,Stomach ache,Mild,4/15/2018,No,4/30/2019,,,,,,,,,,,Complete
+CU10103,CU,Baseline (Arm 1: Baseline and Ongoing),5/1/2019,No,No,,Yes,Blurring of visual image,Mild,5/1/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10104,CU,Baseline (Arm 1: Baseline and Ongoing),6/26/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10105,CU,Baseline (Arm 1: Baseline and Ongoing),6/6/2019,No,No,,Yes,C/O - postnasal drip,Mild,6/1/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10106,CU,Baseline (Arm 1: Baseline and Ongoing),5/2/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10109,CU,Baseline (Arm 1: Baseline and Ongoing),7/31/2019,No,No,,Yes,Urinary incontinence,Moderate,7/15/2019,Yes,,Balance,Moderate,5/5/2019,No,9/6/2019,,,,,,,,,,,,,,,,Complete
+CU10110,CU,Baseline (Arm 1: Baseline and Ongoing),6/27/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10111,CU,Baseline (Arm 1: Baseline and Ongoing),6/5/2019,No,No,,Yes,Drowsy,Mild,6/15/2014,Yes,,Increased frequency of urination,Mild,6/15/2014,Yes,,,,,,,,,,,,,,,,,Complete
+CU10112,CU,Baseline (Arm 1: Baseline and Ongoing),7/3/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10113,CU,Baseline (Arm 1: Baseline and Ongoing),6/25/2019,No,No,,Yes,Drowsiness,Severe,6/24/2019,Yes,,Stomach problem,Severe,6/15/2019,Yes,,,,,,,,,,,,,,,,,Complete
+CU10114,CU,Baseline (Arm 1: Baseline and Ongoing),7/3/2019,Yes,No,Is worried about side effects and that may affect her willingness to take the aripiprazole. She will call us if she beings experiencing side effects.,Yes,Constipation,Mild,1/1/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10115,CU,Baseline (Arm 1: Baseline and Ongoing),8/1/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+cu10116,CU,Baseline (Arm 1: Baseline and Ongoing),8/7/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10119,CU,Baseline (Arm 1: Baseline and Ongoing),9/4/2019,No,No,,Yes,Aptyalism,Mild,9/4/1989,Yes,,Dry eyes,Moderate,9/4/1989,Yes,,Constipation,Mild,,Yes,,,,,,,,,,,,Complete
+CU10121,CU,Baseline (Arm 1: Baseline and Ongoing),9/25/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10122,CU,Baseline (Arm 1: Baseline and Ongoing),9/25/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10123,CU,Baseline (Arm 1: Baseline and Ongoing),10/15/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10125,CU,Baseline (Arm 1: Baseline and Ongoing),10/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10128,CU,Baseline (Arm 1: Baseline and Ongoing),11/13/2019,No,No,,Yes,Aptyalism,Mild,10/30/2019,Yes,,Constipation,Mild,10/30/2019,Yes,,,,,,,,,,,,,,,,,Complete
+CU10129,CU,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+CU10130,CU,Baseline (Arm 1: Baseline and Ongoing),10/24/2019,No,No,,Yes,Itching,Moderate,10/18/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10131,CU,Baseline (Arm 1: Baseline and Ongoing),10/30/2019,No,Yes,"Traveling between Mexico and NY may make taking medications a bit difficult, but he is very good/careful with remembering to bring enough with him on trips.",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10132,CU,Baseline (Arm 1: Baseline and Ongoing),10/30/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10133,CU,Baseline (Arm 1: Baseline and Ongoing),11/27/2019,No,No,,Yes,Bruises easily,Mild,,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10134,CU,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+CU10135,CU,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+CU10137,CU,Baseline (Arm 1: Baseline and Ongoing),11/21/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10138,CU,Baseline (Arm 1: Baseline and Ongoing),11/27/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10140,CU,Baseline (Arm 1: Baseline and Ongoing),12/4/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10141,CU,Baseline (Arm 1: Baseline and Ongoing),12/5/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10142,CU,Baseline (Arm 1: Baseline and Ongoing),1/8/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10145,CU,Baseline (Arm 1: Baseline and Ongoing),2/6/2020,No,No,,Yes,Insomnia,Moderate,12/23/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10146,CU,Baseline (Arm 1: Baseline and Ongoing),1/10/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10147,CU,Baseline (Arm 1: Baseline and Ongoing),1/30/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+CU10148,CU,Baseline (Arm 1: Baseline and Ongoing),1/8/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10001,LA,Baseline (Arm 1: Baseline and Ongoing),6/15/2017,No,No,,Yes,Anxiety about breathlessness,Moderate,6/1/1975,No,6/1/1975,"Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered",Severe,6/1/1975,No,6/1/1975,Itching of skin,Moderate,6/15/2015,No,6/18/2015,,,,,,,,,,,Complete
+LA10002,LA,Baseline (Arm 1: Baseline and Ongoing),6/20/2017,No,Yes,"Subject describes himself as having apathy, and is concerned that it may get in the way of adherence. However, he feels optimistic about being in the study and would provide enough motivation. ",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10003,LA,Baseline (Arm 1: Baseline and Ongoing),6/22/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10004,LA,Baseline (Arm 1: Baseline and Ongoing),9/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10005,LA,Baseline (Arm 1: Baseline and Ongoing),7/7/2017,No,No,,Yes,Stomach ache,Severe,6/23/2017,No,7/1/2017,Sweating,Severe,6/23/2017,No,7/1/2017,Dizziness,Mild,6/23/2017,No,7/1/2017,,,,,,,,,,,Complete
+LA10006,LA,Baseline (Arm 1: Baseline and Ongoing),6/29/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10007,LA,Baseline (Arm 1: Baseline and Ongoing),7/12/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10008,LA,Baseline (Arm 1: Baseline and Ongoing),7/18/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10009,LA,Baseline (Arm 1: Baseline and Ongoing),7/20/2017,No,No,,Yes,Fatigue,Moderate,1/1/2016,Yes,,Feeling nervous,Moderate,1/1/2016,Yes,,,,,,,,,,,,,,,,,Complete
+LA10010,LA,Baseline (Arm 1: Baseline and Ongoing),9/13/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10011,LA,Baseline (Arm 1: Baseline and Ongoing),8/10/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10012,LA,Baseline (Arm 1: Baseline and Ongoing),8/28/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10013,LA,Baseline (Arm 1: Baseline and Ongoing),9/12/2017,No,No,,Yes,Somatic sensation,Moderate,9/1/2013,No,9/1/2013,Dizziness due to drug,Severe,9/1/2013,No,9/1/2014,,,,,,,,,,,,,,,,Complete
+LA10014,LA,Baseline (Arm 1: Baseline and Ongoing),12/12/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10016,LA,Baseline (Arm 1: Baseline and Ongoing),10/25/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10017,LA,Baseline (Arm 1: Baseline and Ongoing),10/19/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10018,LA,Baseline (Arm 1: Baseline and Ongoing),11/17/2017,No,No,,Yes,,Moderate,11/17/1991,No,11/17/1991,,,,,,,,,,,,,,,,,,,,,Complete
+LA10019,LA,Baseline (Arm 1: Baseline and Ongoing),11/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10020,LA,Baseline (Arm 1: Baseline and Ongoing),11/27/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10021,LA,Baseline (Arm 1: Baseline and Ongoing),11/29/2017,No,No,,Yes,Nausea,Moderate,1/1/2015,No,1/1/2016,,,,,,,,,,,,,,,,,,,,,Complete
+LA10022,LA,Baseline (Arm 1: Baseline and Ongoing),12/5/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10023,LA,Baseline (Arm 1: Baseline and Ongoing),1/8/2018,No,Yes,Fears regarding medications in general may make it difficult to take antidepressant. ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10024,LA,Baseline (Arm 1: Baseline and Ongoing),3/23/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10025,LA,Baseline (Arm 1: Baseline and Ongoing),1/11/2018,No,No,,Yes,Cough,Severe,7/1/2016,No,1/11/2017,Swelling of lower leg,Severe,9/1/2016,No,9/7/2016,,,,,,,,,,,,,,,,Complete
+LA10026,LA,Baseline (Arm 1: Baseline and Ongoing),1/25/2018,No,No,,Yes,Balance,Mild,1/1/1998,Yes,,Dry mouth saliva stimulator,Mild,1/1/1998,Yes,,,,,,,,,,,,,,,,,Complete
+LA10027,LA,Baseline (Arm 1: Baseline and Ongoing),1/25/2018,Yes,Yes,Anxiety about side effects,Yes,Tremor,Mild,,No,,Self-control behavior: aggression,Severe,,No,,,,,,,,,,,,,,,,,Complete
+LA10028,LA,Baseline (Arm 1: Baseline and Ongoing),1/26/2018,No,Yes,Has difficulty sustaining attention - gets easily distracted. ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10029,LA,Baseline (Arm 1: Baseline and Ongoing),1/30/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10030,LA,Baseline (Arm 1: Baseline and Ongoing),2/5/2018,No,Yes,Has had previous experience with Lithium and associated weight gain; ,Yes,Dizziness,Mild,,No,,Blood pressure,Mild,,No,,Weight gain,Mild,,No,,,,,,,,,,,,Complete
+LA10031,LA,Baseline (Arm 1: Baseline and Ongoing),2/5/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10032,LA,Baseline (Arm 1: Baseline and Ongoing),2/6/2018,Yes,Yes,Has concerns about taking abilify if randomized. ,Yes,Weight gain,Moderate,,No,,Drowsiness,Moderate,,No,,Hungry,,,,,,,,,,,,,,,Complete
+LA10033,LA,Baseline (Arm 1: Baseline and Ongoing),2/7/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10034,LA,Baseline (Arm 1: Baseline and Ongoing),2/20/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10035,LA,Baseline (Arm 1: Baseline and Ongoing),2/21/2018,No,No,,Yes,Drowsiness,Severe,1/1/1980,No,2/1/1980,Hallucinations,Mild,1/5/1985,No,1/4/1985,,,,,,,,,,,,,,,,Complete
+LA10036,LA,Baseline (Arm 1: Baseline and Ongoing),2/23/2018,No,No,,Yes,Wakefulness,Moderate,1/1/2016,No,1/8/2016,,,,,,,,,,,,,,,,,,,,,Complete
+LA10037,LA,Baseline (Arm 1: Baseline and Ongoing),2/28/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10038,LA,Baseline (Arm 1: Baseline and Ongoing),3/5/2018,No,No,,Yes,Out of body experience,Mild,1/1/2015,No,1/7/2015,,,,,,,,,,,,,,,,,,,,,Complete
+LA10039,LA,Baseline (Arm 1: Baseline and Ongoing),4/6/2018,No,No,,Yes,Headache,Severe,1/1/1992,No,4/1/1992,Weight gain,Moderate,1/1/1995,No,1/1/1997,,,,,,,,,,,,,,,,Complete
+LA10040,LA,Baseline (Arm 1: Baseline and Ongoing),4/3/2018,No,No,,Yes,Dry mouth saliva stimulator,Moderate,4/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10041,LA,Baseline (Arm 1: Baseline and Ongoing),4/4/2018,No,No,,Yes,Grade of skin rash,Moderate,1/1/1990,No,1/31/1990,,,,,,,,,,,,,,,,,,,,,Complete
+LA10042,LA,Baseline (Arm 1: Baseline and Ongoing),9/5/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10043,LA,Baseline (Arm 1: Baseline and Ongoing),5/30/2018,No,No,,Yes,Nausea,Severe,5/1/1997,No,5/2/1997,Swelling,Severe,5/1/1985,No,5/4/1985,,,,,,,,,,,,,,,,Complete
+LA10044,LA,Baseline (Arm 1: Baseline and Ongoing),5/30/2018,No,No,,Yes,Constipation,Moderate,5/14/2018,Yes,,,Moderate,5/1/2018,Yes,,,,,,,,,,,,,,,,,Complete
+LA10045,LA,Baseline (Arm 1: Baseline and Ongoing),6/14/2018,No,Yes,Has little motivation sometimes to take his medication.  Is willing to try to take it every day for the study.,Yes,Fatigue,Moderate,6/1/2016,No,6/8/2016,,,,,,,,,,,,,,,,,,,,,Complete
+LA10046,LA,Baseline (Arm 1: Baseline and Ongoing),6/21/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10047,LA,Baseline (Arm 1: Baseline and Ongoing),10/26/2018,No,No,,Yes,Incontinence,Moderate,8/1/2018,No,8/3/2018,Dizzy spells,Mild,2/1/2018,No,8/1/2018,,,,,,,,,,,,,,,,Complete
+LA10048,LA,Baseline (Arm 1: Baseline and Ongoing),7/10/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10049,LA,Baseline (Arm 1: Baseline and Ongoing),7/16/2018,No,Yes,"Because he now drives for Uber, he sometimes misses afternoon doses. Doesn't miss morning or evening doses usually.",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10050,LA,Baseline (Arm 1: Baseline and Ongoing),7/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10051,LA,Baseline (Arm 1: Baseline and Ongoing),7/31/2018,No,No,,Yes,Depression worse in morning,Moderate,1/1/2010,No,3/1/2010,,,,,,,,,,,,,,,,,,,,,Complete
+LA10052,LA,Baseline (Arm 1: Baseline and Ongoing),8/8/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10053,LA,Baseline (Arm 1: Baseline and Ongoing),8/10/2018,No,No,,Yes,Urticaria,Moderate,5/1/2018,No,5/11/2018,,,,,,,,,,,,,,,,,,,,,Complete
+LA10054,LA,Baseline (Arm 1: Baseline and Ongoing),9/6/2018,No,Yes,Forgets sometimes when he doesn't sleep the night before.  Will be putting a reminder on his phone to help increase adherence.,Yes,,Severe,9/1/2014,No,9/10/2014,,,,,,,,,,,,,,,,,,,,,Complete
+LA10055,LA,Baseline (Arm 1: Baseline and Ongoing),1/29/2019,No,No,,Yes,Impairment level of vision,Severe,2/1/2013,Yes,,Weight gain,Moderate,2/1/2013,No,5/1/2013,Stress,Moderate,12/15/2013,Yes,,,,,,,,,,,,Complete
+LA10056,LA,Baseline (Arm 1: Baseline and Ongoing),11/1/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10057,LA,Baseline (Arm 1: Baseline and Ongoing),11/5/2018,No,No,,Yes,Hallucinations,Moderate,6/1/2017,No,6/2/2017,Upset stomach,Mild,9/3/2018,No,9/5/2018,,,,,,,,,,,,,,,,Complete
+LA10058,LA,Baseline (Arm 1: Baseline and Ongoing),11/19/2018,No,No,,Yes,Reduced salivation,Moderate,9/1/2018,No,9/6/2018,,,,,,,,,,,,,,,,,,,,,Complete
+LA10059,LA,Baseline (Arm 1: Baseline and Ongoing),1/25/2019,No,No,,Yes,Headache,Severe,1/1/1985,No,1/2/1985,,,,,,,,,,,,,,,,,,,,,Complete
+LA10060,LA,Baseline (Arm 1: Baseline and Ongoing),12/19/2018,Yes,Yes,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10061,LA,Baseline (Arm 1: Baseline and Ongoing),12/19/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10063,LA,Baseline (Arm 1: Baseline and Ongoing),1/22/2019,No,Yes,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10064,LA,Baseline (Arm 1: Baseline and Ongoing),2/27/2019,No,No,,Yes,Depression worse later in day,Severe,3/1/1993,No,8/2/1993,,,,,,,,,,,,,,,,,,,,,Complete
+LA10065,LA,Baseline (Arm 1: Baseline and Ongoing),2/15/2019,No,Yes,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10066,LA,Baseline (Arm 1: Baseline and Ongoing),2/13/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10067,LA,Baseline (Arm 1: Baseline and Ongoing),3/7/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10068,LA,Baseline (Arm 1: Baseline and Ongoing),3/4/2019,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10069,LA,Baseline (Arm 1: Baseline and Ongoing),3/12/2019,No,No,,Yes,Clouded consciousness,Moderate,3/8/1995,No,3/22/1995,,,,,,,,,,,,,,,,,,,,,Complete
+LA10070,LA,Baseline (Arm 1: Baseline and Ongoing),4/5/2019,No,No,,Yes,Restless legs,Moderate,10/5/2017,Yes,,O/E - dry/cracked lips,Moderate,6/1/2018,No,3/5/2019,Facial tic disorder,Moderate,10/5/2017,No,1/5/2019,Clouded consciousness,Moderate,6/5/2017,No,10/5/2017,,,,,,Complete
+LA10071,LA,Baseline (Arm 1: Baseline and Ongoing),4/8/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10072,LA,Baseline (Arm 1: Baseline and Ongoing),4/29/2019,No,No,,Yes,Hallucinations,Mild,6/15/1985,No,6/16/1985,,,,,,,,,,,,,,,,,,,,,Complete
+LA10073,LA,Baseline (Arm 1: Baseline and Ongoing),5/1/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10074,LA,Baseline (Arm 1: Baseline and Ongoing),5/8/2019,No,No,,Yes,Drowsiness,Moderate,5/1/2007,No,8/1/2007,,,,,,,,,,,,,,,,,,,,,Complete
+LA10075,LA,Baseline (Arm 1: Baseline and Ongoing),6/11/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10076,LA,Baseline (Arm 1: Baseline and Ongoing),5/29/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10077,LA,Baseline (Arm 1: Baseline and Ongoing),5/29/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10078,LA,Baseline (Arm 1: Baseline and Ongoing),6/24/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10079,LA,Baseline (Arm 1: Baseline and Ongoing),8/1/2019,No,No,,Yes,Metallic taste,Mild,6/15/2005,No,8/15/2005,,,,,,,,,,,,,,,,,,,,,Complete
+LA10080,LA,Baseline (Arm 1: Baseline and Ongoing),6/14/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10081,LA,Baseline (Arm 1: Baseline and Ongoing),6/25/2019,No,No,,Yes,Insomnia,Severe,4/1/2019,No,4/8/2019,C/O - vivid dreams,Moderate,4/15/2019,Yes,,,,,,,,,,,,,,,,,Complete
+LA10082,LA,Baseline (Arm 1: Baseline and Ongoing),7/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10083,LA,Baseline (Arm 1: Baseline and Ongoing),7/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10084,LA,Baseline (Arm 1: Baseline and Ongoing),12/20/2019,No,No,,Yes,Pain,Moderate,12/1/2018,No,12/31/2018,,,,,,,,,,,,,,,,,,,,,Complete
+LA10085,LA,Baseline (Arm 1: Baseline and Ongoing),8/20/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10086,LA,Baseline (Arm 1: Baseline and Ongoing),8/23/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10087,LA,Baseline (Arm 1: Baseline and Ongoing),8/29/2019,No,No,,Yes,Subjective muscle weakness,Mild,8/15/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10088,LA,Baseline (Arm 1: Baseline and Ongoing),8/30/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10089,LA,Baseline (Arm 1: Baseline and Ongoing),9/11/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10090,LA,Baseline (Arm 1: Baseline and Ongoing),9/12/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10091,LA,Baseline (Arm 1: Baseline and Ongoing),9/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10092,LA,Baseline (Arm 1: Baseline and Ongoing),10/1/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10093,LA,Baseline (Arm 1: Baseline and Ongoing),9/26/2019,No,No,,Yes,Generalized rash,Moderate,9/1/2009,No,9/3/2009,,,,,,,,,,,,,,,,,,,,,Complete
+LA10094,LA,Baseline (Arm 1: Baseline and Ongoing),10/7/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10095,LA,Baseline (Arm 1: Baseline and Ongoing),10/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10096,LA,Baseline (Arm 1: Baseline and Ongoing),10/25/2019,No,Yes,If not prescribed,Yes,Fatigue,Moderate,6/15/2009,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10097,LA,Baseline (Arm 1: Baseline and Ongoing),10/30/2019,No,No,,Yes,Aptyalism,Moderate,8/15/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10099,LA,Baseline (Arm 1: Baseline and Ongoing),11/4/2019,No,No,,Yes,Mood swings,Moderate,6/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10101,LA,Baseline (Arm 1: Baseline and Ongoing),11/26/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10102,LA,Baseline (Arm 1: Baseline and Ongoing),12/2/2019,No,No,,Yes,Parathyroid hormone measurement,Moderate,6/15/2014,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10104,LA,Baseline (Arm 1: Baseline and Ongoing),12/6/2019,No,Yes,Sometimes forgets to miss doses.  Would make sure to keep medications in sight and try to stay adherent during the study.  Says being checked-in with will help.,Yes,,Moderate,,No,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10105,LA,Baseline (Arm 1: Baseline and Ongoing),12/9/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+LA10107,LA,Baseline (Arm 1: Baseline and Ongoing),12/11/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10001,UP,Baseline (Arm 1: Baseline and Ongoing),,No,No,,Yes,Dry mouth saliva stimulator,Mild,3/15/2015,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10003,UP,Baseline (Arm 1: Baseline and Ongoing),,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10004,UP,Baseline (Arm 1: Baseline and Ongoing),,No,No,,Yes,Dry mouth saliva stimulator,Moderate,6/15/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10005,UP,Baseline (Arm 1: Baseline and Ongoing),4/10/2017,No,No,,Yes,Dry mouth saliva stimulator,,6/15/2007,Yes,,Drowsy,Mild,6/15/2007,Yes,,Dizziness,Mild,6/15/2007,Yes,,,,,,,,,,,,Complete
+UP10006,UP,Baseline (Arm 1: Baseline and Ongoing),4/13/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10007,UP,Baseline (Arm 1: Baseline and Ongoing),4/14/2017,No,No,,Yes,Drug-induced xerostomia,Severe,4/14/2017,Yes,,Constipation,Moderate,4/14/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UP10008,UP,Baseline (Arm 1: Baseline and Ongoing),4/25/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10009,UP,Baseline (Arm 1: Baseline and Ongoing),4/26/2017,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2015,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10010,UP,Baseline (Arm 1: Baseline and Ongoing),,No,No,,Yes,Orthostatic hypotension,Moderate,4/1/2017,No,4/21/2017,,,,,,,,,,,,,,,,,,,,,Complete
+UP10011,UP,Baseline (Arm 1: Baseline and Ongoing),5/2/2017,No,Yes,"If it starts to interfere with my sleep, I may not want to take it as prescribed.  ",Yes,Nausea,Mild,1/1/2017,Yes,,Constipation,Mild,1/1/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UP10012,UP,Baseline (Arm 1: Baseline and Ongoing),5/3/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10018,UP,Baseline (Arm 1: Baseline and Ongoing),5/30/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10020,UP,Baseline (Arm 1: Baseline and Ongoing),6/14/2017,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2015,Yes,,Itching,Moderate,6/12/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UP10021,UP,Baseline (Arm 1: Baseline and Ongoing),6/15/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10022,UP,Baseline (Arm 1: Baseline and Ongoing),6/20/2017,No,No,,Yes,Sweating,Mild,6/15/2017,Yes,,Feeling nervous,Mild,6/15/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UP10024,UP,Baseline (Arm 1: Baseline and Ongoing),6/26/2017,No,Yes,She states that she tends to forget sometimes.  Counseled on the importance of daily regularity and offered to provide a medication diary but she declined stating she is fully aware of the importance and already has a pill box and reminders.,Yes,Involuntary muscle contraction,Severe,6/15/2015,Yes,,Tremor,Mild,6/15/2016,Yes,,Constipation,Mild,6/15/2016,Yes,,,,,,,,,,,,Complete
+UP10026,UP,Baseline (Arm 1: Baseline and Ongoing),7/11/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10027,UP,Baseline (Arm 1: Baseline and Ongoing),7/12/2017,No,Yes,The price of the medications,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10029,UP,Baseline (Arm 1: Baseline and Ongoing),7/19/2017,No,No,,Yes,Drug-induced xerostomia,Mild,6/15/2015,Yes,,Itching,Mild,6/15/2015,Yes,,,,,,,,,,,,,,,,,Complete
+UP10030,UP,Baseline (Arm 1: Baseline and Ongoing),7/19/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10032,UP,Baseline (Arm 1: Baseline and Ongoing),7/25/2017,No,No,,Yes,Dry mouth saliva stimulator,Moderate,6/15/2015,Yes,,Lightheadedness,Moderate,6/15/2015,Yes,,,,,,,,,,,,,,,,,Complete
+UP10033,UP,Baseline (Arm 1: Baseline and Ongoing),8/1/2017,Yes,Yes,Patient has had adherence problems in the past due to both cost and regular non-compliance ('sometimes I feel there's no point.'),,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10035,UP,Baseline (Arm 1: Baseline and Ongoing),8/16/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10036,UP,Baseline (Arm 1: Baseline and Ongoing),8/18/2017,Yes,No,'I am drug sensitive.' Patient reports she frequently has side effects from antidepressants and stops taking them.,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10037,UP,Baseline (Arm 1: Baseline and Ongoing),8/29/2017,No,No,,Yes,Excessive sweating,Mild,1/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10038,UP,Baseline (Arm 1: Baseline and Ongoing),8/29/2017,No,No,,Yes,Diarrhea,Severe,10/30/2014,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10039,UP,Baseline (Arm 1: Baseline and Ongoing),8/30/2017,No,No,,Yes,Falling injury,Mild,1/2/2017,No,5/1/2017,,,,,,,,,,,,,,,,,,,,,Complete
+UP10040,UP,Baseline (Arm 1: Baseline and Ongoing),9/12/2017,No,No,,Yes,Falls,Moderate,5/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10041,UP,Baseline (Arm 1: Baseline and Ongoing),9/5/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10042,UP,Baseline (Arm 1: Baseline and Ongoing),9/6/2017,No,No,,Yes,Increased frequency of urination,Mild,6/15/2012,Yes,,Sedation,Mild,9/15/2016,Yes,,Orthostatic hypotension,Mild,9/15/2016,Yes,,,,,,,,,,,,Complete
+UP10043,UP,Baseline (Arm 1: Baseline and Ongoing),9/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10044,UP,Baseline (Arm 1: Baseline and Ongoing),9/20/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10046,UP,Baseline (Arm 1: Baseline and Ongoing),9/26/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10047,UP,Baseline (Arm 1: Baseline and Ongoing),10/5/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10049,UP,Baseline (Arm 1: Baseline and Ongoing),10/13/2017,No,No,,Yes,Drug-induced xerostomia,Severe,4/1/2017,Yes,,Falls,Severe,7/3/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UP10050,UP,Baseline (Arm 1: Baseline and Ongoing),10/17/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10051,UP,Baseline (Arm 1: Baseline and Ongoing),10/17/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10052,UP,Baseline (Arm 1: Baseline and Ongoing),10/23/2017,No,No,,Yes,Sedation,Moderate,4/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10053,UP,Baseline (Arm 1: Baseline and Ongoing),11/1/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10054,UP,Baseline (Arm 1: Baseline and Ongoing),10/31/2017,No,No,,Yes,Dry mouth saliva stimulator,Mild,10/15/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10055,UP,Baseline (Arm 1: Baseline and Ongoing),11/1/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10057,UP,Baseline (Arm 1: Baseline and Ongoing),11/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10058,UP,Baseline (Arm 1: Baseline and Ongoing),12/13/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10060,UP,Baseline (Arm 1: Baseline and Ongoing),11/8/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10061,UP,Baseline (Arm 1: Baseline and Ongoing),11/9/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10062,UP,Baseline (Arm 1: Baseline and Ongoing),11/13/2017,No,No,,Yes,Sweating,Moderate,9/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10063,UP,Baseline (Arm 1: Baseline and Ongoing),11/13/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10065,UP,Baseline (Arm 1: Baseline and Ongoing),11/15/2017,No,No,,Yes,Memory recall,Mild,11/15/2006,Yes,,Nightmares,Mild,12/25/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UP10066,UP,Baseline (Arm 1: Baseline and Ongoing),12/11/2017,No,Yes,Only if I have to take it both morning and night.  Then it is harder to keep track.  ,Yes,Drug-induced xerostomia,Moderate,12/11/2017,Yes,,Increased appetite,Moderate,12/11/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UP10067,UP,Baseline (Arm 1: Baseline and Ongoing),11/21/2017,No,No,,Yes,Dry mouth saliva stimulator,Moderate,6/15/2015,Yes,,Drowsiness,Moderate,5/15/2015,Yes,,Nausea and vomiting,Moderate,11/15/2015,Yes,,,,,,,,,,,,Complete
+UP10068,UP,Baseline (Arm 1: Baseline and Ongoing),11/30/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10070,UP,Baseline (Arm 1: Baseline and Ongoing),11/30/2017,No,Yes,If he would be required to take the medication 3x/day that may be difficult as he tends to sleep during the day.  ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10071,UP,Baseline (Arm 1: Baseline and Ongoing),12/1/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10072,UP,Baseline (Arm 1: Baseline and Ongoing),12/4/2017,No,No,,Yes,Lightheadedness,Moderate,8/15/2016,Yes,,Headache,Mild,8/15/2016,Yes,,,,,,,,,,,,,,,,,Complete
+UP10074,UP,Baseline (Arm 1: Baseline and Ongoing),12/12/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10075,UP,Baseline (Arm 1: Baseline and Ongoing),12/7/2017,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10076,UP,Baseline (Arm 1: Baseline and Ongoing),12/12/2017,No,No,,Yes,Irritability and anger,Mild,11/29/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10077,UP,Baseline (Arm 1: Baseline and Ongoing),12/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10079,UP,Baseline (Arm 1: Baseline and Ongoing),1/4/2018,No,No,,Yes,Increased appetite,Mild,1/16/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10080,UP,Baseline (Arm 1: Baseline and Ongoing),1/12/2018,No,No,,Yes,Insomnia,Moderate,12/20/2017,No,2/2/2018,Anxiety,Moderate,12/20/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UP10081,UP,Baseline (Arm 1: Baseline and Ongoing),1/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10082,UP,Baseline (Arm 1: Baseline and Ongoing),1/22/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10083,UP,Baseline (Arm 1: Baseline and Ongoing),1/23/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10085,UP,Baseline (Arm 1: Baseline and Ongoing),1/31/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10086,UP,Baseline (Arm 1: Baseline and Ongoing),2/7/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10087,UP,Baseline (Arm 1: Baseline and Ongoing),2/12/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10088,UP,Baseline (Arm 1: Baseline and Ongoing),2/13/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10090,UP,Baseline (Arm 1: Baseline and Ongoing),2/21/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10091,UP,Baseline (Arm 1: Baseline and Ongoing),2/22/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10092,UP,Baseline (Arm 1: Baseline and Ongoing),3/12/2018,No,No,,Yes,Gastroesophageal reflux disease,Mild,,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10093,UP,Baseline (Arm 1: Baseline and Ongoing),3/8/2018,No,No,,Yes,Ringing in ear,Mild,5/3/2017,Yes,,Paresthesia,Mild,3/8/2018,Yes,,,,,,,,,,,,,,,,,Complete
+UP10094,UP,Baseline (Arm 1: Baseline and Ongoing),3/13/2018,No,No,,Yes,C/O - vivid dreams,Mild,12/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10096,UP,Baseline (Arm 1: Baseline and Ongoing),3/16/2018,No,No,,Yes,Dry mouth saliva stimulator,Moderate,6/15/2001,Yes,,Constipation,Moderate,6/15/2001,Yes,,,,,,,,,,,,,,,,,Complete
+UP10098,UP,Baseline (Arm 1: Baseline and Ongoing),3/22/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10099,UP,Baseline (Arm 1: Baseline and Ongoing),3/22/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10101,UP,Baseline (Arm 1: Baseline and Ongoing),3/30/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10103,UP,Baseline (Arm 1: Baseline and Ongoing),4/3/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10104,UP,Baseline (Arm 1: Baseline and Ongoing),4/3/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10105,UP,Baseline (Arm 1: Baseline and Ongoing),4/10/2018,No,No,,Yes,Constipation,Moderate,6/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10107,UP,Baseline (Arm 1: Baseline and Ongoing),4/11/2018,Yes,Yes,No issues unless she has side-effects and then eventually doesn't want to take it.    Sometimes she forgets  Sometimes she feels she needs less.  ,Yes,Attention,Mild,6/6/2018,Yes,,Aptyalism,Mild,6/6/2018,Yes,,,,,,,,,,,,,,,,,Complete
+UP10108,UP,Baseline (Arm 1: Baseline and Ongoing),4/17/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10109,UP,Baseline (Arm 1: Baseline and Ongoing),4/23/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10110,UP,Baseline (Arm 1: Baseline and Ongoing),4/23/2018,No,No,,Yes,Excessive thirst,Moderate,6/15/2000,Yes,,Poor balance,Moderate,6/15/2000,Yes,,Word finding difficulty,Moderate,6/15/2000,Yes,,,,,,,,,,,,Complete
+UP10111,UP,Baseline (Arm 1: Baseline and Ongoing),4/23/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10112,UP,Baseline (Arm 1: Baseline and Ongoing),4/24/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10113,UP,Baseline (Arm 1: Baseline and Ongoing),4/25/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10114,UP,Baseline (Arm 1: Baseline and Ongoing),4/26/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10124,UP,Baseline (Arm 1: Baseline and Ongoing),5/14/2018,No,No,,Yes,Sweating,Moderate,6/15/2016,Yes,,Dry mouth saliva stimulator,Mild,6/15/2015,Yes,,,,,,,,,,,,,,,,,Complete
+UP10125,UP,Baseline (Arm 1: Baseline and Ongoing),5/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10126,UP,Baseline (Arm 1: Baseline and Ongoing),5/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10128,UP,Baseline (Arm 1: Baseline and Ongoing),6/5/2018,No,No,,Yes,Weight gain,Moderate,5/1/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10130,UP,Baseline (Arm 1: Baseline and Ongoing),6/25/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10131,UP,Baseline (Arm 1: Baseline and Ongoing),6/27/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,5/15/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10132,UP,Baseline (Arm 1: Baseline and Ongoing),8/7/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10133,UP,Baseline (Arm 1: Baseline and Ongoing),7/13/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10134,UP,Baseline (Arm 1: Baseline and Ongoing),7/17/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10135,UP,Baseline (Arm 1: Baseline and Ongoing),7/23/2018,No,No,,Yes,C/O - bizarre dreams,Mild,5/15/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10136,UP,Baseline (Arm 1: Baseline and Ongoing),8/8/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10137,UP,Baseline (Arm 1: Baseline and Ongoing),8/30/2018,No,No,,Yes,C/O - vivid dreams,Mild,6/15/2002,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10138,UP,Baseline (Arm 1: Baseline and Ongoing),8/30/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10140,UP,Baseline (Arm 1: Baseline and Ongoing),9/11/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10141,UP,Baseline (Arm 1: Baseline and Ongoing),9/17/2018,No,Yes,"My depression- I give up.  My meds are in bubble packs but to be honest I have not been taking them (missed all meds).  On 9/24/18 plan is for her to take all of her meds every day for at least 1 week, get out of the house and do something each day, & provide insurance # for IOP, f/u appointment scheduled for 10/1/18 to check on progress.  ",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10142,UP,Baseline (Arm 1: Baseline and Ongoing),9/19/2018,No,No,,Yes,Other,Mild,5/1/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10143,UP,Baseline (Arm 1: Baseline and Ongoing),10/15/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10144,UP,Baseline (Arm 1: Baseline and Ongoing),10/15/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10145,UP,Baseline (Arm 1: Baseline and Ongoing),10/23/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10146,UP,Baseline (Arm 1: Baseline and Ongoing),10/30/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10147,UP,Baseline (Arm 1: Baseline and Ongoing),11/1/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10148,UP,Baseline (Arm 1: Baseline and Ongoing),11/12/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10149,UP,Baseline (Arm 1: Baseline and Ongoing),10/1/2018,No,No,,Yes,Constipation,Mild,10/1/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10150,UP,Baseline (Arm 1: Baseline and Ongoing),11/13/2018,Yes,No,"She is concerned @ exacerbating her existing essential tremor.  Dr. Karp met with her in person on 11/13/18 'no evidence of tardive dyskinesia of mouth, tongue, or extremities, but mild episodic essential tremor of jaw is noticeable'.  We will monitor carefully",Yes,Drowsy,Moderate,11/13/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10151,UP,Baseline (Arm 1: Baseline and Ongoing),11/15/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10152,UP,Baseline (Arm 1: Baseline and Ongoing),11/28/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+up10153,UP,Baseline (Arm 1: Baseline and Ongoing),11/30/2018,No,Yes,Currently taking less of her morphine than prescribed in order to stockpile: BID instead of TID and not taking the 15mg QID.,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10154,UP,Baseline (Arm 1: Baseline and Ongoing),12/4/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10155,UP,Baseline (Arm 1: Baseline and Ongoing),12/5/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+up10156,UP,Baseline (Arm 1: Baseline and Ongoing),12/7/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10157,UP,Baseline (Arm 1: Baseline and Ongoing),12/10/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,10/24/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10158,UP,Baseline (Arm 1: Baseline and Ongoing),12/14/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10160,UP,Baseline (Arm 1: Baseline and Ongoing),1/3/2019,No,Yes,"Patient missed her cymbalta dose this morning, will take later this afternoon. She has a good pill minder which we discussed using throughout the study. We discussed the importance of adherence with all of her medications, as she is noted in her chart as poor in diabetes management compliance as well. We planned to focus on it throughout study.",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10161,UP,Baseline (Arm 1: Baseline and Ongoing),1/8/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10163,UP,Baseline (Arm 1: Baseline and Ongoing),1/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+up10165,UP,Baseline (Arm 1: Baseline and Ongoing),1/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10167,UP,Baseline (Arm 1: Baseline and Ongoing),2/4/2019,No,Yes,sometimes forgets- discussed ways to remember- she has a cleaning person who she has known for years and who can help to make sure she remembers. SHe has a pill pack,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10168,UP,Baseline (Arm 1: Baseline and Ongoing),2/12/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10169,UP,Baseline (Arm 1: Baseline and Ongoing),2/7/2019,No,No,,Yes,Aptyalism,Moderate,2/15/2018,Yes,,Constipation,Moderate,2/15/2018,Yes,,,,,,,,,,,,,,,,,Complete
+UP10170,UP,Baseline (Arm 1: Baseline and Ongoing),2/11/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10171,UP,Baseline (Arm 1: Baseline and Ongoing),2/13/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10172,UP,Baseline (Arm 1: Baseline and Ongoing),2/19/2019,No,No,,Yes,Dry mouth saliva stimulator,Mild,10/15/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10173,UP,Baseline (Arm 1: Baseline and Ongoing),2/21/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10175,UP,Baseline (Arm 1: Baseline and Ongoing),2/22/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10176,UP,Baseline (Arm 1: Baseline and Ongoing),3/4/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10178,UP,Baseline (Arm 1: Baseline and Ongoing),3/6/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10179,UP,Baseline (Arm 1: Baseline and Ongoing),3/12/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10180,UP,Baseline (Arm 1: Baseline and Ongoing),4/4/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10183,UP,Baseline (Arm 1: Baseline and Ongoing),4/18/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10184,UP,Baseline (Arm 1: Baseline and Ongoing),5/6/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10185,UP,Baseline (Arm 1: Baseline and Ongoing),5/1/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10186,UP,Baseline (Arm 1: Baseline and Ongoing),4/25/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10187,UP,Baseline (Arm 1: Baseline and Ongoing),4/30/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10188,UP,Baseline (Arm 1: Baseline and Ongoing),5/2/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10189,UP,Baseline (Arm 1: Baseline and Ongoing),5/7/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10190,UP,Baseline (Arm 1: Baseline and Ongoing),5/8/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10191,UP,Baseline (Arm 1: Baseline and Ongoing),5/8/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10193,UP,Baseline (Arm 1: Baseline and Ongoing),5/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10196,UP,Baseline (Arm 1: Baseline and Ongoing),5/23/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10197,UP,Baseline (Arm 1: Baseline and Ongoing),5/28/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10198,UP,Baseline (Arm 1: Baseline and Ongoing),5/29/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10201,UP,Baseline (Arm 1: Baseline and Ongoing),6/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10202,UP,Baseline (Arm 1: Baseline and Ongoing),6/12/2019,No,Yes,sometimes pt admits she forgets to take her medication for depression- educated on why this is important and will make sure she understands when to take the med and more frequent contact in the beginning.,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10203,UP,Baseline (Arm 1: Baseline and Ongoing),6/20/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10204,UP,Baseline (Arm 1: Baseline and Ongoing),6/21/2019,No,No,,Yes,History of male erectile disorder,Moderate,6/15/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10206,UP,Baseline (Arm 1: Baseline and Ongoing),6/28/2019,No,No,,Yes,Drowsiness,Mild,6/28/2019,Yes,,Aptyalism,Moderate,6/28/2019,Yes,,,,,,,,,,,,,,,,,Complete
+UP10208,UP,Baseline (Arm 1: Baseline and Ongoing),7/11/2019,No,No,,Yes,C/O - vivid dreams,Mild,6/15/2015,Yes,,Dry mouth saliva stimulator,Mild,6/15/2015,Yes,,,,,,,,,,,,,,,,,Complete
+UP10209,UP,Baseline (Arm 1: Baseline and Ongoing),7/10/2019,No,Yes,Insurance,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10210,UP,Baseline (Arm 1: Baseline and Ongoing),7/11/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10213,UP,Baseline (Arm 1: Baseline and Ongoing),7/30/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10214,UP,Baseline (Arm 1: Baseline and Ongoing),8/6/2019,No,No,,Yes,Complaining of erectile dysfunction,Mild,6/15/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10216,UP,Baseline (Arm 1: Baseline and Ongoing),8/8/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10218,UP,Baseline (Arm 1: Baseline and Ongoing),8/14/2019,No,No,,Yes,Libido,,8/14/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10219,UP,Baseline (Arm 1: Baseline and Ongoing),8/8/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10220,UP,Baseline (Arm 1: Baseline and Ongoing),8/27/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10223,UP,Baseline (Arm 1: Baseline and Ongoing),9/12/2019,No,No,,Yes,Sweating,Mild,5/15/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10225,UP,Baseline (Arm 1: Baseline and Ongoing),9/10/2019,No,No,,Yes,Other,Mild,9/10/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10227,UP,Baseline (Arm 1: Baseline and Ongoing),9/11/2019,No,Yes,He did say that there was one medication in the past that he accidentally took too much of and had a bad experience (at first he mentioned Wellbutrin but I think it may have been paxil as he was only prescribed that for @ 3wks and he doesn't really remember that name).      He also said that although he uses a pill box which helps he sometimes forgets and that bothers him.  ,Yes,Drowsiness,Mild,9/11/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10228,UP,Baseline (Arm 1: Baseline and Ongoing),9/12/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10229,UP,Baseline (Arm 1: Baseline and Ongoing),9/20/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+up10230,UP,Baseline (Arm 1: Baseline and Ongoing),9/23/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10231,UP,Baseline (Arm 1: Baseline and Ongoing),9/24/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10232,UP,Baseline (Arm 1: Baseline and Ongoing),9/24/2019,No,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10234,UP,Baseline (Arm 1: Baseline and Ongoing),10/1/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10236,UP,Baseline (Arm 1: Baseline and Ongoing),10/3/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10238,UP,Baseline (Arm 1: Baseline and Ongoing),10/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10240,UP,Baseline (Arm 1: Baseline and Ongoing),10/18/2019,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2000,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10241,UP,Baseline (Arm 1: Baseline and Ongoing),10/29/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10242,UP,Baseline (Arm 1: Baseline and Ongoing),10/24/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10243,UP,Baseline (Arm 1: Baseline and Ongoing),9/17/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10244,UP,Baseline (Arm 1: Baseline and Ongoing),10/29/2019,No,Yes,"the pt mentioned several times that she does not like taking pill- she has stopped other medications because she felt like they were not helping whatever condition she was experiencing- she also says that sometimes she would take 150mg of venlafaxine and sometimes  if she felt more depressed, she would take an extra pill.  I provided counseling and feel that if she were in the study she could be adherent if we maintained close contact.",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10245,UP,Baseline (Arm 1: Baseline and Ongoing),10/30/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10246,UP,Baseline (Arm 1: Baseline and Ongoing),11/5/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10248,UP,Baseline (Arm 1: Baseline and Ongoing),11/12/2019,No,Yes,Sometimes forgets her morning meds,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10249,UP,Baseline (Arm 1: Baseline and Ongoing),11/18/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10250,UP,Baseline (Arm 1: Baseline and Ongoing),11/20/2019,No,No,,Yes,Dry mouth saliva stimulator,Mild,11/20/2018,Yes,,Diarrhea,Moderate,8/1/2019,Yes,,,,,,,,,,,,,,,,,Complete
+UP10255,UP,Baseline (Arm 1: Baseline and Ongoing),12/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10256,UP,Baseline (Arm 1: Baseline and Ongoing),12/10/2019,No,Yes,Her memory.  Tends to forget Effexor qam once a week.  ,Yes,Tremor,Mild,12/10/2018,Yes,,Dizziness,Mild,12/10/2018,Yes,,,,,,,,,,,,,,,,,Complete
+UP10257,UP,Baseline (Arm 1: Baseline and Ongoing),12/19/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10258,UP,Baseline (Arm 1: Baseline and Ongoing),12/11/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10261,UP,Baseline (Arm 1: Baseline and Ongoing),12/17/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10262,UP,Baseline (Arm 1: Baseline and Ongoing),12/18/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10263,UP,Baseline (Arm 1: Baseline and Ongoing),12/23/2019,No,No,,Yes,Dry mouth saliva stimulator,Mild,1/1/2018,Yes,,Itching of skin,Mild,1/1/2018,Yes,,Tremor,Mild,1/1/2018,Yes,,,,,,,,,,,,Complete
+UP10266,UP,Baseline (Arm 1: Baseline and Ongoing),1/8/2020,No,No,,Yes,Twitching eye,Mild,12/25/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10267,UP,Baseline (Arm 1: Baseline and Ongoing),1/8/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10269,UP,Baseline (Arm 1: Baseline and Ongoing),1/9/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10270,UP,Baseline (Arm 1: Baseline and Ongoing),1/7/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10271,UP,Baseline (Arm 1: Baseline and Ongoing),1/8/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10272,UP,Baseline (Arm 1: Baseline and Ongoing),1/6/2020,No,No,,Yes,Weight increasing,Mild,1/13/2020,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10273,UP,Baseline (Arm 1: Baseline and Ongoing),1/30/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10275,UP,Baseline (Arm 1: Baseline and Ongoing),1/14/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10276,UP,Baseline (Arm 1: Baseline and Ongoing),1/10/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10279,UP,Baseline (Arm 1: Baseline and Ongoing),1/14/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UP10280,UP,Baseline (Arm 1: Baseline and Ongoing),1/16/2020,Yes,No,Misses morning meds 2-3x/wk.  Counseled re: compliance and will monitor.,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10001,UT,Baseline (Arm 1: Baseline and Ongoing),,No,No,,Yes,Sweating,Mild,12/12/2016,Yes,,Decreased sexual function,Moderate,12/12/2016,No,1/15/2017,,,,,,,,,,,,,,,,Complete
+UT10002,UT,Baseline (Arm 1: Baseline and Ongoing),,No,No,,Yes,Dizziness,Mild,4/17/2017,Yes,,Poor balance,Mild,4/10/2017,Yes,,Fatigue,Moderate,3/1/2017,Yes,,Indifference,Moderate,3/1/2017,Yes,,,,,,,Complete
+UT10003,UT,Baseline (Arm 1: Baseline and Ongoing),5/3/2017,No,No,,Yes,Aptyalism,Moderate,8/17/2016,Yes,,Sweating,Mild,8/3/2016,Yes,,,,,,,,,,,,,,,,,Complete
+UT10004,UT,Baseline (Arm 1: Baseline and Ongoing),7/10/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10005,UT,Baseline (Arm 1: Baseline and Ongoing),5/30/2017,No,No,,Yes,Nausea,Mild,5/1/2017,Yes,,Fatigue,Mild,5/1/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UT10006,UT,Baseline (Arm 1: Baseline and Ongoing),6/8/2017,No,No,,Yes,Aptyalism,Mild,2/4/2017,Yes,,Tired,Mild,2/4/2017,Yes,,Diarrhea,Mild,2/4/2017,Yes,,Unsteady,Mild,2/4/2017,Yes,,,,,,,Complete
+UT10008,UT,Baseline (Arm 1: Baseline and Ongoing),7/18/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10009,UT,Baseline (Arm 1: Baseline and Ongoing),7/19/2017,No,No,,Yes,Weight increased,Mild,7/19/2017,Yes,,Anxiety attack,Mild,7/16/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UT10010,UT,Baseline (Arm 1: Baseline and Ongoing),7/31/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10011,UT,Baseline (Arm 1: Baseline and Ongoing),8/8/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10012,UT,Baseline (Arm 1: Baseline and Ongoing),8/16/2017,No,No,,Yes,Stomach ache,Mild,8/15/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10013,UT,Baseline (Arm 1: Baseline and Ongoing),8/22/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10015,UT,Baseline (Arm 1: Baseline and Ongoing),9/19/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10016,UT,Baseline (Arm 1: Baseline and Ongoing),9/22/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10017,UT,Baseline (Arm 1: Baseline and Ongoing),9/26/2017,No,No,,Yes,Menopausal flushing,Moderate,9/15/2002,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10018,UT,Baseline (Arm 1: Baseline and Ongoing),10/18/2017,Yes,No,Concerned about gaining weight and about the side effects.,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10019,UT,Baseline (Arm 1: Baseline and Ongoing),10/23/2017,No,No,,Yes,Nightmares,Moderate,4/15/2017,Yes,,Dry mouth saliva stimulator,Moderate,4/15/2017,Yes,,Headache,Mild,4/15/2017,Yes,,,,,,,,,,,,Complete
+UT10020,UT,Baseline (Arm 1: Baseline and Ongoing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Incomplete
+UT10021,UT,Baseline (Arm 1: Baseline and Ongoing),11/1/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10022,UT,Baseline (Arm 1: Baseline and Ongoing),11/2/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10023,UT,Baseline (Arm 1: Baseline and Ongoing),11/6/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10024,UT,Baseline (Arm 1: Baseline and Ongoing),11/8/2017,No,No,,Yes,Weight gain,Mild,9/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10025,UT,Baseline (Arm 1: Baseline and Ongoing),11/14/2017,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2007,Yes,,Incomplete urination,Mild,11/14/2016,Yes,,,,,,,,,,,,,,,,,Complete
+UT10026,UT,Baseline (Arm 1: Baseline and Ongoing),11/15/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10027,UT,Baseline (Arm 1: Baseline and Ongoing),11/17/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10028,UT,Baseline (Arm 1: Baseline and Ongoing),11/30/2017,No,No,,Yes,Diarrhea,Moderate,6/15/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10029,UT,Baseline (Arm 1: Baseline and Ongoing),12/1/2017,Yes,Yes,#NAME?,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10031,UT,Baseline (Arm 1: Baseline and Ongoing),12/6/2017,No,No,,Yes,Fatigue,Moderate,6/15/2017,Yes,,Tremor,Mild,6/15/2017,Yes,,,Mild,,,,Insomnia,Severe,11/1/2017,Yes,,,,,,,Complete
+UT10032,UT,Baseline (Arm 1: Baseline and Ongoing),12/6/2017,No,No,,Yes,Fatigue,,10/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10033,UT,Baseline (Arm 1: Baseline and Ongoing),12/7/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10034,UT,Baseline (Arm 1: Baseline and Ongoing),12/11/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10035,UT,Baseline (Arm 1: Baseline and Ongoing),12/13/2017,Yes,No,Concerns about the medication side effects.,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10036,UT,Baseline (Arm 1: Baseline and Ongoing),1/3/2018,Yes,No,Concerns about side effects. ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10037,UT,Baseline (Arm 1: Baseline and Ongoing),1/5/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10038,UT,Baseline (Arm 1: Baseline and Ongoing),1/5/2018,No,No,,Yes,Constipation,Mild,11/15/2017,Yes,,Dry mouth saliva stimulator,Mild,11/15/2017,Yes,,Impairment level of vision,Mild,6/15/2017,Yes,,,,,,,,,,,,Complete
+UT10039,UT,Baseline (Arm 1: Baseline and Ongoing),1/8/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10041,UT,Baseline (Arm 1: Baseline and Ongoing),1/19/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10042,UT,Baseline (Arm 1: Baseline and Ongoing),1/30/2018,No,No,,Yes,Dizziness,Mild,12/15/2017,Yes,,Aptyalism,Mild,12/15/2017,Yes,,,,,,,,,,,,,,,,,Complete
+UT10043,UT,Baseline (Arm 1: Baseline and Ongoing),1/31/2018,Yes,No,Some concerns about restlessness as she has anxiety. ,Yes,Weight gain,Mild,1/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10044,UT,Baseline (Arm 1: Baseline and Ongoing),2/7/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10045,UT,Baseline (Arm 1: Baseline and Ongoing),2/8/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,9/6/2017,Yes,,Dizziness,Moderate,9/6/2017,Yes,,Headache clinic,Moderate,9/6/2017,Yes,,,,,,,,,,,,Incomplete
+UT10046,UT,Baseline (Arm 1: Baseline and Ongoing),2/14/2018,No,No,,Yes,Constipation,Mild,10/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10047,UT,Baseline (Arm 1: Baseline and Ongoing),2/15/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10048,UT,Baseline (Arm 1: Baseline and Ongoing),2/27/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10051,UT,Baseline (Arm 1: Baseline and Ongoing),3/6/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10052,UT,Baseline (Arm 1: Baseline and Ongoing),3/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10053,UT,Baseline (Arm 1: Baseline and Ongoing),3/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10054,UT,Baseline (Arm 1: Baseline and Ongoing),3/19/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10055,UT,Baseline (Arm 1: Baseline and Ongoing),3/22/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10056,UT,Baseline (Arm 1: Baseline and Ongoing),3/23/2018,Yes,No,Unsure if the medications will be effective and if she will gain weight on the medications ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10057,UT,Baseline (Arm 1: Baseline and Ongoing),4/4/2018,Yes,No,Believes she may have difficulties with taking the medications if she has side effects.,Yes,Headache,Moderate,9/4/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10058,UT,Baseline (Arm 1: Baseline and Ongoing),4/4/2018,No,Yes,"Concerns about heart conditions. Spoke on rarity of related side effects, and that likely side effects of current meds, and heart has been checked/being monitored and is doing fine.",Yes,Tremor,Moderate,4/4/2017,Yes,,Dizziness,Severe,10/18/2003,Yes,,,,,,,,,,,,,,,,,Complete
+UT10059,UT,Baseline (Arm 1: Baseline and Ongoing),4/4/2018,No,Yes,Has forgotten to take medication in the past but this has only happened once last year ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10060,UT,Baseline (Arm 1: Baseline and Ongoing),4/5/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10061,UT,Baseline (Arm 1: Baseline and Ongoing),4/12/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10062,UT,Baseline (Arm 1: Baseline and Ongoing),4/26/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10063,UT,Baseline (Arm 1: Baseline and Ongoing),5/3/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10066,UT,Baseline (Arm 1: Baseline and Ongoing),5/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10067,UT,Baseline (Arm 1: Baseline and Ongoing),5/16/2018,No,No,,Yes,Weight gain,Moderate,6/15/2015,Yes,,Lightheadedness,Moderate,6/15/2015,Yes,,Restless legs,Moderate,6/15/2015,Yes,,,,,Yes,,,,,,,Complete
+UT10068,UT,Baseline (Arm 1: Baseline and Ongoing),5/18/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10069,UT,Baseline (Arm 1: Baseline and Ongoing),5/31/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10070,UT,Baseline (Arm 1: Baseline and Ongoing),6/4/2018,No,No,,Yes,Tremor,Moderate,6/15/2016,Yes,,Anxiety about shaking,Moderate,6/15/2016,Yes,,Constipation,Moderate,6/15/2010,Yes,,Infrequent urination,Moderate,6/15/2016,Yes,,Clouded consciousness,Moderate,6/15/2016,Yes,,Complete
+UT10071,UT,Baseline (Arm 1: Baseline and Ongoing),6/13/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10072,UT,Baseline (Arm 1: Baseline and Ongoing),6/25/2018,No,Yes,Some trouble forgetting to take medications currently. This happens for medications that she takes multiple times a day. Encouraged her take medication in the morning during her routine,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10073,UT,Baseline (Arm 1: Baseline and Ongoing),7/4/2018,No,No,,Yes,Weight gain,Moderate,3/15/2017,Yes,,Memory function,Moderate,3/15/2017,Yes,,Lethargy,Moderate,3/15/2017,Yes,,,,,,,,,,,,Complete
+UT10074,UT,Baseline (Arm 1: Baseline and Ongoing),7/5/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10075,UT,Baseline (Arm 1: Baseline and Ongoing),7/5/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10076,UT,Baseline (Arm 1: Baseline and Ongoing),7/6/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10077,UT,Baseline (Arm 1: Baseline and Ongoing),7/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10078,UT,Baseline (Arm 1: Baseline and Ongoing),7/13/2018,No,Yes,If patient experienced nausea (had extreme nausea with sertraline in past). Patient advised to notify RA and/or study physician if she began to notice extreme nausea (or any other intolerable side effects). Patient agreed. ,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10079,UT,Baseline (Arm 1: Baseline and Ongoing),7/24/2018,No,No,,Yes,Decrease in appetite,Moderate,7/24/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10080,UT,Baseline (Arm 1: Baseline and Ongoing),8/13/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10081,UT,Baseline (Arm 1: Baseline and Ongoing),8/22/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10082,UT,Baseline (Arm 1: Baseline and Ongoing),8/23/2018,No,No,,Yes,Dry tongue,Mild,7/15/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Incomplete
+UT10083,UT,Baseline (Arm 1: Baseline and Ongoing),9/25/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10084,UT,Baseline (Arm 1: Baseline and Ongoing),10/25/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10085,UT,Baseline (Arm 1: Baseline and Ongoing),10/31/2018,No,No,,Yes,,Moderate,6/15/2012,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10086,UT,Baseline (Arm 1: Baseline and Ongoing),11/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10087,UT,Baseline (Arm 1: Baseline and Ongoing),12/4/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10088,UT,Baseline (Arm 1: Baseline and Ongoing),12/10/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10089,UT,Baseline (Arm 1: Baseline and Ongoing),12/17/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10090,UT,Baseline (Arm 1: Baseline and Ongoing),1/8/2019,No,No,,Yes,Constipation,Mild,6/15/2015,Yes,,Dry mouth saliva stimulator,Mild,6/15/2015,Yes,,Lightheadedness,Mild,6/15/2015,,,,,,Yes,,,,,,,Complete
+UT10091,UT,Baseline (Arm 1: Baseline and Ongoing),1/11/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10092,UT,Baseline (Arm 1: Baseline and Ongoing),1/24/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10093,UT,Baseline (Arm 1: Baseline and Ongoing),1/22/2019,No,Yes,If it irritates stomach like past medication.,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10094,UT,Baseline (Arm 1: Baseline and Ongoing),1/24/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10095,UT,Baseline (Arm 1: Baseline and Ongoing),2/25/2019,Yes,No,"Participant reports that he has had side effects from multiple antidepressants and if he has side effects, he will not take the antidepressants daily. ",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10096,UT,Baseline (Arm 1: Baseline and Ongoing),2/27/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10097,UT,Baseline (Arm 1: Baseline and Ongoing),3/12/2019,No,No,,Yes,Decrease in appetite,Mild,8/15/2018,Yes,,Weight gain,Mild,8/15/2018,Yes,,,,,,,,,,,,,,,,,Complete
+UT10098,UT,Baseline (Arm 1: Baseline and Ongoing),3/15/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10099,UT,Baseline (Arm 1: Baseline and Ongoing),3/15/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10100,UT,Baseline (Arm 1: Baseline and Ongoing),4/5/2019,No,No,,Yes,Dizzy spells,Mild,6/15/2018,Yes,,Drowsy,Mild,6/15/2018,Yes,,,,,,,,,,,,,,,,,Complete
+UT10101,UT,Baseline (Arm 1: Baseline and Ongoing),4/9/2019,No,Yes,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10102,UT,Baseline (Arm 1: Baseline and Ongoing),4/18/2019,No,No,,Yes,Headache,Severe,11/15/2018,Yes,,Slow,Moderate,6/15/2017,Yes,,Unable to concentrate,Mild,,Yes,,Taste sense altered,Mild,11/15/2018,Yes,,,,,,,Complete
+UT10103,UT,Baseline (Arm 1: Baseline and Ongoing),5/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10104,UT,Baseline (Arm 1: Baseline and Ongoing),5/24/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10105,UT,Baseline (Arm 1: Baseline and Ongoing),5/23/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10106,UT,Baseline (Arm 1: Baseline and Ongoing),5/24/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10107,UT,Baseline (Arm 1: Baseline and Ongoing),5/30/2019,Yes,No,"Feel lazy sometimes and feel like nothing helps, so it happens sometimes that I don't want to take my medication. Rare.  ",Yes,Stomach cramps,Moderate,1/15/2019,Yes,,Decrease in appetite,Severe,5/15/2018,Yes,,,,,,,,,,,,,,,,,Complete
+UT10108,UT,Baseline (Arm 1: Baseline and Ongoing),6/3/2019,No,No,,Yes,O/E - anxious,Moderate,5/1/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10109,UT,Baseline (Arm 1: Baseline and Ongoing),6/5/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10111,UT,Baseline (Arm 1: Baseline and Ongoing),6/20/2019,No,No,,Yes,Night sweats,Moderate,4/15/2019,Yes,,Irregular breathing,Moderate,4/15/2019,Yes,,,,,,,,,,,,,,,,,Complete
+UT10113,UT,Baseline (Arm 1: Baseline and Ongoing),6/28/2019,No,No,,Yes,Insomnia,Moderate,6/28/2012,Yes,,Loss of hair,Moderate,6/28/2016,Yes,,,,,,,,,,,,,,,,,Complete
+UT10114,UT,Baseline (Arm 1: Baseline and Ongoing),6/28/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10115,UT,Baseline (Arm 1: Baseline and Ongoing),7/18/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10116,UT,Baseline (Arm 1: Baseline and Ongoing),7/29/2019,No,No,,Yes,Dry tongue,Mild,5/18/2019,Yes,,Sexual hypesthesia,Mild,5/18/2019,Yes,,,,,,,,,,,,,,,,,Complete
+UT10117,UT,Baseline (Arm 1: Baseline and Ongoing),7/30/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10118,UT,Baseline (Arm 1: Baseline and Ongoing),7/31/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10119,UT,Baseline (Arm 1: Baseline and Ongoing),8/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10120,UT,Baseline (Arm 1: Baseline and Ongoing),8/19/2019,No,No,,Yes,Decrease in appetite,Moderate,7/19/2019,Yes,,Excessive sweating,Mild,7/8/2019,Yes,,,,,,,,,,,,,,,,,Complete
+UT10121,UT,Baseline (Arm 1: Baseline and Ongoing),8/26/2019,No,No,,Yes,Diarrhea,Mild,6/15/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10122,UT,Baseline (Arm 1: Baseline and Ongoing),9/18/2019,No,No,,Yes,Diarrhea,Moderate,8/26/2019,Yes,,Drowsiness,Moderate,6/15/2009,Yes,,Dizziness,Moderate,6/15/2009,Yes,,,,,,,,,,,,Complete
+UT10123,UT,Baseline (Arm 1: Baseline and Ongoing),9/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10124,UT,Baseline (Arm 1: Baseline and Ongoing),9/12/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10125,UT,Baseline (Arm 1: Baseline and Ongoing),9/17/2019,Yes,Yes,Side effects might make it difficult for her to keep taking her medications.,Yes,Sense of impending doom,Moderate,9/13/2019,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10126,UT,Baseline (Arm 1: Baseline and Ongoing),9/21/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10127,UT,Baseline (Arm 1: Baseline and Ongoing),9/26/2019,No,No,,Yes,Weight gain,Mild,9/15/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10128,UT,Baseline (Arm 1: Baseline and Ongoing),10/4/2019,No,No,,Yes,Pain,Severe,9/30/2018,No,10/28/2019,Constipation,Moderate,9/30/2018,Yes,,Sleep,Severe,8/15/2019,No,10/28/2019,Nausea,Mild,9/30/2018,Yes,,,,,,,Complete
+UT10129,UT,Baseline (Arm 1: Baseline and Ongoing),10/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10130,UT,Baseline (Arm 1: Baseline and Ongoing),10/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10132,UT,Baseline (Arm 1: Baseline and Ongoing),10/22/2019,No,No,,Yes,Dry cough,Mild,1/1/2017,Yes,,Feeling faint,Severe,6/1/2017,No,10/29/2019,Distress,Severe,8/1/2018,No,7/15/2019,Headache,Mild,11/1/2019,Yes,,,,,,,Complete
+UT10134,UT,Baseline (Arm 1: Baseline and Ongoing),10/28/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10135,UT,Baseline (Arm 1: Baseline and Ongoing),11/7/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10136,UT,Baseline (Arm 1: Baseline and Ongoing),11/21/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10137,UT,Baseline (Arm 1: Baseline and Ongoing),11/28/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10141,UT,Baseline (Arm 1: Baseline and Ongoing),12/13/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10142,UT,Baseline (Arm 1: Baseline and Ongoing),12/17/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10143,UT,Baseline (Arm 1: Baseline and Ongoing),1/2/2020,No,No,,Yes,Poor short-term memory,Mild,,Yes,,Poor long-term memory,Mild,,Yes,,,,,,,,,,,,,,,,,Complete
+UT10144,UT,Baseline (Arm 1: Baseline and Ongoing),1/3/2020,No,No,,Yes,,Moderate,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10145,UT,Baseline (Arm 1: Baseline and Ongoing),1/6/2020,No,No,,Yes,Nightmares,,11/15/2019,No,2/7/2020,Paralysis,,11/15/2019,No,2/7/2020,Weight gain,,11/15/2019,No,2/7/2020,Bloating symptom,,11/15/2019,No,3/10/2020,,,,Yes,,Complete
+UT10146,UT,Baseline (Arm 1: Baseline and Ongoing),1/3/2020,No,No,,Yes,Aptyalism,Moderate,11/15/2020,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10147,UT,Baseline (Arm 1: Baseline and Ongoing),1/20/2020,No,No,,Yes,Tremor,,6/15/2011,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10148,UT,Baseline (Arm 1: Baseline and Ongoing),1/13/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10149,UT,Baseline (Arm 1: Baseline and Ongoing),1/16/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10150,UT,Baseline (Arm 1: Baseline and Ongoing),1/27/2020,Yes,Yes,side effects,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+UT10151,UT,Baseline (Arm 1: Baseline and Ongoing),1/22/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10001,WU,Baseline (Arm 1: Baseline and Ongoing),3/9/2017,No,No,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10002,WU,Baseline (Arm 1: Baseline and Ongoing),3/16/2017,Yes,No,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10003,WU,Baseline (Arm 1: Baseline and Ongoing),3/31/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10004,WU,Baseline (Arm 1: Baseline and Ongoing),,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10005,WU,Baseline (Arm 1: Baseline and Ongoing),5/1/2017,No,Yes,Prefers to take medication one time per day so he's able to remember it.,Yes,Jittery newborn,Mild,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10006,WU,Baseline (Arm 1: Baseline and Ongoing),5/2/2017,No,No,,Yes,Dry mouth saliva stimulator,Mild,3/1/2017,Yes,,Diarrhea,Mild,5/1/2016,Yes,,,,,,,,,,,,,,,,,Complete
+wu10007,WU,Baseline (Arm 1: Baseline and Ongoing),5/11/2017,No,No,,Yes,Acute drug intoxication,Mild,,No,4/26/2017,Weight loss,Mild,,No,4/26/2017,,,,,,,,,,,,,,,,Complete
+WU10008,WU,Baseline (Arm 1: Baseline and Ongoing),,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10009,WU,Baseline (Arm 1: Baseline and Ongoing),5/17/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10010,WU,Baseline (Arm 1: Baseline and Ongoing),,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10012,WU,Baseline (Arm 1: Baseline and Ongoing),7/7/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10013,WU,Baseline (Arm 1: Baseline and Ongoing),7/6/2017,No,Yes,May forget med planner if she goes to babysit her niece.,Yes,Dry mouth saliva stimulator,Mild,1/1/2014,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10014,WU,Baseline (Arm 1: Baseline and Ongoing),6/29/2017,Yes,Yes,"Yes, if there are significant side effects.",Yes,Depressive disorder,Mild,6/19/2017,Yes,,Hot flash due to medication,Mild,6/22/2017,Yes,,Down,Mild,6/22/2017,Yes,,,,,,,,,,,,Complete
+WU10015,WU,Baseline (Arm 1: Baseline and Ongoing),6/27/2017,Yes,No,"'If they're not SSRI's then yes. I may have a problem taking them, but we don't know.'",Yes,Tremor,Mild,1/1/2004,No,7/4/2017,Headache,Mild,1/1/2004,Yes,,Constipation,,6/1/2014,Yes,,,,,,,,,,,,Complete
+WU10016,WU,Baseline (Arm 1: Baseline and Ongoing),,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10017,WU,Baseline (Arm 1: Baseline and Ongoing),7/24/2017,No,Yes,'If I got so tired that I couldn't go to work or concentrate at work.',No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10018,WU,Baseline (Arm 1: Baseline and Ongoing),7/12/2017,No,No,,Yes,Jittery newborn,Mild,1/1/2017,No,1/15/2017,,,,,,,,,,,,,,,,,,,,,Complete
+WU10020,WU,Baseline (Arm 1: Baseline and Ongoing),7/26/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10021,WU,Baseline (Arm 1: Baseline and Ongoing),7/31/2017,No,Yes,'Only if I have reservations or side effects.',No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10022,WU,Baseline (Arm 1: Baseline and Ongoing),7/27/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10023,WU,Baseline (Arm 1: Baseline and Ongoing),8/30/2017,No,No,,Yes,Insomnia,Moderate,8/3/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10024,WU,Baseline (Arm 1: Baseline and Ongoing),8/2/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10025,WU,Baseline (Arm 1: Baseline and Ongoing),8/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10026,WU,Baseline (Arm 1: Baseline and Ongoing),8/24/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10027,WU,Baseline (Arm 1: Baseline and Ongoing),8/3/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10028,WU,Baseline (Arm 1: Baseline and Ongoing),8/22/2017,No,No,,Yes,Tremor,Moderate,1/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10029,WU,Baseline (Arm 1: Baseline and Ongoing),9/12/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10030,WU,Baseline (Arm 1: Baseline and Ongoing),9/8/2017,No,No,,Yes,,Moderate,7/1/2016,Yes,,Sweating,Mild,8/1/2008,Yes,,,,,,,,,,,,,,,,,Complete
+WU10031,WU,Baseline (Arm 1: Baseline and Ongoing),9/14/2017,No,No,,Yes,Lightheadedness,Moderate,9/14/2017,Yes,,Dry mouth saliva stimulator,Moderate,1/1/1997,Yes,,Constipation,Mild,1/1/1977,Yes,,,,,,,,,,,,Complete
+WU10032,WU,Baseline (Arm 1: Baseline and Ongoing),9/18/2017,No,No,,Yes,Drowsiness,Mild,1/1/2013,Yes,,Dizziness,Mild,1/1/2013,Yes,,,,,,,,,,,,,,,,,Complete
+wu10033,WU,Baseline (Arm 1: Baseline and Ongoing),9/29/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10034,WU,Baseline (Arm 1: Baseline and Ongoing),10/3/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10035,WU,Baseline (Arm 1: Baseline and Ongoing),10/6/2017,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/1998,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10036,WU,Baseline (Arm 1: Baseline and Ongoing),10/9/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10037,WU,Baseline (Arm 1: Baseline and Ongoing),10/16/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10038,WU,Baseline (Arm 1: Baseline and Ongoing),10/11/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10039,WU,Baseline (Arm 1: Baseline and Ongoing),10/17/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10040,WU,Baseline (Arm 1: Baseline and Ongoing),10/24/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10041,WU,Baseline (Arm 1: Baseline and Ongoing),10/25/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10042,WU,Baseline (Arm 1: Baseline and Ongoing),10/26/2017,No,No,,Yes,Excessive sweating,Mild,4/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10043,WU,Baseline (Arm 1: Baseline and Ongoing),11/10/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10044,WU,Baseline (Arm 1: Baseline and Ongoing),11/2/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10046,WU,Baseline (Arm 1: Baseline and Ongoing),11/6/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10048,WU,Baseline (Arm 1: Baseline and Ongoing),11/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10049,WU,Baseline (Arm 1: Baseline and Ongoing),11/29/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10050,WU,Baseline (Arm 1: Baseline and Ongoing),11/10/2017,No,No,,Yes,Dry eyes,Moderate,10/1/2017,Yes,,Dry mouth saliva stimulator,Mild,10/1/2017,Yes,,,,,,,,,,,,,,,,,Complete
+wu10051,WU,Baseline (Arm 1: Baseline and Ongoing),11/20/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10053,WU,Baseline (Arm 1: Baseline and Ongoing),11/28/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10054,WU,Baseline (Arm 1: Baseline and Ongoing),11/29/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10055,WU,Baseline (Arm 1: Baseline and Ongoing),11/30/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10056,WU,Baseline (Arm 1: Baseline and Ongoing),12/7/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10057,WU,Baseline (Arm 1: Baseline and Ongoing),12/14/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10058,WU,Baseline (Arm 1: Baseline and Ongoing),12/4/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10059,WU,Baseline (Arm 1: Baseline and Ongoing),12/18/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10060,WU,Baseline (Arm 1: Baseline and Ongoing),12/19/2017,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10061,WU,Baseline (Arm 1: Baseline and Ongoing),12/27/2017,No,Yes,"If have difficulty tolerating, otherwise have medication routine ",Yes,Nausea,Moderate,6/27/2017,Yes,,Diarrhea,Severe,1/15/2016,Yes,,Headache,Moderate,6/15/2005,Yes,,Dry mouth saliva stimulator,Mild,6/15/2011,Yes,,Nerve injury,Moderate,6/15/2011,Yes,,Complete
+WU10062,WU,Baseline (Arm 1: Baseline and Ongoing),1/9/2018,No,No,,Yes,blurry vision,Mild,1/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10063,WU,Baseline (Arm 1: Baseline and Ongoing),1/17/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2015,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10064,WU,Baseline (Arm 1: Baseline and Ongoing),1/18/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10065,WU,Baseline (Arm 1: Baseline and Ongoing),1/26/2018,No,No,,Yes,Upset stomach,Moderate,1/1/2016,Yes,,Headache,Mild,7/1/2017,Yes,,,,,,,,,,,,,,,,,Complete
+wu10066,WU,Baseline (Arm 1: Baseline and Ongoing),1/29/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10068,WU,Baseline (Arm 1: Baseline and Ongoing),2/8/2018,No,Yes,"Weekends are harder to remember, get distracted and do other stuff.",Yes,Weight gain,Moderate,1/1/1985,Yes,,Libido,Moderate,2/1/2016,Yes,,,,,,,,,,,,,,,,,Complete
+wu10069,WU,Baseline (Arm 1: Baseline and Ongoing),2/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10070,WU,Baseline (Arm 1: Baseline and Ongoing),2/22/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10071,WU,Baseline (Arm 1: Baseline and Ongoing),3/28/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10072,WU,Baseline (Arm 1: Baseline and Ongoing),3/1/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10073,WU,Baseline (Arm 1: Baseline and Ongoing),3/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10074,WU,Baseline (Arm 1: Baseline and Ongoing),3/16/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10075,WU,Baseline (Arm 1: Baseline and Ongoing),4/12/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10076,WU,Baseline (Arm 1: Baseline and Ongoing),4/18/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10077,WU,Baseline (Arm 1: Baseline and Ongoing),4/25/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10080,WU,Baseline (Arm 1: Baseline and Ongoing),5/3/2018,No,No,,Yes,Dry mouth saliva stimulator,Moderate,1/1/2011,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10083,WU,Baseline (Arm 1: Baseline and Ongoing),5/8/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2011,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+Wu10084,WU,Baseline (Arm 1: Baseline and Ongoing),5/10/2018,No,No,,Yes,Always sleepy,Moderate,4/24/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10085,WU,Baseline (Arm 1: Baseline and Ongoing),5/30/2018,No,No,,Yes,Dizziness,Mild,5/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10086,WU,Baseline (Arm 1: Baseline and Ongoing),5/22/2018,No,No,,Yes,Neck pain,Mild,4/24/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10087,WU,Baseline (Arm 1: Baseline and Ongoing),5/23/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2013,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10088,WU,Baseline (Arm 1: Baseline and Ongoing),5/29/2018,No,No,,Yes,Fatigue,Moderate,6/15/1998,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10089,WU,Baseline (Arm 1: Baseline and Ongoing),5/30/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10090,WU,Baseline (Arm 1: Baseline and Ongoing),6/6/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10091,WU,Baseline (Arm 1: Baseline and Ongoing),6/12/2018,No,No,,Yes,Weight gain,Mild,6/15/2017,No,6/12/2018,Dizziness,Mild,4/11/2018,Yes,,,,,,,,,,,,,,,,,Complete
+WU10092,WU,Baseline (Arm 1: Baseline and Ongoing),6/13/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10093,WU,Baseline (Arm 1: Baseline and Ongoing),6/26/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10094,WU,Baseline (Arm 1: Baseline and Ongoing),6/27/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10095,WU,Baseline (Arm 1: Baseline and Ongoing),6/29/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,6/15/2016,Yes,,C/O - vivid dreams,Mild,6/15/2016,Yes,,,,,,,,,,,,,,,,,Complete
+wu10096,WU,Baseline (Arm 1: Baseline and Ongoing),7/3/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10097,WU,Baseline (Arm 1: Baseline and Ongoing),8/2/2018,No,No,,Yes,Insomnia,Moderate,7/1/2016,Yes,,Weight gain,Moderate,7/1/2015,Yes,,Feeling irritable,Mild,7/15/2018,Yes,,,,,,,,,,,,Complete
+WU10098,WU,Baseline (Arm 1: Baseline and Ongoing),7/10/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10099,WU,Baseline (Arm 1: Baseline and Ongoing),8/1/2018,No,No,,Yes,Dry mouth saliva stimulator,Moderate,6/15/2012,Yes,,Dry eyes,Moderate,6/15/2012,Yes,,,,,,,,,,,,,,,,,Complete
+wu10100,WU,Baseline (Arm 1: Baseline and Ongoing),7/13/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10101,WU,Baseline (Arm 1: Baseline and Ongoing),7/27/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10102,WU,Baseline (Arm 1: Baseline and Ongoing),8/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10103,WU,Baseline (Arm 1: Baseline and Ongoing),8/13/2018,No,No,,Yes,Hypoglycemic disorder,Mild,1/1/2015,No,8/3/2018,,,,,,,,,,,,,,,,,,,,,Complete
+wu10104,WU,Baseline (Arm 1: Baseline and Ongoing),8/15/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10105,WU,Baseline (Arm 1: Baseline and Ongoing),8/23/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10106,WU,Baseline (Arm 1: Baseline and Ongoing),8/20/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10107,WU,Baseline (Arm 1: Baseline and Ongoing),11/6/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10108,WU,Baseline (Arm 1: Baseline and Ongoing),8/27/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10110,WU,Baseline (Arm 1: Baseline and Ongoing),9/13/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10111,WU,Baseline (Arm 1: Baseline and Ongoing),9/14/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10112,WU,Baseline (Arm 1: Baseline and Ongoing),9/17/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10113,WU,Baseline (Arm 1: Baseline and Ongoing),9/28/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10114,WU,Baseline (Arm 1: Baseline and Ongoing),10/9/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10115,WU,Baseline (Arm 1: Baseline and Ongoing),10/11/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10116,WU,Baseline (Arm 1: Baseline and Ongoing),10/19/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10117,WU,Baseline (Arm 1: Baseline and Ongoing),10/24/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10118,WU,Baseline (Arm 1: Baseline and Ongoing),10/31/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10119,WU,Baseline (Arm 1: Baseline and Ongoing),11/8/2018,No,No,,Yes,Dry mouth saliva stimulator,Mild,11/1/2016,Yes,,Dizziness,Moderate,11/1/2015,Yes,,,,,,,,,,,,,,,,,Complete
+WU10120,WU,Baseline (Arm 1: Baseline and Ongoing),11/9/2018,No,No,,Yes,Drowsiness,Moderate,10/23/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10121,WU,Baseline (Arm 1: Baseline and Ongoing),11/26/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10122,WU,Baseline (Arm 1: Baseline and Ongoing),11/28/2018,No,No,,Yes,Aptyalism,Moderate,11/1/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10123,WU,Baseline (Arm 1: Baseline and Ongoing),12/21/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10124,WU,Baseline (Arm 1: Baseline and Ongoing),11/30/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10125,WU,Baseline (Arm 1: Baseline and Ongoing),12/11/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10126,WU,Baseline (Arm 1: Baseline and Ongoing),12/13/2018,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+wu10127,WU,Baseline (Arm 1: Baseline and Ongoing),12/14/2018,No,No,,Yes,Restlessness,Mild,11/1/2018,Yes,,Frequent night waking,Moderate,12/1/2017,Yes,,,,,,,,,,,,,,,,,Complete
+wu10128,WU,Baseline (Arm 1: Baseline and Ongoing),1/23/2019,No,No,,Yes,Nausea,Moderate,1/9/2019,Yes,,Anxiety,Moderate,1/9/2019,Yes,,Sleep-wake schedule disorder,Moderate,1/1/2017,Yes,,,,,,,,,,,,Complete
+WU10130,WU,Baseline (Arm 1: Baseline and Ongoing),2/14/2019,No,No,,Yes,Dry mouth saliva stimulator,Moderate,2/1/2000,Yes,,Constipation,Mild,2/14/2019,Yes,,,,,,,,,,,,,,,,,Complete
+WU10131,WU,Baseline (Arm 1: Baseline and Ongoing),2/27/2019,No,No,,Yes,Dry mouth saliva stimulator,Moderate,6/15/2014,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10132,WU,Baseline (Arm 1: Baseline and Ongoing),2/15/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10133,WU,Baseline (Arm 1: Baseline and Ongoing),2/18/2019,No,No,,Yes,Dry mouth saliva stimulator,,12/1/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10134,WU,Baseline (Arm 1: Baseline and Ongoing),9/5/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10135,WU,Baseline (Arm 1: Baseline and Ongoing),3/5/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10136,WU,Baseline (Arm 1: Baseline and Ongoing),3/8/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10137,WU,Baseline (Arm 1: Baseline and Ongoing),3/13/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10138,WU,Baseline (Arm 1: Baseline and Ongoing),4/15/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10139,WU,Baseline (Arm 1: Baseline and Ongoing),4/2/2019,No,No,,Yes,Dry mouth saliva stimulator,Moderate,4/1/2000,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10140,WU,Baseline (Arm 1: Baseline and Ongoing),4/4/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10141,WU,Baseline (Arm 1: Baseline and Ongoing),4/3/2019,No,No,,Yes,Dry mouth saliva stimulator,Severe,4/1/2010,Yes,,Abdominal bloating,Moderate,3/1/2010,Yes,,Fatigue,Moderate,4/1/2017,Yes,,,,,,,,,,,,Complete
+WU10143,WU,Baseline (Arm 1: Baseline and Ongoing),4/18/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10144,WU,Baseline (Arm 1: Baseline and Ongoing),4/23/2019,No,No,,Yes,Dry mouth saliva stimulator,Moderate,4/1/2016,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10145,WU,Baseline (Arm 1: Baseline and Ongoing),4/25/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10146,WU,Baseline (Arm 1: Baseline and Ongoing),5/10/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10147,WU,Baseline (Arm 1: Baseline and Ongoing),6/4/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10149,WU,Baseline (Arm 1: Baseline and Ongoing),6/7/2019,No,No,,Yes,Aptyalism,Severe,4/26/2019,Yes,,Initial insomnia,Moderate,4/26/2019,Yes,,Muscle weakness,Moderate,3/1/2019,Yes,,Forgetful,Moderate,3/25/2019,Yes,,,,,,,Complete
+WU10150,WU,Baseline (Arm 1: Baseline and Ongoing),7/30/2019,No,No,,Yes,Neuropathy,Moderate,6/15/2008,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10151,WU,Baseline (Arm 1: Baseline and Ongoing),7/17/2019,No,No,,Yes,Generalized aches and pains,Mild,7/1/2017,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10152,WU,Baseline (Arm 1: Baseline and Ongoing),8/7/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10153,WU,Baseline (Arm 1: Baseline and Ongoing),8/7/2019,No,Yes,"If it makes me sleepy, I may have difficulty remembering to take it.",No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10154,WU,Baseline (Arm 1: Baseline and Ongoing),8/20/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10155,WU,Baseline (Arm 1: Baseline and Ongoing),8/5/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10156,WU,Baseline (Arm 1: Baseline and Ongoing),8/13/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10157,WU,Baseline (Arm 1: Baseline and Ongoing),8/9/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10158,WU,Baseline (Arm 1: Baseline and Ongoing),8/14/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10159,WU,Baseline (Arm 1: Baseline and Ongoing),8/15/2019,No,Yes,Not good at taking meds but got a pill organizer that helps,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10161,WU,Baseline (Arm 1: Baseline and Ongoing),9/12/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10162,WU,Baseline (Arm 1: Baseline and Ongoing),9/19/2019,No,No,,Yes,Headache,Mild,9/5/2019,Yes,,Irritability and anger,Moderate,9/5/2019,Yes,,,,,,,,,,,,,,,,,Complete
+WU10163,WU,Baseline (Arm 1: Baseline and Ongoing),9/9/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10164,WU,Baseline (Arm 1: Baseline and Ongoing),9/12/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10165,WU,Baseline (Arm 1: Baseline and Ongoing),10/7/2019,No,No,,Yes,Constipation,Moderate,4/1/2019,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10166,WU,Baseline (Arm 1: Baseline and Ongoing),10/17/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10167,WU,Baseline (Arm 1: Baseline and Ongoing),10/15/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10168,WU,Baseline (Arm 1: Baseline and Ongoing),10/16/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10169,WU,Baseline (Arm 1: Baseline and Ongoing),11/7/2019,No,No,,Yes,Constipation,Mild,5/16/2016,No,11/1/2019,,,,,,,,,,,,,,,,,,,,,Complete
+WU10172,WU,Baseline (Arm 1: Baseline and Ongoing),11/5/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10174,WU,Baseline (Arm 1: Baseline and Ongoing),11/7/2019,No,No,,Yes,Sedation,Severe,11/1/2018,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10175,WU,Baseline (Arm 1: Baseline and Ongoing),12/5/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10177,WU,Baseline (Arm 1: Baseline and Ongoing),11/15/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10178,WU,Baseline (Arm 1: Baseline and Ongoing),12/9/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10180,WU,Baseline (Arm 1: Baseline and Ongoing),12/6/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10181,WU,Baseline (Arm 1: Baseline and Ongoing),11/26/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10182,WU,Baseline (Arm 1: Baseline and Ongoing),12/18/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10183,WU,Baseline (Arm 1: Baseline and Ongoing),1/14/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10184,WU,Baseline (Arm 1: Baseline and Ongoing),1/23/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10186,WU,Baseline (Arm 1: Baseline and Ongoing),1/9/2020,No,No,,Yes,Constipation,Mild,3/1/2000,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10187,WU,Baseline (Arm 1: Baseline and Ongoing),1/24/2020,No,No,,Yes,,Mild,1/24/2020,No,1/24/2020,,,,,,,,,,,,,,,,,,,,,Complete
+WU10188,WU,Baseline (Arm 1: Baseline and Ongoing),1/6/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10189,WU,Baseline (Arm 1: Baseline and Ongoing),1/10/2020,No,No,,Yes,Dizziness,Moderate,7/10/2019,Yes,,Headache,Mild,7/10/2019,Yes,,,,,,,,,,,,,,,,,Complete
+WU10190,WU,Baseline (Arm 1: Baseline and Ongoing),12/26/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10192,WU,Baseline (Arm 1: Baseline and Ongoing),12/27/2019,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10193,WU,Baseline (Arm 1: Baseline and Ongoing),1/13/2020,No,No,,Yes,Dry mouth saliva stimulator,Moderate,1/2/2015,Yes,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10194,WU,Baseline (Arm 1: Baseline and Ongoing),1/14/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10195,WU,Baseline (Arm 1: Baseline and Ongoing),1/8/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
+WU10196,WU,Baseline (Arm 1: Baseline and Ongoing),1/28/2020,No,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,Complete
