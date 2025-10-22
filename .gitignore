@@ -22,3 +22,7 @@ log_regression_clin_only_bupropion_model.joblib
 .cache
 log_regression.ipynb
 baard_master_sheet.csv
+.venv/
+temp/
+umlsparser/
+.cache/
